@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+    <item msgid="6450913786084215050">"Զարթուցիչը դրված է այս պահից 1 րոպեից պակաս:"</item>
+    <item msgid="6002066367368421848">"Զարթուցիչը դրված է այս պահից <ns1:g id="DAYS">%1$s</ns1:g> օր անց:"</item>
+    <item msgid="8824719306247973774">"Զարթուցիչը դրված է այս պահից <ns1:g id="HOURS">%2$s</ns1:g> անց:"</item>
+    <item msgid="8182406852935468862">"Զարթուցիչը դրված է այս պահից <ns1:g id="DAYS">%1$s</ns1:g> և <ns1:g id="HOURS">%2$s</ns1:g> անց:"</item>
+    <item msgid="2532279224777213194">"Զարթուցիչը դրված է այս պահից <ns1:g id="MINUTES">%3$s</ns1:g> անց:"</item>
+    <item msgid="5936557894247187717">"Զարթուցիչը դրված է այս պահից <ns1:g id="DAYS">%1$s</ns1:g> և <ns1:g id="MINUTES">%3$s</ns1:g> անց:"</item>
+    <item msgid="9115697840826129603">"Զարթուցիչը դրված է այս պահից <ns1:g id="HOURS">%2$s</ns1:g> և <ns1:g id="MINUTES">%3$s</ns1:g> անց:"</item>
+    <item msgid="2332583385137381060">"Զարթուցիչը դրված է այս պահից <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g> և <ns1:g id="MINUTES">%3$s</ns1:g> անց:"</item>
+  </string-array>
+    <string-array name="auto_silence_entries">
+    <item msgid="3024545954917711306">"1 րոպե"</item>
+    <item msgid="5431906692406316549">"5 րոպե"</item>
+    <item msgid="7742728812068919959">"10 րոպե"</item>
+    <item msgid="2855948657259647629">"15 րոպե"</item>
+    <item msgid="6330196381284475079">"20 րոպե"</item>
+    <item msgid="7809240121716151904">"25 րոպե"</item>
+    <item msgid="4278641338024561333">"Երբեք"</item>
+  </string-array>
+    <string-array name="clock_style_entries">
+    <item msgid="917900462224167608">"Սլաքներով"</item>
+    <item msgid="8483930821046925592">"Թվային"</item>
+  </string-array>
+    <string-array name="crescendo_entries">
+    <item msgid="7435149932182641128">"Անջատված"</item>
+    <item msgid="7195451681426992018">"5 վայրկյան"</item>
+    <item msgid="592917601923801901">"10 վայրկյան"</item>
+    <item msgid="5050318776687582653">"15 վայրկյան"</item>
+    <item msgid="6997726466563948756">"20 վայրկյան"</item>
+    <item msgid="1237360231425097772">"25 վայրկյան"</item>
+    <item msgid="248014374051498284">"30 վայրկյան"</item>
+    <item msgid="6110450211551791852">"35 վայրկյան"</item>
+    <item msgid="8010211657612404516">"40 վայրկյան"</item>
+    <item msgid="3730631498119797451">"45 վայրկյան"</item>
+    <item msgid="623829984393124488">"50 վայրկյան"</item>
+    <item msgid="6390209981529164605">"55 վայրկյան"</item>
+    <item msgid="5261571706794132923">"60 վայրկյան"</item>
+  </string-array>
+    <string-array name="snooze_duration_entries">
+    <item msgid="7668553664977446797">"1 րոպե"</item>
+    <item msgid="4482596794620161030">"2 րոպե"</item>
+    <item msgid="8478276201849960314">"3 րոպե"</item>
+    <item msgid="4038456474851212478">"4 րոպե"</item>
+    <item msgid="6298175579152122770">"5 րոպե"</item>
+    <item msgid="9021860177999278496">"6 րոպե"</item>
+    <item msgid="7224689200902680256">"7 րոպե"</item>
+    <item msgid="4610012663985162123">"8 րոպե"</item>
+    <item msgid="1717028898015659426">"9 րոպե"</item>
+    <item msgid="8058492636464337699">"10 րոպե"</item>
+    <item msgid="577767219993868603">"11 րոպե"</item>
+    <item msgid="3710047869487864775">"12 րոպե"</item>
+    <item msgid="3794200935630619331">"13 րոպե"</item>
+    <item msgid="5462266433522229437">"14 րոպե"</item>
+    <item msgid="2192100038569306041">"15 րոպե"</item>
+    <item msgid="6636326047858437620">"16 րոպե"</item>
+    <item msgid="2481054808772108352">"17 րոպե"</item>
+    <item msgid="4080984064428458050">"18 րոպե"</item>
+    <item msgid="5844319398703041730">"19 րոպե"</item>
+    <item msgid="2334964289857921073">"20 րոպե"</item>
+    <item msgid="4755209855817904977">"21 րոպե"</item>
+    <item msgid="8414394445389367355">"22 րոպե"</item>
+    <item msgid="2604612428763230265">"23 րոպե"</item>
+    <item msgid="6871696471373403806">"24 րոպե"</item>
+    <item msgid="1573685398431466364">"25 րոպե"</item>
+    <item msgid="6999090368236684971">"26 րոպե"</item>
+    <item msgid="7125056720603734703">"27 րոպե"</item>
+    <item msgid="1695830988496463030">"28 րոպե"</item>
+    <item msgid="6706610539793025916">"29 րոպե"</item>
+    <item msgid="2898212818965905529">"30 րոպե"</item>
+  </string-array>
+    <string-array name="sw_share_strings">
+    <item msgid="842841032273927988">"Դուք լրիվ արագության խենթ եք:"</item>
+    <item msgid="6332879039890727169">"Վայելեք ձեր աշխատանքի պտուղները:"</item>
+    <item msgid="815382761274660130">"Ռոբոտները հայտնի են արագությամբ, բայց ոչ այնքան, որքան դու՛ք:"</item>
+    <item msgid="7916250650982813737">"Է՜հ:"</item>
+    <item msgid="6836603904515182333">"Բարձրակարգ արդյունք:"</item>
+    <item msgid="7508085100680861631">"Այսպիսի գերազանց արագություն:"</item>
+    <item msgid="5961245252909589573">"Եկեք նորից ժամանակ սպանենք:"</item>
+    <item msgid="5211891900854545940">"Պարզապես թռիչք դեպի ձախ:"</item>
+    <item msgid="9071353477103826053">"Դուք շտապելու կարիք ունեք:"</item>
+    <item msgid="3785193933691117181">"Լույսի արագություն:"</item>
+  </string-array>
+    <string-array name="timezone_labels">
+    <item msgid="5495601234086197399">"Մարշալյան Կղզիներ"</item>
+    <item msgid="4196408495909011020">"Միդուեյ Կղզիներ"</item>
+    <item msgid="1414384194857730006">"Հավայի"</item>
+    <item msgid="2687091371581931926">"Ալյասկա"</item>
+    <item msgid="1922100269679049660">"Խաղաղօվկիանոսյան ժամանակ"</item>
+    <item msgid="7156402158716866161">"Տիժուանա"</item>
+    <item msgid="1144117502254612241">"Արիզոնա"</item>
+    <item msgid="101284182011722637">"Չիհուահուա"</item>
+    <item msgid="689121094232986897">"Լեռնային ժամանակ"</item>
+    <item msgid="5445331923942302756">"Կենտրոնական Ամերիկա"</item>
+    <item msgid="2749806434052452351">"Կենտրոնական ժամանակ"</item>
+    <item msgid="3997138870229703753">"Մեխիկո Սիթի"</item>
+    <item msgid="5425567073027744888">"Սասկաչևան"</item>
+    <item msgid="2877342865396629368">"Բոգոտա"</item>
+    <item msgid="568682398893899670">"Արևելյան ժամանակ"</item>
+    <item msgid="668135984541863866">"Վենեսուելա"</item>
+    <item msgid="3737474220861486223">"Ատլանտյան ժամանակ (Բարբադոս)"</item>
+    <item msgid="6279116051273436870">"Ատլանտյան ժամանակ (Կանադա)"</item>
+    <item msgid="8513382867172014244">"Մանաուս"</item>
+    <item msgid="7776299003105932407">"Սանտյագո"</item>
+    <item msgid="8636989494746218677">"Նյուֆաունդլենդ"</item>
+    <item msgid="4402541016410147505">"Բրազիլիա"</item>
+    <item msgid="2251184440733164084">"Բուենոս Այրես"</item>
+    <item msgid="6202926618569004969">"Գրենլանդիա"</item>
+    <item msgid="2355275037115290628">"Մոնտեվիդեո"</item>
+    <item msgid="1377549694711708945">"Միջին Ատլանտյան"</item>
+    <item msgid="3457671272126347981">"Ազորյան կղզիներ"</item>
+    <item msgid="3659315141063710840">"Կապե Վերդե կղզիներ"</item>
+    <item msgid="1260941741802367635">"Կասաբլանկա"</item>
+    <item msgid="8275203689687954762">"Լոնդոն, Դուբլին"</item>
+    <item msgid="5970179539479320905">"Ամստերդամ, Բեռլին"</item>
+    <item msgid="5396319478750517962">"Բելգրադ"</item>
+    <item msgid="8688787475056663004">"Բրյուսել"</item>
+    <item msgid="3415827874921681622">"Սարաևո"</item>
+    <item msgid="402008965928320066">"Վինդհուկ"</item>
+    <item msgid="6436942724959275569">"Արևմտյան Աֆրիկյան ժամանակ"</item>
+    <item msgid="954536568417204026">"Ամման, Հորդանան"</item>
+    <item msgid="8932745482008902551">"Աթենք, Ստամբուլ"</item>
+    <item msgid="320025725949024510">"Բեյրութ, Լիբանան"</item>
+    <item msgid="7242083112551905970">"Կահիրե"</item>
+    <item msgid="7241520146011450419">"Հելսինկի"</item>
+    <item msgid="2717065017510546526">"Երուսաղեմ"</item>
+    <item msgid="8698556287741466553">"Մինսկ"</item>
+    <item msgid="1797598357342084506">"Հարարե"</item>
+    <item msgid="5169119919905066998">"Բաղդադ"</item>
+    <item msgid="2615788116201065182">"Մոսկվա"</item>
+    <item msgid="9084354867885584646">"Քուվեյթ"</item>
+    <item msgid="1351570519986178268">"Նայրոբի"</item>
+    <item msgid="7094569580635877460">"Թեհրան"</item>
+    <item msgid="3953138772617909704">"Բաքու"</item>
+    <item msgid="2868893113598800752">"Թբիլիսի"</item>
+    <item msgid="7088581865802476373">"Երևան"</item>
+    <item msgid="1941122257623887992">"Դուբայ"</item>
+    <item msgid="9194797225058249720">"Քաբուլ"</item>
+    <item msgid="6486569254364577332">"Իսլամաբադ, Կարաչի"</item>
+    <item msgid="5487724896895412089">"Ուրալսկ"</item>
+    <item msgid="364906869710826982">"Եկատերինբուրգ"</item>
+    <item msgid="2106505051751383358">"Կոլկաթա"</item>
+    <item msgid="6851586621581501447">"Շրի Լանկա"</item>
+    <item msgid="800438544128213134">"Կատմանդու"</item>
+    <item msgid="6173621471007643021">"Աստանա"</item>
+    <item msgid="8645125891971581128">"Յանգոն"</item>
+    <item msgid="2886407505119737794">"Կրասնոյարսկ"</item>
+    <item msgid="3408222398188107090">"Բանգկոկ"</item>
+    <item msgid="4441612937172851228">"Պեկին"</item>
+    <item msgid="4936715789028996930">"Հոնկոնգ"</item>
+    <item msgid="4261031143777385525">"Իրկուտսկ"</item>
+    <item msgid="3538060959338191835">"Կուալա Լումպուր"</item>
+    <item msgid="1438847562643099201">"Պերթ"</item>
+    <item msgid="3063913827688244383">"Թայպեյ"</item>
+    <item msgid="3502757135046564209">"Սեուլ"</item>
+    <item msgid="6107588684519111669">"Տոկիո, Օսակա"</item>
+    <item msgid="4350769099755608471">"Յակուտսկ"</item>
+    <item msgid="2422707004533526462">"Ադելաիդա"</item>
+    <item msgid="1292192084554134339">"Դարվին"</item>
+    <item msgid="1320883699470001716">"Բրիսբեն"</item>
+    <item msgid="5137198806146386527">"Հոբարտ"</item>
+    <item msgid="5920063686933941174">"Սիդնեյ, Կանբերա"</item>
+    <item msgid="615906039696009425">"Վլադիվոստոկ"</item>
+    <item msgid="7738680449356275374">"Գուամ"</item>
+    <item msgid="2882915026380778227">"Մագադան"</item>
+    <item msgid="8255615641810148152">"Օքլենդ"</item>
+    <item msgid="3027153773466391728">"Ֆիջի"</item>
+    <item msgid="5911600083231840181">"Տոնգա"</item>
+    <item msgid="5176858645450908751">"Ջակարտա"</item>
+  </string-array>
+    <string-array name="volume_button_setting_entries">
+    <item msgid="7972756698723318690">"Հետաձգել"</item>
+    <item msgid="3450979320164769576">"Անջատել"</item>
+    <item msgid="7085774139907653538">"Կառավարել ձայնի ուժգնությունը"</item>
+  </string-array>
+    <string-array name="week_start_entries">
+    <item msgid="9010198173394482639">"Շաբաթ"</item>
+    <item msgid="3993530639455360921">"Կիրակի"</item>
+    <item msgid="8594709368683324282">"Երկուշաբթի"</item>
+  </string-array>
+    <plurals formatted="false" msgid="7844300009062867865" name="alarm_alert_snooze_duration">
+      <item quantity="one"><ns1:g id="NUMBER">%d</ns1:g> րոպե</item>
+      <item quantity="other"><ns1:g id="NUMBER">%d</ns1:g> րոպե</item>
+    </plurals>
+    <plurals formatted="false" msgid="3212729193036041768" name="alarm_alert_snooze_set">
+      <item quantity="one">Հետաձգվում է <ns1:g id="MINUTES">%d</ns1:g> րոպեով:</item>
+      <item quantity="other">Հետաձգվում է <ns1:g id="MINUTES">%d</ns1:g> րոպեով:</item>
+    </plurals>
+    <plurals formatted="false" msgid="6579258788774360396" name="auto_silence_summary">
+      <item quantity="one"><ns1:g id="FORMATTED_NUMBER">%s</ns1:g> րոպե</item>
+      <item quantity="other"><ns1:g id="FORMATTED_NUMBER">%s</ns1:g> րոպե</item>
+    </plurals>
+    <plurals formatted="false" msgid="3706846447285206235" name="days">
+      <item quantity="one"><ns1:g id="NUMBER">%s</ns1:g> օր</item>
+      <item quantity="other"><ns1:g id="NUMBER">%s</ns1:g> օր</item>
+    </plurals>
+    <plurals formatted="false" msgid="1294953410988488149" name="expired_timers_dismissed">
+      <item quantity="one"><ns1:g id="NUMBER">%d</ns1:g> ժամաչափ անջատվեց</item>
+      <item quantity="other"><ns1:g id="NUMBER">%d</ns1:g> ժամաչափ անջատվեցին</item>
+    </plurals>
+    <plurals formatted="false" msgid="3871283109767171655" name="hours">
+      <item quantity="one"><ns1:g id="NUMBER">%s</ns1:g> ժամ</item>
+      <item quantity="other"><ns1:g id="NUMBER">%s</ns1:g> ժամ</item>
+    </plurals>
+    <plurals formatted="false" msgid="3709250715691092925" name="hours_short">
+      <item quantity="one"><ns1:g id="NUMBER">%s</ns1:g> hr</item>
+      <item quantity="other"><ns1:g id="NUMBER">%s</ns1:g> ժամ</item>
+    </plurals>
+    <plurals formatted="false" msgid="5484431721696058697" name="minutes">
+      <item quantity="one"><ns1:g id="NUMBER">%s</ns1:g> րոպե</item>
+      <item quantity="other"><ns1:g id="NUMBER">%s</ns1:g> րոպե</item>
+    </plurals>
+    <plurals formatted="false" msgid="6397328304369080233" name="minutes_short">
+      <item quantity="one"><ns1:g id="NUMBER">%s</ns1:g> min</item>
+      <item quantity="other"><ns1:g id="NUMBER">%s</ns1:g> րոպե</item>
+    </plurals>
+    <plurals formatted="false" msgid="670343577734266047" name="seconds">
+      <item quantity="one"><ns1:g id="NUMBER">%s</ns1:g> seconds</item>
+      <item quantity="other"><ns1:g id="NUMBER">%s</ns1:g> վայրկյան</item>
+    </plurals>
+    <string msgid="3622720549928625541" name="C1">"Ա<ns1:g id="SEPARATOR">=</ns1:g>Աբիջան<ns1:g id="TIMEZONE">|Africa/Abidjan</ns1:g>"</string>
+    <string msgid="6275085554326816487" name="C10">"Դ<ns1:g id="SEPARATOR">=</ns1:g>Դակար<ns1:g id="TIMEZONE">|Africa/Dakar</ns1:g>"</string>
+    <string msgid="5995329947852415813" name="C100">"Ա<ns1:g id="SEPARATOR">=</ns1:g>Ամման<ns1:g id="TIMEZONE">|Asia/Amman</ns1:g>"</string>
+    <string msgid="5760056604239047274" name="C101">"Ա<ns1:g id="SEPARATOR">=</ns1:g>Անադիր<ns1:g id="TIMEZONE">|Asia/Anadyr</ns1:g>"</string>
+    <string msgid="9000357065825182754" name="C102">"Ա<ns1:g id="SEPARATOR">=</ns1:g>Ակտաու<ns1:g id="TIMEZONE">|Asia/Aqtau</ns1:g>"</string>
+    <string msgid="8781982253489209791" name="C103">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բաղդադ<ns1:g id="TIMEZONE">|Asia/Baghdad</ns1:g>"</string>
+    <string msgid="4021122575041916540" name="C104">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բահրեյն<ns1:g id="TIMEZONE">|Asia/Bahrain</ns1:g>"</string>
+    <string msgid="1812915124794679606" name="C105">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բաքու<ns1:g id="TIMEZONE">|Asia/Baku</ns1:g>"</string>
+    <string msgid="1996684628612964988" name="C106">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բանգկոկ<ns1:g id="TIMEZONE">|Asia/Bangkok</ns1:g>"</string>
+    <string msgid="227554925153715426" name="C107">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բեյրութ<ns1:g id="TIMEZONE">|Asia/Beirut</ns1:g>"</string>
+    <string msgid="357033582615345158" name="C108">"<ns1:g id="SEPARATOR">=</ns1:g>Կալկաթա<ns1:g id="TIMEZONE">|Asia/Calcutta</ns1:g>"</string>
+    <string msgid="6386566477244958752" name="C109">"Դ<ns1:g id="SEPARATOR">=</ns1:g>Դամասկոս<ns1:g id="TIMEZONE">|Asia/Damascus</ns1:g>"</string>
+    <string msgid="8124988526568339100" name="C11">"Դ<ns1:g id="SEPARATOR">=</ns1:g>Դար-ես-Սալամ<ns1:g id="TIMEZONE">|Africa/Dar_es_Salaam</ns1:g>"</string>
+    <string msgid="1165712058024165012" name="C110">"Դ<ns1:g id="SEPARATOR">=</ns1:g>Դակկա<ns1:g id="TIMEZONE">|Asia/Dhaka</ns1:g>"</string>
+    <string msgid="5895260692253797547" name="C111">"Դ<ns1:g id="SEPARATOR">=</ns1:g>Դուբայ<ns1:g id="TIMEZONE">|Asia/Dubai</ns1:g>"</string>
+    <string msgid="1708170128253320625" name="C112">"Գ<ns1:g id="SEPARATOR">=</ns1:g>Գազա<ns1:g id="TIMEZONE">|Asia/Gaza</ns1:g>"</string>
+    <string msgid="8790538811134290878" name="C113">"Հ<ns1:g id="SEPARATOR">=</ns1:g>Հևրոն<ns1:g id="TIMEZONE">|Asia/Hebron</ns1:g>"</string>
+    <string msgid="8019764566754082688" name="C114">"Հ<ns1:g id="SEPARATOR">=</ns1:g>Հո Չի Մին<ns1:g id="TIMEZONE">|Asia/Ho_Chi_Minh</ns1:g>"</string>
+    <string msgid="2707316842482208016" name="C115">"Հ<ns1:g id="SEPARATOR">=</ns1:g>Հոնկոնգ<ns1:g id="PHONETIC">:</ns1:g><ns1:g id="TIMEZONE">|Asia/Hong_Kong</ns1:g>"</string>
+    <string msgid="486537564257069933" name="C117">"Ջ<ns1:g id="SEPARATOR">=</ns1:g>Ջակարտա<ns1:g id="TIMEZONE">|Asia/Jakarta</ns1:g>"</string>
+    <string msgid="2220594023727285784" name="C118">"Ե<ns1:g id="SEPARATOR">=</ns1:g>Երուսաղեմ<ns1:g id="TIMEZONE">|Asia/Jerusalem</ns1:g>"</string>
+    <string msgid="7095503078924268384" name="C119">"Ք<ns1:g id="SEPARATOR">=</ns1:g>Քաբուլ<ns1:g id="TIMEZONE">|Asia/Kabul</ns1:g>"</string>
+    <string msgid="9058858575164534385" name="C12">"Ջ<ns1:g id="SEPARATOR">=</ns1:g>Ջիբութի<ns1:g id="TIMEZONE">|Africa/Djibouti</ns1:g>"</string>
+    <string msgid="4759297844750994699" name="C120">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կարաչի<ns1:g id="TIMEZONE">|Asia/Karachi</ns1:g>"</string>
+    <string msgid="6397452077111782277" name="C121">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կատմանդու<ns1:g id="TIMEZONE">|Asia/Kathmandu</ns1:g>"</string>
+    <string msgid="3384658968869783693" name="C122">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կուալա Լումպուր<ns1:g id="TIMEZONE">|Asia/Kuala_Lumpur</ns1:g>"</string>
+    <string msgid="2596231413860119715" name="C123">"Ք<ns1:g id="SEPARATOR">=</ns1:g>Քուվեյթ<ns1:g id="TIMEZONE">|Asia/Kuwait</ns1:g>"</string>
+    <string msgid="7128790644999660843" name="C124">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մակաու<ns1:g id="TIMEZONE">|Asia/Macau</ns1:g>"</string>
+    <string msgid="7482612453109643531" name="C125">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մանիլա<ns1:g id="TIMEZONE">|Asia/Manila</ns1:g>"</string>
+    <string msgid="89594601694005714" name="C126">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մուսկաթ<ns1:g id="TIMEZONE">|Asia/Muscat</ns1:g>"</string>
+    <string msgid="6694878912574814081" name="C127">"Պ<ns1:g id="SEPARATOR">=</ns1:g>Պնոմպեն<ns1:g id="TIMEZONE">|Asia/Phnom_Penh</ns1:g>"</string>
+    <string msgid="6055116591529458940" name="C128">"Փ<ns1:g id="SEPARATOR">=</ns1:g>Փխենյան<ns1:g id="PHONETIC">:</ns1:g><ns1:g id="TIMEZONE">|Asia/Pyongyang</ns1:g>"</string>
+    <string msgid="1020128319695123468" name="C13">"Ֆ<ns1:g id="SEPARATOR">=</ns1:g>Ֆրիթաուն<ns1:g id="TIMEZONE">|Africa/Freetown</ns1:g>"</string>
+    <string msgid="665609990740507143" name="C130">"Ռ<ns1:g id="SEPARATOR">=</ns1:g>Ռանգուն<ns1:g id="TIMEZONE">|Asia/Rangoon</ns1:g>"</string>
+    <string msgid="3395769966117356927" name="C131">"Ռ<ns1:g id="SEPARATOR">=</ns1:g>Ռիադ<ns1:g id="TIMEZONE">|Asia/Riyadh</ns1:g>"</string>
+    <string msgid="5204810106521056060" name="C133">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սեուլ<ns1:g id="TIMEZONE">|Asia/Seoul</ns1:g>"</string>
+    <string msgid="7263747916569669120" name="C134">"Շ<ns1:g id="SEPARATOR">=</ns1:g>Շանհայ<ns1:g id="PHONETIC">:</ns1:g><ns1:g id="TIMEZONE">|Asia/Shanghai</ns1:g>"</string>
+    <string msgid="4100015019260371393" name="C135">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սինգապուր<ns1:g id="TIMEZONE">|Asia/Singapore</ns1:g>"</string>
+    <string msgid="6386033226757339839" name="C136">"Տ<ns1:g id="SEPARATOR">=</ns1:g>Տայպեյ<ns1:g id="PHONETIC">:</ns1:g><ns1:g id="TIMEZONE">|Asia/Taipei</ns1:g>"</string>
+    <string msgid="5387760734363179588" name="C137">"Թ<ns1:g id="SEPARATOR">=</ns1:g>Թեհրան<ns1:g id="TIMEZONE">|Asia/Tehran</ns1:g>"</string>
+    <string msgid="7193922868117846792" name="C138">"Տ<ns1:g id="SEPARATOR">=</ns1:g>Տել Ավիվ<ns1:g id="TIMEZONE">|Asia/Tel_Aviv</ns1:g>"</string>
+    <string msgid="7060339477340222608" name="C139">"Տ<ns1:g id="SEPARATOR">=</ns1:g>Տոկիո<ns1:g id="PHONETIC">:</ns1:g><ns1:g id="TIMEZONE">|Asia/Tokyo</ns1:g>"</string>
+    <string msgid="5466600602512133072" name="C14">"Գ<ns1:g id="SEPARATOR">=</ns1:g>Գաբրոնե<ns1:g id="TIMEZONE">|Africa/Gaborone</ns1:g>"</string>
+    <string msgid="6273911458061121975" name="C140">"Ու<ns1:g id="SEPARATOR">=</ns1:g>Ուլան Բատոր<ns1:g id="TIMEZONE">|Asia/Ulaanbaatar</ns1:g>"</string>
+    <string msgid="2799340184229547409" name="C141">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բերմուդյան կղզիներ<ns1:g id="TIMEZONE">|Atlantic/Bermuda</ns1:g>"</string>
+    <string msgid="6015789133959684677" name="C142">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կանարյան կղզիներ<ns1:g id="TIMEZONE">|Atlantic/Canary</ns1:g>"</string>
+    <string msgid="4888764215053863961" name="C143">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կապե Վերդե<ns1:g id="TIMEZONE">|Atlantic/Cape_Verde</ns1:g>"</string>
+    <string msgid="3338105941475340049" name="C144">"Ռ<ns1:g id="SEPARATOR">=</ns1:g>Ռեյկյավիկ<ns1:g id="TIMEZONE">|Atlantic/Reykjavik</ns1:g>"</string>
+    <string msgid="8684297689430494031" name="C145">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Ստենլի<ns1:g id="TIMEZONE">|Atlantic/Stanley</ns1:g>"</string>
+    <string msgid="843808286721172656" name="C146">"Ա<ns1:g id="SEPARATOR">=</ns1:g>Ադելաիդա<ns1:g id="TIMEZONE">|Australia/Adelaide</ns1:g>"</string>
+    <string msgid="3712535858465321034" name="C147">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բրիսբեն<ns1:g id="TIMEZONE">|Australia/Brisbane</ns1:g>"</string>
+    <string msgid="7019403666599702943" name="C148">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կանբերրա<ns1:g id="TIMEZONE">|Australia/Canberra</ns1:g>"</string>
+    <string msgid="8185355499458013534" name="C149">"Դ<ns1:g id="SEPARATOR">=</ns1:g>Դարվին<ns1:g id="TIMEZONE">|Australia/Darwin</ns1:g>"</string>
+    <string msgid="4045696872348427594" name="C15">"Հ<ns1:g id="SEPARATOR">=</ns1:g>Հարարե<ns1:g id="TIMEZONE">|Africa/Harare</ns1:g>"</string>
+    <string msgid="3516845880105752618" name="C150">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մելբուրն<ns1:g id="TIMEZONE">|Australia/Melbourne</ns1:g>"</string>
+    <string msgid="5576825403360541823" name="C151">"Ն<ns1:g id="SEPARATOR">=</ns1:g>Նոր Հարավային Ուելս<ns1:g id="TIMEZONE">|Australia/NSW</ns1:g>"</string>
+    <string msgid="7889900618915436602" name="C152">"Պ<ns1:g id="SEPARATOR">=</ns1:g>Պերտ<ns1:g id="TIMEZONE">|Australia/Perth</ns1:g>"</string>
+    <string msgid="7506204460601953711" name="C153">"Ք<ns1:g id="SEPARATOR">=</ns1:g>Քուինսլենդ<ns1:g id="TIMEZONE">|Australia/Queensland</ns1:g>"</string>
+    <string msgid="1193262944948312063" name="C154">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սիդնեյ<ns1:g id="TIMEZONE">|Australia/Sydney</ns1:g>"</string>
+    <string msgid="7079072802229033042" name="C155">"Վ<ns1:g id="SEPARATOR">=</ns1:g>Վիկտորիա<ns1:g id="TIMEZONE">|Australia/Victoria</ns1:g>"</string>
+    <string msgid="4003110220147338835" name="C156">"Ն<ns1:g id="SEPARATOR">=</ns1:g>Նյուֆաունդլենդ<ns1:g id="TIMEZONE">|Canada/Newfoundland</ns1:g>"</string>
+    <string msgid="2861486997803753970" name="C157">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սասկաչևան<ns1:g id="TIMEZONE">|Canada/Saskatchewan</ns1:g>"</string>
+    <string msgid="6882933026191056506" name="C158">"Զ<ns1:g id="SEPARATOR">=</ns1:g>Զատիկի կղզի<ns1:g id="TIMEZONE">|Chile/EasterIsland</ns1:g>"</string>
+    <string msgid="4128429767051043903" name="C159">"Ա<ns1:g id="SEPARATOR">=</ns1:g>Ամստերդամ<ns1:g id="TIMEZONE">|Europe/Amsterdam</ns1:g>"</string>
+    <string msgid="109844560982762747" name="C16">"Յ<ns1:g id="SEPARATOR">=</ns1:g>Յոհաննեսբուրգ<ns1:g id="TIMEZONE">|Africa/Johannesburg</ns1:g>"</string>
+    <string msgid="3488513735205092653" name="C160">"Ա<ns1:g id="SEPARATOR">=</ns1:g>Անդորրա<ns1:g id="TIMEZONE">|Europe/Andorra</ns1:g>"</string>
+    <string msgid="7244325364130392348" name="C161">"Ա<ns1:g id="SEPARATOR">=</ns1:g>Աթենք<ns1:g id="TIMEZONE">|Europe/Athens</ns1:g>"</string>
+    <string msgid="7484009548361072313" name="C162">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բելֆաստ<ns1:g id="TIMEZONE">|Europe/Belfast</ns1:g>"</string>
+    <string msgid="6106990061397073808" name="C163">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բելգրադ<ns1:g id="TIMEZONE">|Europe/Belgrade</ns1:g>"</string>
+    <string msgid="3074767496771260157" name="C164">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բեռլին<ns1:g id="TIMEZONE">|Europe/Berlin</ns1:g>"</string>
+    <string msgid="4442005045172394762" name="C165">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բրատիսլավա<ns1:g id="TIMEZONE">|Europe/Bratislava</ns1:g>"</string>
+    <string msgid="8977286721038142474" name="C166">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բրյուսել<ns1:g id="TIMEZONE">|Europe/Brussels</ns1:g>"</string>
+    <string msgid="5502175796232774744" name="C167">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բուխարեստ<ns1:g id="TIMEZONE">|Europe/Bucharest</ns1:g>"</string>
+    <string msgid="6750159439632567316" name="C168">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բուդապեշտ<ns1:g id="TIMEZONE">|Europe/Budapest</ns1:g>"</string>
+    <string msgid="591483187800562071" name="C169">"Ք<ns1:g id="SEPARATOR">=</ns1:g>Քիշինև<ns1:g id="TIMEZONE">|Europe/Chisinau</ns1:g>"</string>
+    <string msgid="4868414442726546214" name="C17">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կամպալա<ns1:g id="TIMEZONE">|Africa/Kampala</ns1:g>"</string>
+    <string msgid="157539770076958216" name="C170">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կոպենհագեն<ns1:g id="TIMEZONE">|Europe/Copenhagen</ns1:g>"</string>
+    <string msgid="4774534094571993566" name="C171">"Դ<ns1:g id="SEPARATOR">=</ns1:g>Դուբլին<ns1:g id="TIMEZONE">|Europe/Dublin</ns1:g>"</string>
+    <string msgid="6781166861618808351" name="C172">"Ջ<ns1:g id="SEPARATOR">=</ns1:g>Ջիբրալթար<ns1:g id="TIMEZONE">|Europe/Gibraltar</ns1:g>"</string>
+    <string msgid="6620286361619640304" name="C173">"Հ<ns1:g id="SEPARATOR">=</ns1:g>Հելսինկի<ns1:g id="TIMEZONE">|Europe/Helsinki</ns1:g>"</string>
+    <string msgid="2279016324825973473" name="C174">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մեն կղզի<ns1:g id="TIMEZONE">|Europe/Isle_of_Man</ns1:g>"</string>
+    <string msgid="3290185117135612679" name="C175">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Ստամբուլ<ns1:g id="TIMEZONE">|Europe/Istanbul</ns1:g>"</string>
+    <string msgid="8375703098860926099" name="C176">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կիև<ns1:g id="TIMEZONE">|Europe/Kiev</ns1:g>"</string>
+    <string msgid="6500868250597874838" name="C177">"Լ<ns1:g id="SEPARATOR">=</ns1:g>Լիսաբոն<ns1:g id="TIMEZONE">|Europe/Lisbon</ns1:g>"</string>
+    <string msgid="8805696770032311110" name="C178">"Լ<ns1:g id="SEPARATOR">=</ns1:g>Լոնդոն<ns1:g id="TIMEZONE">|Europe/London</ns1:g>"</string>
+    <string msgid="3767343883668628062" name="C179">"Լ<ns1:g id="SEPARATOR">=</ns1:g>Լյուքսեմբուրգ<ns1:g id="TIMEZONE">|Europe/Luxembourg</ns1:g>"</string>
+    <string msgid="7460319039497808668" name="C18">"Խ<ns1:g id="SEPARATOR">=</ns1:g>Խարթում<ns1:g id="TIMEZONE">|Africa/Khartoum</ns1:g>"</string>
+    <string msgid="7678392789982322642" name="C180">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մադրիդ<ns1:g id="TIMEZONE">|Europe/Madrid</ns1:g>"</string>
+    <string msgid="7514462880775616081" name="C181">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մալթա<ns1:g id="TIMEZONE">|Europe/Malta</ns1:g>"</string>
+    <string msgid="1916950203622380579" name="C182">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մինսկ<ns1:g id="TIMEZONE">|Europe/Minsk</ns1:g>"</string>
+    <string msgid="4964892686115215073" name="C183">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մոնակո<ns1:g id="TIMEZONE">|Europe/Monaco</ns1:g>"</string>
+    <string msgid="4848586310907586448" name="C184">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մոսկվա<ns1:g id="TIMEZONE">|Europe/Moscow</ns1:g>"</string>
+    <string msgid="2598535413053285569" name="C185">"Օ<ns1:g id="SEPARATOR">=</ns1:g>Օսլո<ns1:g id="TIMEZONE">|Europe/Oslo</ns1:g>"</string>
+    <string msgid="678795048839315969" name="C186">"Փ<ns1:g id="SEPARATOR">=</ns1:g>Փարիզ<ns1:g id="TIMEZONE">|Europe/Paris</ns1:g>"</string>
+    <string msgid="9120486940322565800" name="C187">"Պ<ns1:g id="SEPARATOR">=</ns1:g>Պրահա<ns1:g id="TIMEZONE">|Europe/Prague</ns1:g>"</string>
+    <string msgid="6820884829000643173" name="C188">"Ռ<ns1:g id="SEPARATOR">=</ns1:g>Ռիգա<ns1:g id="TIMEZONE">|Europe/Riga</ns1:g>"</string>
+    <string msgid="8545786001221397208" name="C189">"Հ<ns1:g id="SEPARATOR">=</ns1:g>Հռոմ<ns1:g id="TIMEZONE">|Europe/Rome</ns1:g>"</string>
+    <string msgid="3967163989179394825" name="C19">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կիգալի<ns1:g id="TIMEZONE">|Africa/Kigali</ns1:g>"</string>
+    <string msgid="2822097113459737895" name="C190">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սան Մարինո<ns1:g id="TIMEZONE">|Europe/San_Marino</ns1:g>"</string>
+    <string msgid="5419026915911469878" name="C191">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սարաևո<ns1:g id="TIMEZONE">|Europe/Sarajevo</ns1:g>"</string>
+    <string msgid="1416880359034236663" name="C192">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սիմֆերոպոլ<ns1:g id="TIMEZONE">|Europe/Simferopol</ns1:g>"</string>
+    <string msgid="4639373771601474967" name="C193">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սկոպյե<ns1:g id="TIMEZONE">|Europe/Skopje</ns1:g>"</string>
+    <string msgid="4008819631066984591" name="C194">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սոֆիա<ns1:g id="TIMEZONE">|Europe/Sofia</ns1:g>"</string>
+    <string msgid="6936101855361464954" name="C195">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Ստոքհոլմ<ns1:g id="TIMEZONE">|Europe/Stockholm</ns1:g>"</string>
+    <string msgid="6845595341045260631" name="C196">"Թ<ns1:g id="SEPARATOR">=</ns1:g>Թալին<ns1:g id="TIMEZONE">|Europe/Tallinn</ns1:g>"</string>
+    <string msgid="2200341923401640765" name="C197">"Վ<ns1:g id="SEPARATOR">=</ns1:g>Վատիկան<ns1:g id="TIMEZONE">|Europe/Vatican</ns1:g>"</string>
+    <string msgid="3104432830681695782" name="C198">"Վ<ns1:g id="SEPARATOR">=</ns1:g>Վիեննա<ns1:g id="TIMEZONE">|Europe/Vienna</ns1:g>"</string>
+    <string msgid="1622823742072233091" name="C199">"Վ<ns1:g id="SEPARATOR">=</ns1:g>Վիլնյուս<ns1:g id="TIMEZONE">|Europe/Vilnius</ns1:g>"</string>
+    <string msgid="9073993995416728918" name="C2">"Ա<ns1:g id="SEPARATOR">=</ns1:g>Աքրա<ns1:g id="TIMEZONE">|Africa/Accra</ns1:g>"</string>
+    <string msgid="832336979058592106" name="C20">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կինշասա<ns1:g id="TIMEZONE">|Africa/Kinshasa</ns1:g>"</string>
+    <string msgid="6181652506383585123" name="C200">"Վ<ns1:g id="SEPARATOR">=</ns1:g>Վարշավա<ns1:g id="TIMEZONE">|Europe/Warsaw</ns1:g>"</string>
+    <string msgid="5026927396527258914" name="C201">"Զ<ns1:g id="SEPARATOR">=</ns1:g>Զագրեբ<ns1:g id="TIMEZONE">|Europe/Zagreb</ns1:g>"</string>
+    <string msgid="7479245034393288391" name="C202">"Ց<ns1:g id="SEPARATOR">=</ns1:g>Ցյուրիխ<ns1:g id="TIMEZONE">|Europe/Zurich</ns1:g>"</string>
+    <string msgid="1651234331866937237" name="C203">"Ա<ns1:g id="SEPARATOR">=</ns1:g>Անտանանարիվու<ns1:g id="TIMEZONE">|Indian/Antananarivo</ns1:g>"</string>
+    <string msgid="3101091022126098393" name="C204">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մալդիվյան կղզիներ<ns1:g id="TIMEZONE">|Indian/Maldives</ns1:g>"</string>
+    <string msgid="9173530407684443044" name="C205">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մավրիկիոս<ns1:g id="TIMEZONE">|Indian/Mauritius</ns1:g>"</string>
+    <string msgid="7294622489478378014" name="C206">"Օ<ns1:g id="SEPARATOR">=</ns1:g>Օքլենդ<ns1:g id="TIMEZONE">|Pacific/Auckland</ns1:g>"</string>
+    <string msgid="6369257832191627783" name="C207">"Ֆ<ns1:g id="SEPARATOR">=</ns1:g>Ֆիջի<ns1:g id="TIMEZONE">|Pacific/Fiji</ns1:g>"</string>
+    <string msgid="1022999101729302391" name="C208">"Գ<ns1:g id="SEPARATOR">=</ns1:g>Գուամ<ns1:g id="TIMEZONE">|Pacific/Guam</ns1:g>"</string>
+    <string msgid="8326714755257287010" name="C209">"Հ<ns1:g id="SEPARATOR">=</ns1:g>Հոնոլուլու<ns1:g id="TIMEZONE">|Pacific/Honolulu</ns1:g>"</string>
+    <string msgid="8691772487297796331" name="C21">"Լ<ns1:g id="SEPARATOR">=</ns1:g>Լագոս<ns1:g id="TIMEZONE">|Africa/Lagos</ns1:g>"</string>
+    <string msgid="4118975261202718577" name="C210">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կիրիտիմատի<ns1:g id="TIMEZONE">|Pacific/Kiritimati</ns1:g>"</string>
+    <string msgid="6016485615657297427" name="C211">"Ն<ns1:g id="SEPARATOR">=</ns1:g>Նումեա<ns1:g id="TIMEZONE">|Pacific/Noumea</ns1:g>"</string>
+    <string msgid="5230836436291372485" name="C214">"Ա<ns1:g id="SEPARATOR">=</ns1:g>Անտիգուա<ns1:g id="TIMEZONE">|America/Antigua</ns1:g>"</string>
+    <string msgid="9104600827236874744" name="C215">"Օ<ns1:g id="SEPARATOR">=</ns1:g>Օստին<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="1919768646168928906" name="C216">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բոստոն<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="4879725034214879629" name="C217">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կալգարի<ns1:g id="TIMEZONE">|America/Denver</ns1:g>"</string>
+    <string msgid="5884212032925236157" name="C218">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կոլումբուս<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="2081823206177849440" name="C219">"Դ<ns1:g id="SEPARATOR">=</ns1:g>Դալլաս<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="6061916756914828881" name="C22">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մասերու<ns1:g id="TIMEZONE">|Africa/Maseru</ns1:g>"</string>
+    <string msgid="6453910991331509621" name="C220">"Ն<ns1:g id="SEPARATOR">=</ns1:g>Նոկսվիլլ<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="8383807404322146544" name="C221">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մեմֆիս<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="3700668026644596138" name="C222">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մայամի<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="221323185158028534" name="C223">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Միննեապոլիս<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="5283127526588257314" name="C224">"Օ<ns1:g id="SEPARATOR">=</ns1:g>Օտտավա<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="2397752406722350262" name="C225">"Ֆ<ns1:g id="SEPARATOR">=</ns1:g>Ֆիլադելֆիա<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="9121074377966278110" name="C226">"Պ<ns1:g id="SEPARATOR">=</ns1:g>Պորտլենդ<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="5652209241017010001" name="C227">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սան Դիեգո<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="4215672329797580482" name="C228">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սան Ֆրանցիսկո<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="4196312467437357156" name="C229">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սոլթ Լեյք Սիթի<ns1:g id="TIMEZONE">|America/Denver</ns1:g>"</string>
+    <string msgid="6790461017899209498" name="C23">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մոգադիշո<ns1:g id="TIMEZONE">|Africa/Mogadishu</ns1:g>"</string>
+    <string msgid="5521643115321121383" name="C230">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սան Խոսե<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="19294357270942004" name="C231">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սան Սալվադոր<ns1:g id="TIMEZONE">|America/Guatemala</ns1:g>"</string>
+    <string msgid="4714655032274833316" name="C232">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սիեթլ<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="7162834873553109876" name="C233">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սենտ Լուիս<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="8431913494781960891" name="C234">"Վ<ns1:g id="SEPARATOR">=</ns1:g>Վաշինգտոն<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="8650421942456856419" name="C235">"Հ<ns1:g id="SEPARATOR">=</ns1:g>Հյուսթոն<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="3687627401939103862" name="C236">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սան Անտոնիո<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="4443158977093108877" name="C237">"Ջ<ns1:g id="SEPARATOR">=</ns1:g>Ջեքսոնվիլ<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="7416660474443881822" name="C238">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բալթիմոր<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="4602819453157356596" name="C239">"Ն<ns1:g id="SEPARATOR">=</ns1:g>Նաշվիլ<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="836730985302941979" name="C24">"Ն<ns1:g id="SEPARATOR">=</ns1:g>Նաիրոբի<ns1:g id="TIMEZONE">|Africa/Nairobi</ns1:g>"</string>
+    <string msgid="6474976205162582188" name="C240">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Միլուոկի<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="9133192521877174743" name="C241">"Օ<ns1:g id="SEPARATOR">=</ns1:g>Օկլահոմա Սիթի<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="4837450655035932235" name="C242">"Լ<ns1:g id="SEPARATOR">=</ns1:g>Լաս Վեգաս<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="8140503787735683522" name="C243">"Ա<ns1:g id="SEPARATOR">=</ns1:g>Ալբուկերկե<ns1:g id="TIMEZONE">|America/Denver</ns1:g>"</string>
+    <string msgid="5425441385595386539" name="C244">"Տ<ns1:g id="SEPARATOR">=</ns1:g>Տյուսոն<ns1:g id="TIMEZONE">|MST</ns1:g>"</string>
+    <string msgid="2117808251938937801" name="C245">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սակրամենտո<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="3092246848082816772" name="C246">"Ա<ns1:g id="SEPARATOR">=</ns1:g>Ատլանտա<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="8206866466240263364" name="C247">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կլիվլենդ<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="2640187332546735575" name="C248">"Ն<ns1:g id="SEPARATOR">=</ns1:g>Նյու Օռլեան<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="2891345755858261436" name="C249">"Տ<ns1:g id="SEPARATOR">=</ns1:g>Տամպա<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="6439936809920816845" name="C25">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սան Տոմե<ns1:g id="TIMEZONE">|Africa/Sao_Tome</ns1:g>"</string>
+    <string msgid="820338627695297018" name="C250">"Պ<ns1:g id="SEPARATOR">=</ns1:g>Պիտսբուրգ<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="5944336862095193572" name="C251">"Ց<ns1:g id="SEPARATOR">=</ns1:g>Ցինցիննատի<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="4879366628092590554" name="C252">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մաունթին Վյու<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="131023875763265059" name="C253">"Ռ<ns1:g id="SEPARATOR">=</ns1:g>Ռենո<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="6114708580340716772" name="C254">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բլեք Ռոք Սիթի<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="7954132426931661492" name="C255">"Դ<ns1:g id="SEPARATOR">=</ns1:g>Դոհա<ns1:g id="TIMEZONE">|Asia/Riyadh</ns1:g>"</string>
+    <string msgid="4677098546257306673" name="C256">"Պ<ns1:g id="SEPARATOR">=</ns1:g>Պեկին<ns1:g id="PHONETIC">:</ns1:g><ns1:g id="TIMEZONE">|Asia/Shanghai</ns1:g>"</string>
+    <string msgid="6859408162854724420" name="C257">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մումբայ<ns1:g id="TIMEZONE">|Asia/Kolkata</ns1:g>"</string>
+    <string msgid="4883343467599097650" name="C258">"Դ<ns1:g id="SEPARATOR">=</ns1:g>Դելի<ns1:g id="TIMEZONE">|Asia/Kolkata</ns1:g>"</string>
+    <string msgid="5562442240689501324" name="C259">"Օ<ns1:g id="SEPARATOR">=</ns1:g>Օսակա<ns1:g id="PHONETIC">:</ns1:g><ns1:g id="TIMEZONE">|Asia/Tokyo</ns1:g>"</string>
+    <string msgid="3250092456144685877" name="C26">"Տ<ns1:g id="SEPARATOR">=</ns1:g>Տիմբուկտու<ns1:g id="TIMEZONE">|Africa/Timbuktu</ns1:g>"</string>
+    <string msgid="8364102554400427814" name="C260">"Լ<ns1:g id="SEPARATOR">=</ns1:g>Լահոր<ns1:g id="TIMEZONE">|Asia/Karachi</ns1:g>"</string>
+    <string msgid="4120312655526126931" name="C261">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սանաա<ns1:g id="TIMEZONE">|Asia/Riyadh</ns1:g>"</string>
+    <string msgid="5548180151889833" name="C262">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բարսելոնա<ns1:g id="TIMEZONE">|Europe/Madrid</ns1:g>"</string>
+    <string msgid="2667061188896159784" name="C263">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մյունխեն<ns1:g id="TIMEZONE">|Europe/Berlin</ns1:g>"</string>
+    <string msgid="2183960913782375290" name="C264">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Միլան<ns1:g id="TIMEZONE">|Europe/Rome</ns1:g>"</string>
+    <string msgid="7302072801871420825" name="C265">"Ֆ<ns1:g id="SEPARATOR">=</ns1:g>Ֆրանկֆուրտ<ns1:g id="TIMEZONE">|Europe/Berlin</ns1:g>"</string>
+    <string msgid="2043638131940526010" name="C266">"Հ<ns1:g id="SEPARATOR">=</ns1:g>Հանոյ<ns1:g id="TIMEZONE">|Asia/Bangkok</ns1:g>"</string>
+    <string msgid="2210484655793571387" name="C267">"Ա<ns1:g id="SEPARATOR">=</ns1:g>Անկարա<ns1:g id="TIMEZONE">|Europe/Istanbul</ns1:g>"</string>
+    <string msgid="263106973500029909" name="C268">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բանգալոր<ns1:g id="TIMEZONE">|Asia/Kolkata</ns1:g>"</string>
+    <string msgid="6541694468583591229" name="C269">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բրազիլիա<ns1:g id="TIMEZONE">|America/Sao_Paulo</ns1:g>"</string>
+    <string msgid="851018621577780718" name="C27">"Տ<ns1:g id="SEPARATOR">=</ns1:g>Տրիպոլի<ns1:g id="TIMEZONE">|Africa/Tripoli</ns1:g>"</string>
+    <string msgid="1314079881051130603" name="C270">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կապե Թաուն<ns1:g id="TIMEZONE">|Africa/Johannesburg</ns1:g>"</string>
+    <string msgid="8640235215580011665" name="C271">"Ի<ns1:g id="SEPARATOR">=</ns1:g>Իսլամաբադ<ns1:g id="TIMEZONE">|Asia/Karachi</ns1:g>"</string>
+    <string msgid="1609536549681428971" name="C272">"Ռ<ns1:g id="SEPARATOR">=</ns1:g>Ռիո դե Ժանեյրո<ns1:g id="TIMEZONE">|America/Sao_Paulo</ns1:g>"</string>
+    <string msgid="7079941149646181981" name="C273">"Ա<ns1:g id="SEPARATOR">=</ns1:g>Անն Արբոր<ns1:g id="TIMEZONE">|America/Detroit</ns1:g>"</string>
+    <string msgid="8459573593923702400" name="C274">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բոուլդեր<ns1:g id="TIMEZONE">|America/Denver</ns1:g>"</string>
+    <string msgid="6089570009772695384" name="C275">"Ք<ns1:g id="SEPARATOR">=</ns1:g>Քեմբրիջ<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="8770778158932656740" name="C276">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կիրկլենդ<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="3027642546928363284" name="C277">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մեդիսոն<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="2380762577096499707" name="C278">"Գ<ns1:g id="SEPARATOR">=</ns1:g>Գուանչժոու<ns1:g id="PHONETIC">:</ns1:g><ns1:g id="TIMEZONE">|Asia/Shanghai</ns1:g>"</string>
+    <string msgid="8894272318704876379" name="C279">"Հ<ns1:g id="SEPARATOR">=</ns1:g>Հայդարաբադ<ns1:g id="TIMEZONE">|Asia/Kolkata</ns1:g>"</string>
+    <string msgid="7979767521827885833" name="C28">"Թ<ns1:g id="SEPARATOR">=</ns1:g>Թունիս<ns1:g id="TIMEZONE">|Africa/Tunis</ns1:g>"</string>
+    <string msgid="7678401703785036372" name="C280">"Ռ<ns1:g id="SEPARATOR">=</ns1:g>Ռեստոն<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="8023528134904066052" name="C281">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բելո Հորիզոնտե<ns1:g id="TIMEZONE">|America/Sao_Paulo</ns1:g>"</string>
+    <string msgid="6695477038758559199" name="C282">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սանտյագո<ns1:g id="TIMEZONE">|America/Santiago</ns1:g>"</string>
+    <string msgid="7769787200879321206" name="C283">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մոնրովիա<ns1:g id="TIMEZONE">|Africa/Monrovia</ns1:g>"</string>
+    <string msgid="6968458422900478829" name="C284">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Լոլոմբո<ns1:g id="TIMEZONE">|Asia/Colombo</ns1:g>"</string>
+    <string msgid="1141404871109476705" name="C285">"Չ<ns1:g id="SEPARATOR">=</ns1:g>Չիուաուա<ns1:g id="TIMEZONE">|America/Chihuahua</ns1:g>"</string>
+    <string msgid="4996225818359904740" name="C286">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սալվադոր<ns1:g id="TIMEZONE">|America/Sao_Paulo</ns1:g>"</string>
+    <string msgid="1988559263618010310" name="C287">"Գ<ns1:g id="SEPARATOR">=</ns1:g>Գարգաոն<ns1:g id="TIMEZONE">|Asia/Kolkata</ns1:g>"</string>
+    <string msgid="852288766460325989" name="C288">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մանչեստր<ns1:g id="TIMEZONE">|Europe/London</ns1:g>"</string>
+    <string msgid="7946114495840302218" name="C29">"Ա<ns1:g id="SEPARATOR">=</ns1:g>Անքորիջ<ns1:g id="TIMEZONE">|America/Anchorage</ns1:g>"</string>
+    <string msgid="9191944922972784727" name="C290">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սանկտ Պետերբուրգ<ns1:g id="TIMEZONE">|Europe/Moscow</ns1:g>"</string>
+    <string msgid="4662360206594986867" name="C291">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կրակով<ns1:g id="TIMEZONE">|Europe/Warsaw</ns1:g>"</string>
+    <string msgid="3704362015612990315" name="C292">"Վ<ns1:g id="SEPARATOR">=</ns1:g>Վրոցլավ<ns1:g id="TIMEZONE">|Europe/Warsaw</ns1:g>"</string>
+    <string msgid="3807981967850386200" name="C293">"Հ<ns1:g id="SEPARATOR">=</ns1:g>Համբուրգ<ns1:g id="TIMEZONE">|Europe/Berlin</ns1:g>"</string>
+    <string msgid="2800056634746552933" name="C294">"Օ<ns1:g id="SEPARATOR">=</ns1:g>Օուլու<ns1:g id="TIMEZONE">|Europe/Bucharest</ns1:g>"</string>
+    <string msgid="7855357204471157922" name="C295">"Հ<ns1:g id="SEPARATOR">=</ns1:g>Հայֆա<ns1:g id="TIMEZONE">|Asia/Jerusalem</ns1:g>"</string>
+    <string msgid="2834361512883853579" name="C296">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սան Խուան<ns1:g id="TIMEZONE">|America/Puerto_Rico</ns1:g>"</string>
+    <string msgid="5314407834713913608" name="C297">"Տ<ns1:g id="SEPARATOR">=</ns1:g>Տեգուսիգալպա<ns1:g id="TIMEZONE">|America/Tegucigalpa</ns1:g>"</string>
+    <string msgid="4186340979527221275" name="C298">"Պ<ns1:g id="SEPARATOR">=</ns1:g>Պարամաիբո<ns1:g id="TIMEZONE">|America/Paramaribo</ns1:g>"</string>
+    <string msgid="5688169950851674667" name="C299">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կիտո<ns1:g id="TIMEZONE">|America/Panama</ns1:g>"</string>
+    <string msgid="5172979423931428620" name="C3">"Ա<ns1:g id="SEPARATOR">=</ns1:g>Ադդիս-Աբեդա<ns1:g id="TIMEZONE">|Africa/Addis_Ababa</ns1:g>"</string>
+    <string msgid="7351753589989414696" name="C300">"Լ<ns1:g id="SEPARATOR">=</ns1:g>Լյուբլյանա<ns1:g id="TIMEZONE">|Europe/Ljubljana</ns1:g>"</string>
+    <string msgid="9089921329206815602" name="C301">"<ns1:g id="SEPARATOR">=</ns1:g>Աշխաբադ<ns1:g id="TIMEZONE">|Asia/Ashgabat</ns1:g>"</string>
+    <string msgid="6471051311513517449" name="C302">"<ns1:g id="SEPARATOR">=</ns1:g>Ասմարա<ns1:g id="TIMEZONE">|Africa/Asmara</ns1:g>"</string>
+    <string msgid="6208957436062127281" name="C303">"<ns1:g id="SEPARATOR">=</ns1:g>Բանդար Սերի Բեգավան<ns1:g id="TIMEZONE">|Asia/Brunei</ns1:g>"</string>
+    <string msgid="7757188637892125245" name="C304">"<ns1:g id="SEPARATOR">=</ns1:g>Բանգի<ns1:g id="TIMEZONE">|Africa/Bangui</ns1:g>"</string>
+    <string msgid="5538312768539249335" name="C305">"<ns1:g id="SEPARATOR">=</ns1:g>Բանջուլ<ns1:g id="TIMEZONE">|Africa/Banjul</ns1:g>"</string>
+    <string msgid="6400938736119754675" name="C306">"<ns1:g id="SEPARATOR">=</ns1:g>Բիշքեկ<ns1:g id="TIMEZONE">|Asia/Bishkek</ns1:g>"</string>
+    <string msgid="1169132195117591472" name="C307">"<ns1:g id="SEPARATOR">=</ns1:g>Բիսաու<ns1:g id="TIMEZONE">|Africa/Bissau</ns1:g>"</string>
+    <string msgid="7704965635342439141" name="C308">"<ns1:g id="SEPARATOR">=</ns1:g>Բուժումբուրա<ns1:g id="TIMEZONE">|Africa/Bujumbura</ns1:g>"</string>
+    <string msgid="1522235235310763925" name="C309">"<ns1:g id="SEPARATOR">=</ns1:g>Դիլի<ns1:g id="TIMEZONE">|Asia/Dili</ns1:g>"</string>
+    <string msgid="9017443250572798257" name="C31">"Ա<ns1:g id="SEPARATOR">=</ns1:g>Արուբա<ns1:g id="TIMEZONE">|America/Aruba</ns1:g>"</string>
+    <string msgid="8666508463588411257" name="C310">"<ns1:g id="SEPARATOR">=</ns1:g>Դուշանբե<ns1:g id="TIMEZONE">|Asia/Dushanbe</ns1:g>"</string>
+    <string msgid="5940486195605635031" name="C311">"<ns1:g id="SEPARATOR">=</ns1:g>Ֆունաֆուտի<ns1:g id="TIMEZONE">|Pacific/Funafuti</ns1:g>"</string>
+    <string msgid="1714210141256903683" name="C312">"<ns1:g id="SEPARATOR">=</ns1:g>Հոնիարա<ns1:g id="TIMEZONE">|Pacific/Guadalcanal</ns1:g>"</string>
+    <string msgid="8390229571948311411" name="C313">"<ns1:g id="SEPARATOR">=</ns1:g>Ջուբա<ns1:g id="TIMEZONE">|Africa/Juba</ns1:g>"</string>
+    <string msgid="3840011425345102604" name="C314">"<ns1:g id="SEPARATOR">=</ns1:g>Քինգստոն<ns1:g id="TIMEZONE">|America/St_Vincent</ns1:g>"</string>
+    <string msgid="8962557999110557329" name="C315">"<ns1:g id="SEPARATOR">=</ns1:g>Լիբրևիլ<ns1:g id="TIMEZONE">|Africa/Libreville</ns1:g>"</string>
+    <string msgid="3674113287320887951" name="C316">"<ns1:g id="SEPARATOR">=</ns1:g>Լոմե<ns1:g id="TIMEZONE">|Africa/Lome</ns1:g>"</string>
+    <string msgid="4818049429422081055" name="C317">"<ns1:g id="SEPARATOR">=</ns1:g>Լուանդա<ns1:g id="TIMEZONE">|Africa/Luanda</ns1:g>"</string>
+    <string msgid="3814107319819817789" name="C318">"<ns1:g id="SEPARATOR">=</ns1:g>Լուսակա<ns1:g id="TIMEZONE">|Africa/Lusaka</ns1:g>"</string>
+    <string msgid="5757039321992317631" name="C319">"<ns1:g id="SEPARATOR">=</ns1:g>Մաջուրո<ns1:g id="TIMEZONE">|Pacific/Majuro</ns1:g>"</string>
+    <string msgid="3825060534011309483" name="C32">"Ա<ns1:g id="SEPARATOR">=</ns1:g>Ասունսիոն<ns1:g id="TIMEZONE">|America/Asuncion</ns1:g>"</string>
+    <string msgid="8334348266391215583" name="C320">"<ns1:g id="SEPARATOR">=</ns1:g>Մալաբո<ns1:g id="TIMEZONE">|Africa/Malabo</ns1:g>"</string>
+    <string msgid="5401323973667971972" name="C321">"<ns1:g id="SEPARATOR">=</ns1:g>Մապուտու<ns1:g id="TIMEZONE">|Africa/Maputo</ns1:g>"</string>
+    <string msgid="67637052310417975" name="C322">"<ns1:g id="SEPARATOR">=</ns1:g>Մբաբանե<ns1:g id="TIMEZONE">|Africa/Mbabane</ns1:g>"</string>
+    <string msgid="4500721332684955521" name="C323">"<ns1:g id="SEPARATOR">=</ns1:g>Մորոնի<ns1:g id="TIMEZONE">|Indian/Comoro</ns1:g>"</string>
+    <string msgid="1741927819842539260" name="C324">"<ns1:g id="SEPARATOR">=</ns1:g>Նջամենա<ns1:g id="TIMEZONE">|Africa/Ndjamena</ns1:g>"</string>
+    <string msgid="8771905307322194055" name="C325">"<ns1:g id="SEPARATOR">=</ns1:g>Նգերուլմուդ<ns1:g id="TIMEZONE">|Pacific/Palau</ns1:g>"</string>
+    <string msgid="2389198042593603472" name="C326">"<ns1:g id="SEPARATOR">=</ns1:g>Նիամեյ<ns1:g id="TIMEZONE">|Africa/Niamey</ns1:g>"</string>
+    <string msgid="5317479895686981912" name="C327">"<ns1:g id="SEPARATOR">=</ns1:g>Նիկոսիա<ns1:g id="TIMEZONE">|Europe/Nicosia</ns1:g>"</string>
+    <string msgid="6416405203954996861" name="C328">"<ns1:g id="SEPARATOR">=</ns1:g>Նուակշոտ<ns1:g id="TIMEZONE">|Africa/Nouakchott</ns1:g>"</string>
+    <string msgid="6876960940903095843" name="C329">"<ns1:g id="SEPARATOR">=</ns1:g>Նուկուալոֆա<ns1:g id="TIMEZONE">|Pacific/Tongatapu</ns1:g>"</string>
+    <string msgid="700410369162607101" name="C33">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բարբադոս<ns1:g id="TIMEZONE">|America/Barbados</ns1:g>"</string>
+    <string msgid="1572294706542426161" name="C330">"Ու<ns1:g id="SEPARATOR">=</ns1:g>Ուագադուգու<ns1:g id="TIMEZONE">|Africa/Ouagadougou</ns1:g>"</string>
+    <string msgid="2607492003890117689" name="C331">"<ns1:g id="SEPARATOR">=</ns1:g>Պալիկիր<ns1:g id="TIMEZONE">|Pacific/Noumea</ns1:g>"</string>
+    <string msgid="8349533418456323370" name="C332">"<ns1:g id="SEPARATOR">=</ns1:g>Ֆիլիպսբուրգ<ns1:g id="TIMEZONE">|America/Lower_Princes</ns1:g>"</string>
+    <string msgid="2842640664018042568" name="C333">"<ns1:g id="SEPARATOR">=</ns1:g>Պոդգորիցա<ns1:g id="TIMEZONE">|Europe/Podgorica</ns1:g>"</string>
+    <string msgid="3310146581437635671" name="C334">"<ns1:g id="SEPARATOR">=</ns1:g>Պորտ Մորսբի<ns1:g id="TIMEZONE">|Pacific/Palau</ns1:g>"</string>
+    <string msgid="3317158262102352303" name="C335">"<ns1:g id="SEPARATOR">=</ns1:g>Պորտ Վիլա<ns1:g id="TIMEZONE">|Pacific/Efate</ns1:g>"</string>
+    <string msgid="3810072761869903472" name="C336">"<ns1:g id="SEPARATOR">=</ns1:g>Պորտո Նովո<ns1:g id="TIMEZONE">|Africa/Porto-Novo</ns1:g>"</string>
+    <string msgid="3412269218104112252" name="C337">"<ns1:g id="SEPARATOR">=</ns1:g>Պրիշտինա<ns1:g id="TIMEZONE">|Europe/Belgrade</ns1:g>"</string>
+    <string msgid="6151841959824325885" name="C338">"<ns1:g id="SEPARATOR">=</ns1:g>Ռոզո<ns1:g id="TIMEZONE">|America/Dominica</ns1:g>"</string>
+    <string msgid="8909994815975646525" name="C339">"<ns1:g id="SEPARATOR">=</ns1:g>Տաշքենդ<ns1:g id="TIMEZONE">|Asia/Tashkent</ns1:g>"</string>
+    <string msgid="4247046344370912762" name="C34">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բելիզ<ns1:g id="TIMEZONE">|America/Belize</ns1:g>"</string>
+    <string msgid="415479723070879485" name="C340">"<ns1:g id="SEPARATOR">=</ns1:g>Թբիլիսի<ns1:g id="TIMEZONE">|Asia/Tbilisi</ns1:g>"</string>
+    <string msgid="2299478430610154042" name="C341">"<ns1:g id="SEPARATOR">=</ns1:g>Թհիմփհու<ns1:g id="TIMEZONE">|Asia/Thimphu</ns1:g>"</string>
+    <string msgid="7997617194333170685" name="C342">"<ns1:g id="SEPARATOR">=</ns1:g>Տիրանա<ns1:g id="TIMEZONE">|Europe/Tirane</ns1:g>"</string>
+    <string msgid="622805851462854910" name="C343">"<ns1:g id="SEPARATOR">=</ns1:g>Վադուց<ns1:g id="TIMEZONE">|Europe/Vaduz</ns1:g>"</string>
+    <string msgid="7629820826386244509" name="C344">"<ns1:g id="SEPARATOR">=</ns1:g>Վիենտյան<ns1:g id="TIMEZONE">|Asia/Vientiane</ns1:g>"</string>
+    <string msgid="1881198350378158072" name="C345">"<ns1:g id="SEPARATOR">=</ns1:g>Վինդհուկ<ns1:g id="TIMEZONE">|Africa/Windhoek</ns1:g>"</string>
+    <string msgid="2947674392768816097" name="C346">"<ns1:g id="SEPARATOR">=</ns1:g>Յաունդե<ns1:g id="TIMEZONE">|Africa/Douala</ns1:g>"</string>
+    <string msgid="6291282205599716861" name="C347">"<ns1:g id="SEPARATOR">=</ns1:g>Յարեն<ns1:g id="TIMEZONE">|Pacific/Nauru</ns1:g>"</string>
+    <string msgid="8462071023392592539" name="C348">"<ns1:g id="SEPARATOR">=</ns1:g>Երևան<ns1:g id="TIMEZONE">|Asia/Yerevan</ns1:g>"</string>
+    <string msgid="2794708943743875418" name="C35">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բոգոտա<ns1:g id="TIMEZONE">|America/Bogota</ns1:g>"</string>
+    <string msgid="5404342554664613950" name="C36">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բուենոս Այրես<ns1:g id="TIMEZONE">|America/Buenos_Aires</ns1:g>"</string>
+    <string msgid="210142862572070093" name="C37">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կանկուն<ns1:g id="TIMEZONE">|America/Cancun</ns1:g>"</string>
+    <string msgid="3882347315148425276" name="C38">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կարակաս<ns1:g id="TIMEZONE">|America/Caracas</ns1:g>"</string>
+    <string msgid="1273212484626323439" name="C39">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կայման<ns1:g id="TIMEZONE">|America/Cayman</ns1:g>"</string>
+    <string msgid="4450258423854546267" name="C4">"Ա<ns1:g id="SEPARATOR">=</ns1:g>Ալժիր<ns1:g id="TIMEZONE">|Africa/Algiers</ns1:g>"</string>
+    <string msgid="3106173663723475314" name="C40">"Չ<ns1:g id="SEPARATOR">=</ns1:g>Չիկագո<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="5638414063615009004" name="C42">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կյուրասաո<ns1:g id="TIMEZONE">|America/Curacao</ns1:g>"</string>
+    <string msgid="6826097241516998181" name="C43">"Դ<ns1:g id="SEPARATOR">=</ns1:g>Դոուսոն Կրիկ<ns1:g id="TIMEZONE">|America/Dawson_Creek</ns1:g>"</string>
+    <string msgid="2779334691893631030" name="C44">"Դ<ns1:g id="SEPARATOR">=</ns1:g>Դենվեր<ns1:g id="TIMEZONE">|America/Denver</ns1:g>"</string>
+    <string msgid="8943178793317201894" name="C45">"Դ<ns1:g id="SEPARATOR">=</ns1:g>Դետրոյթ<ns1:g id="TIMEZONE">|America/Detroit</ns1:g>"</string>
+    <string msgid="5190250990574320177" name="C46">"Դ<ns1:g id="SEPARATOR">=</ns1:g>Դոմինիկա<ns1:g id="TIMEZONE">|America/Dominica</ns1:g>"</string>
+    <string msgid="369754396219379227" name="C47">"Է<ns1:g id="SEPARATOR">=</ns1:g>Էդմոնտոն<ns1:g id="TIMEZONE">|America/Edmonton</ns1:g>"</string>
+    <string msgid="7918902616648922410" name="C48">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սալվադոր<ns1:g id="TIMEZONE">|America/El_Salvador</ns1:g>"</string>
+    <string msgid="6326857727742458931" name="C49">"Ֆ<ns1:g id="SEPARATOR">=</ns1:g>Ֆորտալեզա<ns1:g id="TIMEZONE">|America/Fortaleza</ns1:g>"</string>
+    <string msgid="8063142106679202722" name="C5">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բլանթայր<ns1:g id="TIMEZONE">|Africa/Blantyre</ns1:g>"</string>
+    <string msgid="3131498820508584398" name="C50">"Գ<ns1:g id="SEPARATOR">=</ns1:g>Գրանդ Տերկ<ns1:g id="TIMEZONE">|America/Grand_Turk</ns1:g>"</string>
+    <string msgid="3122278921760822414" name="C51">"Գ<ns1:g id="SEPARATOR">=</ns1:g>Գրենադա<ns1:g id="TIMEZONE">|America/Grenada</ns1:g>"</string>
+    <string msgid="7461551991724617520" name="C52">"Գ<ns1:g id="SEPARATOR">=</ns1:g>Գվատեմալա<ns1:g id="TIMEZONE">|America/Guatemala</ns1:g>"</string>
+    <string msgid="296242785331472791" name="C53">"Գ<ns1:g id="SEPARATOR">=</ns1:g>Գայանա<ns1:g id="TIMEZONE">|America/Guyana</ns1:g>"</string>
+    <string msgid="4045007274020361950" name="C54">"Հ<ns1:g id="SEPARATOR">=</ns1:g>Հալիֆաքս<ns1:g id="TIMEZONE">|America/Halifax</ns1:g>"</string>
+    <string msgid="8180186289266487770" name="C55">"Հ<ns1:g id="SEPARATOR">=</ns1:g>Հավանա<ns1:g id="TIMEZONE">|America/Havana</ns1:g>"</string>
+    <string msgid="6062281725956353553" name="C56">"Ի<ns1:g id="SEPARATOR">=</ns1:g>Ինդիանապոլիս<ns1:g id="TIMEZONE">|America/Indiana/Indianapolis</ns1:g>"</string>
+    <string msgid="5971109906791493563" name="C57">"Ն<ns1:g id="SEPARATOR">=</ns1:g>Նոքս<ns1:g id="TIMEZONE">|America/Indiana/Knox</ns1:g>"</string>
+    <string msgid="7657721717096348613" name="C58">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մարենգո<ns1:g id="TIMEZONE">|America/Indiana/Marengo</ns1:g>"</string>
+    <string msgid="2053523400941417307" name="C59">"Պ<ns1:g id="SEPARATOR">=</ns1:g>Պետերբուրգ<ns1:g id="TIMEZONE">|America/Indiana/Petersburg</ns1:g>"</string>
+    <string msgid="1620940469531839828" name="C6">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բրազզավիլ<ns1:g id="TIMEZONE">|Africa/Brazzaville</ns1:g>"</string>
+    <string msgid="8112283891039465817" name="C60">"Տ<ns1:g id="SEPARATOR">=</ns1:g>Տելլ Սիթի<ns1:g id="TIMEZONE">|America/Indiana/Tell_City</ns1:g>"</string>
+    <string msgid="7778713489993559227" name="C61">"Վ<ns1:g id="SEPARATOR">=</ns1:g>Վեվեյ<ns1:g id="TIMEZONE">|America/Indiana/Vevay</ns1:g>"</string>
+    <string msgid="2667958702401099683" name="C62">"Վ<ns1:g id="SEPARATOR">=</ns1:g>Վենսան<ns1:g id="TIMEZONE">|America/Indiana/Vincennes</ns1:g>"</string>
+    <string msgid="2251274863869460838" name="C63">"Վ<ns1:g id="SEPARATOR">=</ns1:g>Վինամակ<ns1:g id="TIMEZONE">|America/Indiana/Winamac</ns1:g>"</string>
+    <string msgid="1051183687128385699" name="C64">"Ք<ns1:g id="SEPARATOR">=</ns1:g>Քինգսթոն<ns1:g id="TIMEZONE">|America/Jamaica</ns1:g>"</string>
+    <string msgid="4484953311341882894" name="C65">"Ն<ns1:g id="SEPARATOR">=</ns1:g>Նուեստրա Սենոնա դե Լա Պազ<ns1:g id="TIMEZONE">|America/La_Paz</ns1:g>"</string>
+    <string msgid="4486852398001333122" name="C66">"Լ<ns1:g id="SEPARATOR">=</ns1:g>Լիմա<ns1:g id="TIMEZONE">|America/Lima</ns1:g>"</string>
+    <string msgid="4874799181719358019" name="C67">"Լ<ns1:g id="SEPARATOR">=</ns1:g>Լոս Անջելես<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="5526012011469271690" name="C68">"Լ<ns1:g id="SEPARATOR">=</ns1:g>Լուիսվիլլ<ns1:g id="TIMEZONE">|America/Louisville</ns1:g>"</string>
+    <string msgid="6147580167560875608" name="C69">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մանագուա<ns1:g id="TIMEZONE">|America/Managua</ns1:g>"</string>
+    <string msgid="8450502029020824529" name="C7">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կահիրե<ns1:g id="TIMEZONE">|Africa/Cairo</ns1:g>"</string>
+    <string msgid="3277881296053225577" name="C70">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մարտինիկ<ns1:g id="TIMEZONE">|America/Martinique</ns1:g>"</string>
+    <string msgid="4017941126335556194" name="C71">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մենդոզա<ns1:g id="TIMEZONE">|America/Mendoza</ns1:g>"</string>
+    <string msgid="3992109594245379480" name="C72">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մետլակատլա<ns1:g id="TIMEZONE">|America/Metlakatla</ns1:g>"</string>
+    <string msgid="2715229408279026929" name="C73">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մեխիկո Սիթի<ns1:g id="TIMEZONE">|America/Mexico_City</ns1:g>"</string>
+    <string msgid="4308784353529592128" name="C74">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մոնտերեյ<ns1:g id="TIMEZONE">|America/Monterrey</ns1:g>"</string>
+    <string msgid="1026967177018172509" name="C75">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մոնտեվիդեո<ns1:g id="TIMEZONE">|America/Montevideo</ns1:g>"</string>
+    <string msgid="5677155513568462679" name="C76">"Մ<ns1:g id="SEPARATOR">=</ns1:g>Մոնրեալ<ns1:g id="TIMEZONE">|America/Montreal</ns1:g>"</string>
+    <string msgid="7071675194537613715" name="C77">"Ն<ns1:g id="SEPARATOR">=</ns1:g>Նասսաու<ns1:g id="TIMEZONE">|America/Nassau</ns1:g>"</string>
+    <string msgid="705452895809394827" name="C78">"Ն<ns1:g id="SEPARATOR">=</ns1:g>Նյու Յորք<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="615046244335186458" name="C79">"Բ<ns1:g id="SEPARATOR">=</ns1:g>Բյուլա<ns1:g id="TIMEZONE">|America/North_Dakota/Beulah</ns1:g>"</string>
+    <string msgid="5843391672611053116" name="C8">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կասաբլանկա<ns1:g id="TIMEZONE">|Africa/Casablanca</ns1:g>"</string>
+    <string msgid="7462541787750301851" name="C80">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սենթր<ns1:g id="TIMEZONE">|America/North_Dakota/Center</ns1:g>"</string>
+    <string msgid="5467118811364466464" name="C81">"Ն<ns1:g id="SEPARATOR">=</ns1:g>Նյու Սալեմ<ns1:g id="TIMEZONE">|America/North_Dakota/New_Salem</ns1:g>"</string>
+    <string msgid="1040250446144596478" name="C82">"Պ<ns1:g id="SEPARATOR">=</ns1:g>Պանամա<ns1:g id="TIMEZONE">|America/Panama</ns1:g>"</string>
+    <string msgid="3734366600481445363" name="C83">"Ֆ<ns1:g id="SEPARATOR">=</ns1:g>Ֆենիքս<ns1:g id="TIMEZONE">|America/Phoenix</ns1:g>"</string>
+    <string msgid="2410152141185166321" name="C84">"Պ<ns1:g id="SEPARATOR">=</ns1:g>Պորտ օֆ Սպեյն<ns1:g id="TIMEZONE">|America/Port_of_Spain</ns1:g>"</string>
+    <string msgid="2883572094139689939" name="C85">"Պ<ns1:g id="SEPARATOR">=</ns1:g>Պորտ-օ-Պրինս<ns1:g id="TIMEZONE">|America/Port-au-Prince</ns1:g>"</string>
+    <string msgid="274590042868724214" name="C86">"Պ<ns1:g id="SEPARATOR">=</ns1:g>Պուերտո Ռիկո<ns1:g id="TIMEZONE">|America/Puerto_Rico</ns1:g>"</string>
+    <string msgid="2866918562243248306" name="C87">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սանտո Դոմինգո<ns1:g id="TIMEZONE">|America/Santo_Domingo</ns1:g>"</string>
+    <string msgid="2261702707416420550" name="C88">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սան Պաուլո<ns1:g id="TIMEZONE">|America/Sao_Paulo</ns1:g>"</string>
+    <string msgid="8517952667962700432" name="C89">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սենտ Ջոնս<ns1:g id="TIMEZONE">|America/St_Johns</ns1:g>"</string>
+    <string msgid="2164088076645942134" name="C9">"Կ<ns1:g id="SEPARATOR">=</ns1:g>Կոնակրի<ns1:g id="TIMEZONE">|Africa/Conakry</ns1:g>"</string>
+    <string msgid="1703939848190669830" name="C90">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սենտ Քիթս<ns1:g id="TIMEZONE">|America/St_Kitts</ns1:g>"</string>
+    <string msgid="4438261556294969442" name="C91">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սենտ Լյուսիա<ns1:g id="TIMEZONE">|America/St_Lucia</ns1:g>"</string>
+    <string msgid="3717300223413621820" name="C92">"Ս<ns1:g id="SEPARATOR">=</ns1:g>Սենտ Տոմաս<ns1:g id="TIMEZONE">|America/St_Thomas</ns1:g>"</string>
+    <string msgid="964552099122372664" name="C93">"Տ<ns1:g id="SEPARATOR">=</ns1:g>Տիհուանա<ns1:g id="TIMEZONE">|America/Tijuana</ns1:g>"</string>
+    <string msgid="6254783598629305021" name="C94">"Տ<ns1:g id="SEPARATOR">=</ns1:g>Տորոնտո<ns1:g id="TIMEZONE">|America/Toronto</ns1:g>"</string>
+    <string msgid="2144206125989179089" name="C95">"Վ<ns1:g id="SEPARATOR">=</ns1:g>Վանկուվեր<ns1:g id="TIMEZONE">|America/Vancouver</ns1:g>"</string>
+    <string msgid="3995904432128369027" name="C96">"Վ<ns1:g id="SEPARATOR">=</ns1:g>Վիննիպեգ<ns1:g id="TIMEZONE">|America/Winnipeg</ns1:g>"</string>
+    <string msgid="5667595440938233073" name="C97">"Հ<ns1:g id="SEPARATOR">=</ns1:g>Հարավային Բևեռ<ns1:g id="PHONETIC">:</ns1:g><ns1:g id="TIMEZONE">|Antarctica/South_Pole</ns1:g>"</string>
+    <string msgid="2067640513126652156" name="C98">"Լ<ns1:g id="SEPARATOR">=</ns1:g>Լոնգյերբյեն<ns1:g id="TIMEZONE">|Arctic/Longyearbyen</ns1:g>"</string>
+    <string msgid="6750041547603679548" name="C99">"Ա<ns1:g id="SEPARATOR">=</ns1:g>Ալմա Աթա<ns1:g id="TIMEZONE">|Asia/Almaty</ns1:g>"</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ուղղվել տուն"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Ուղղվել վերև"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Այլ ընտրանքներ"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Պատրաստ է"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Տեսնել բոլորը"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Ընտրել ծրագիր"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ԱՆՋԱՏՎԱԾ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ՄԻԱՑՎԱԾ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Որոնում..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Մաքրել հարցումը"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Որոնման հարցում"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Որոնել"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Ուղարկել հարցումը"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Ձայնային որոնում"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Կիսվել"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Ուղարկել <ns1:g id="APPLICATION_NAME">%s</ns1:g>-ին"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Թաքցնել"</string>
+    <string msgid="2546936797351540244" name="add_new_sound">"Ավելացնել նորը"</string>
+    <string msgid="4942914605480888820" name="alarm_alert_dismiss_text">"Անջատել"</string>
+    <string msgid="4472073417593915002" name="alarm_alert_off_text">"Անջատված է"</string>
+    <string msgid="5723945586913705445" name="alarm_alert_predismiss_title">"Սպասվող ազդանշան"</string>
+    <string msgid="1774416052207651584" name="alarm_alert_snooze_text">"Հետաձգել"</string>
+    <string msgid="6958013659168344550" name="alarm_alert_snooze_until">"Հետաձգվում է մինչև <ns1:g id="TIME">%s</ns1:g>"</string>
+    <string msgid="7064642998528766113" name="alarm_alert_snoozed_text">"Հետաձգված է"</string>
+    <string msgid="8810520940995307437" name="alarm_cant_be_dismissed_still_more_than_24_hours_away">"Չեք կարող անտեսել ժ. <ns1:g id="ALARM_TIME">%s</ns1:g>-ի զարթուցիչը, քանի որ դեռ 24 ժամ կա դրան"</string>
+    <string msgid="6131529309389084785" name="alarm_deleted">"Զարթուցիչը ջնջված է"</string>
+    <string msgid="5509897230565826642" name="alarm_is_dismissed">"Ժ. <ns1:g id="ALARM_TIME">%s</ns1:g>-ի զարթուցիչը անտեսված է"</string>
+    <string msgid="5503226382620011088" name="alarm_is_set">"Զարթուցիչը դրված է <ns1:g id="ALARM_TIME">%s</ns1:g>-ին"</string>
+    <string msgid="7044644119744928846" name="alarm_is_snoozed">"Ժ. <ns1:g id="ALARM_TIME">%s</ns1:g>-ի զարթուցիչը նիրհեցված է 10 րոպեով"</string>
+    <string msgid="6585658367289194023" name="alarm_missed_text">"<ns1:g id="ALARM_TIME">%s</ns1:g> - <ns1:g id="ALARM_LABEL">%s</ns1:g>"</string>
+    <string msgid="3828345099754063392" name="alarm_missed_title">"Բաց թողնված ազդանշան"</string>
+    <string msgid="7242985466344233206" name="alarm_repeat">"Կրկնել"</string>
+    <string msgid="2947147071388290814" name="alarm_settings">"Զարթուցիչներ"</string>
+    <string msgid="8754499591391638405" name="alarm_sound">"Զարթուցիչի ազդանշան"</string>
+    <string msgid="7873594221106531654" name="alarm_today">"Այսօր"</string>
+    <string msgid="131356848787643420" name="alarm_tomorrow">"Վաղը"</string>
+    <string msgid="5710042601177655254" name="alarm_undo">"հետարկել"</string>
+    <string msgid="3476686921490362230" name="alarm_vibrate">"Թրթռոց"</string>
+    <string msgid="6658289289695673569" name="alarm_volume_muted">"Զարթուցիչի ձայնն անջատված է"</string>
+    <string msgid="8506245173912428522" name="alarm_volume_title">"Զարթուցիչի ձայնը"</string>
+    <string msgid="6089433757505898969" name="alarms_blocked_by_dnd">"Սարքը ընդհանուր լուռ ռեժիմում է"</string>
+    <string msgid="883027111895833440" name="all_timers_stopped_notif">"Հպեք՝ ձեր ժամաչափերը տեսնելու համար"</string>
+    <string msgid="1670505720837152766" name="analog_gadget">"Անալոգային ժամացույց"</string>
+    <string msgid="6674495003718166674" name="app_label">"Ժամացույց"</string>
+    <string msgid="7249150789023936889" name="app_notifications_blocked">"Ժամացույցի ծանուցումներն արգելափակված են"</string>
+    <string msgid="4821982647348750809" name="auto_silence_never">"Երբեք"</string>
+    <string msgid="2012754009554434544" name="auto_silence_title">"Լռել"</string>
+    <string msgid="6274174710735449252" name="automatic_home_clock">"Ավտոմատ տեղական ժամանակ"</string>
+    <string msgid="6020476321040807273" name="automatic_home_clock_summary">"Ճամփորդության ժամանակ, երբ ժամային գոտիները տարբեր են, ցուցադրել տեղական ժամանակը"</string>
+    <string msgid="3907838219512538763" name="button_alarms">"Ավելացնել զարթուցիչ"</string>
+    <string msgid="4555761857494501363" name="button_cities">"Քաղաքներ"</string>
+    <string msgid="1224356633832430160" name="change_setting_action">"Փոխել"</string>
+    <string msgid="8552462751129256730" name="cities_activity_title">"Քաղաքներ"</string>
+    <string msgid="616847871968019" name="city_checked">"Նշված է <ns1:g id="CITY_NAME">%s</ns1:g> քաղաքը"</string>
+    <string msgid="710212932781145918" name="city_unchecked">"<ns1:g id="CITY_NAME">%s</ns1:g> քաղաքը նշված չէ"</string>
+    <string msgid="8317286807280600391" name="clock_settings">"Ժամացույց"</string>
+    <string msgid="2265011060429742344" name="clock_style">"Տեսակը"</string>
+    <string msgid="3561772046433483980" name="collapse_alarm">"Թաքցնել զարթուցիչը"</string>
+    <string msgid="1724111242265208553" name="confirm_remove_custom_ringtone">"Այս զանգերանգն օգտագործող զարթուցիչները և ժամաչափերը փոխարենը կնվագարկեն կանխադրված զանգերանգը:"</string>
+    <string msgid="8606408542726189528" name="crescendo_duration_title">"Աստիճանաբար բարձրացնել ձայնը"</string>
+    <string msgid="3406310054255354331" name="custom_ringtone_lost_permissions">"Ձայնային ազդանշանները հասանելի չեն հավելվածին"</string>
+    <string msgid="971998564991636532" name="day_concat">", "</string>
+    <string msgid="2916376768509623643" name="default_alarm_ringtone_title">"Զարթուցիչի կանխադրված ձայնը"</string>
+    <string msgid="5590025289805630372" name="default_label">"Զարթուցիչ"</string>
+    <string msgid="1370799536406862317" name="default_timer_ringtone_title">"Ժամաչափի ժամանակը սպառվել է"</string>
+    <string msgid="5732434972457000541" name="delete">"Ջնջել"</string>
+    <string msgid="1841309486023845685" name="description_direction_both">"Սահեցրեք ձախ՝ հետաձգելու համար։ Աջ՝ անջատելու համար։"</string>
+    <string msgid="7448141043674998679" name="description_direction_left">"Հետաձգելու համար սահեցրեք ձախ"</string>
+    <string msgid="5709209043267548985" name="description_direction_right">"Անջատելու համար սահեցրեք աջ"</string>
+    <string msgid="1584894148222639823" name="device_sounds">"Սարքի ազդանշանները"</string>
+    <string msgid="2326954556720571358" name="digital_gadget">"Թվային ժամացույց"</string>
+    <string msgid="7204593078688533541" name="dismiss_alarm">"Փակել զարթուցիչը"</string>
+    <string msgid="691506643469501643" name="display_clock_seconds_pref">"Ժամը ցուցադրել վայրկյաններով"</string>
+    <string msgid="4100909974923444602" name="every_day">"Ամեն օր"</string>
+    <string msgid="7392616528943305020" name="expand_alarm">"Ընդարձակել զարթուցիչը"</string>
+    <string msgid="4436139365695453870" name="home_label">"Տեղական"</string>
+    <string msgid="9199730676287974501" name="home_time_zone">"Տեղական ժամային գոտի"</string>
+    <string msgid="807894493443834624" name="home_time_zone_title">"Տեղական ժամային գոտի"</string>
+    <string msgid="3393478155635368097" name="hours_label">"ժ"</string>
+    <string msgid="5680088738059791288" name="hours_minutes_seconds">"<ns1:g id="HOURS">%d</ns1:g>:<ns1:g id="MINUTES">%02d</ns1:g>:<ns1:g id="SECONDS">%02d</ns1:g>"</string>
+    <string msgid="2782334750243998633" name="invalid_time">"Անվավեր ժամանակ՝ <ns1:g id="INVALID_HOUR">%1$d</ns1:g>:<ns1:g id="INVALID_MINUTES">%2$d</ns1:g> <ns1:g id="INVALID_AMPM">%3$s</ns1:g>"</string>
+    <string msgid="900957020728335675" name="invalid_timer">"Ընտրված է անվավեր ժամաչափ"</string>
+    <string msgid="3104567893212932487" name="invalid_timer_length">"Ժամաչափի տևողությունը սխալ է"</string>
+    <string msgid="162189613902857319" name="label">"Պիտակ"</string>
+    <string msgid="8736179296142915727" name="label_description">"Պիտակ"</string>
+    <string msgid="2138536756534362037" name="lap_number_double_digit">"# <ns1:g id="LAPNUMBER">%02d</ns1:g>"</string>
+    <string msgid="1051159504304610877" name="lap_number_single_digit">"# <ns1:g id="LAPNUMBER">%d</ns1:g>"</string>
+    <string msgid="5306242862476796500" name="loading_widget">"Բեռնում…"</string>
+    <string msgid="4772010125376647519" name="menu_alarm">"Զարթուցիչ"</string>
+    <string msgid="5612760670606829805" name="menu_clock">"Ժամացույց"</string>
+    <string msgid="4570953476186849841" name="menu_item_help">"Օգնություն"</string>
+    <string msgid="2930695838866189483" name="menu_item_night_mode">"Էկրանապահ"</string>
+    <string msgid="1413723516369078665" name="menu_item_settings">"Կարգավորումներ"</string>
+    <string msgid="3120860422682721706" name="menu_item_sort_by_gmt_offset">"Դասակարգել ըստ ժամանակի"</string>
+    <string msgid="1762931290495104106" name="menu_item_sort_by_name">"Դասակարգել ըստ անունների"</string>
+    <string msgid="3396117705293574701" name="menu_stopwatch">"Վայրկենաչափ"</string>
+    <string msgid="6459070074762877114" name="menu_timer">"Ժամաչափ"</string>
+    <string msgid="3568098128251438588" name="minutes_label">"ր"</string>
+    <string msgid="6189446107009577914" name="minutes_seconds">"<ns1:g id="MINUTES">%d</ns1:g>:<ns1:g id="SECONDS">%02d</ns1:g>"</string>
+    <string msgid="5295473204045979335" name="missed_alarm_has_been_deleted">"Ձեր բաց թողած ազդանշանը հեռացված է"</string>
+    <string msgid="665604640028289175" name="missed_named_timer_notification_label">"Բաց թողնված ժամաչափ՝ <ns1:g id="NAME">%s</ns1:g>"</string>
+    <string msgid="6661928727623284334" name="missed_timer_notification_label">"Բաց թողնված ժամաչափ"</string>
+    <string msgid="2650244835760747046" name="next_alarm_description">"Հաջորդ զարթուցիչը՝ <ns1:g id="ALARM_TIME">%s</ns1:g>"</string>
+    <string msgid="6136454740115613653" name="next_timer_notif">"Հաջորդ ժամաչափը՝ <ns1:g id="TIME_REMAINING">%s</ns1:g>"</string>
+    <string msgid="1017350187324162631" name="night_mode_summary">"Շատ մուգ էկրան (մութ սենյակների համար)"</string>
+    <string msgid="5983813889469616299" name="night_mode_title">"Գիշերային ռեժիմ"</string>
+    <string msgid="8140632482969193119" name="no_alarm_at">"<ns1:g id="ALARM_TIME_HOUR">%1$d</ns1:g>:<ns1:g id="ALARM_TIME_MINUTES">%2$d</ns1:g>-ի համար նշանակված զարթուցիչ չկա"</string>
+    <string msgid="4463069177414482818" name="no_alarm_scheduled_for_this_time">"Այս ժամանակի համար նշանակված զարթուցիչ չկա"</string>
+    <string msgid="6429431324842022917" name="no_alarms">"Զարթուցիչներ չկան"</string>
+    <string msgid="6250998794542941665" name="no_alarms_with_label">"Ոչ մի զարթուցիչ պիտակ չունի"</string>
+    <string msgid="4624192298397846876" name="no_expired_timers">"Ժամկետանց ժամաչափեր չկան"</string>
+    <string msgid="4986161963178722289" name="no_firing_alarms">"Զանգող զարթուցիչներ չկան այս պահին"</string>
+    <string msgid="2008482054428460626" name="no_label_specified">"Նշված պիտակ չկա"</string>
+    <string msgid="2115420148192753534" name="no_scheduled_alarms">"Հերթագրված զարթուցիչներ չկան"</string>
+    <string msgid="7712226973337806152" name="open_date_settings">"Ամսաթվի և ժամի փոփոխում"</string>
+    <string msgid="5408769235866082896" name="pick_alarm_to_dismiss">"Ընտրեք՝ որ զարթուցիչը փակել"</string>
+    <string msgid="2064643204455734239" name="remove_sound">"Հեռացնել"</string>
+    <string msgid="7580922112921069925" name="ringtone_description">"Զանգերանգ"</string>
+    <string msgid="1780742944194267226" name="screensaver_settings">"Էկրանապահի կարգավորում"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Որոնել"</string>
+    <string msgid="124655952824003246" name="seconds_label">"վ"</string>
+    <string msgid="3607479399424246605" name="selected_cities_label">"Ընտրված քաղաքներ"</string>
+    <string msgid="5849739030579520686" name="settings">"Կարգավորումներ"</string>
+    <string msgid="4778064830147981089" name="shortcut_new_alarm_long">"Ստեղծել նոր զարթուցիչ"</string>
+    <string msgid="3490418929139725538" name="shortcut_new_alarm_short">"Նոր զարթուցիչ"</string>
+    <string msgid="5194092459678096067" name="shortcut_new_timer_long">"Ստեղծել նոր ժամաչափ"</string>
+    <string msgid="3793414543219297884" name="shortcut_new_timer_short">"Նոր ժամաչափ"</string>
+    <string msgid="435026905074898334" name="shortcut_pause_stopwatch_long">"Դադարեցնել վայրկենաչափը"</string>
+    <string msgid="4022667323693785830" name="shortcut_pause_stopwatch_short">"Դադարեցնել"</string>
+    <string msgid="6134275671119484907" name="shortcut_start_screensaver_long">"Միացնել էկրանապահը"</string>
+    <string msgid="3414762073311954753" name="shortcut_start_screensaver_short">"Էկրանապահ"</string>
+    <string msgid="9183061797046030376" name="shortcut_start_stopwatch_long">"Գործարկել վարկենաչափը"</string>
+    <string msgid="5469715764277476796" name="shortcut_start_stopwatch_short">"Գործարկել"</string>
+    <string msgid="6012855475009670997" name="silent_default_alarm_ringtone">"Զարթուցիչի զանգերանգը ըստ կանխադրման լուռ է"</string>
+    <string msgid="6177287302898634765" name="silent_ringtone_title">"Անձայն"</string>
+    <string msgid="1097309861110780483" name="snooze_duration_title">"Հետաձգման տևողությունը"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9220132827343760767" name="stopwatch_service_desc">"Մշակում է վայրկենաչափի ծանուցումներից ծագող գործողությունները:"</string>
+    <string msgid="6992264696039004233" name="sw_lap_button">"Շրջան"</string>
+    <string msgid="3535420316052647126" name="sw_notification_lap_number">"Շրջան <ns1:g id="NUMBER">%d</ns1:g>"</string>
+    <string msgid="2422084453454138042" name="sw_pause_button">"Դադարեցնել"</string>
+    <string msgid="6616804728322906117" name="sw_reset_button">"Վերակայել"</string>
+    <string msgid="2569360966002022248" name="sw_resume_button">"Շարունակել"</string>
+    <string msgid="4478648110382859382" name="sw_share_button">"Կիսվել"</string>
+    <string msgid="614390674795945007" name="sw_share_laps">"Շրջանի ժամանակը՝"</string>
+    <string msgid="7703563468204234405" name="sw_share_main">"Իմ ժամանակն է <ns1:g id="TIME">%s</ns1:g>"</string>
+    <string msgid="8373422516681242270" name="sw_start_button">"Մեկնարկել"</string>
+    <string msgid="6364358842808263589" name="swn_paused">"Կանգնեցված է"</string>
+    <string msgid="6096646178998456004" name="timer_accessibility_one_minute_added">"Ժամաչափին ավելացվել է մեկ րոպե, <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="8503877052873671219" name="timer_accessibility_started">"Ժամաչափը գործարկված է, <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="2753501043114605474" name="timer_accessibility_stopped">"Ժամաչափը դադարեցված է, <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="207816824783281446" name="timer_add_minute">"+ 1:00"</string>
+    <string msgid="862733633862574752" name="timer_add_timer">"Ավելացնել ժամաչափ"</string>
+    <string msgid="3572868404230815644" name="timer_cancel">"Չեղարկել"</string>
+    <string msgid="7327923392567128060" name="timer_canceled">"Ժամաչափը չեղարկվել է"</string>
+    <string msgid="4381027137335885547" name="timer_created">"Ժամաչափը ստեղծված է"</string>
+    <string msgid="8699122001991909302" name="timer_delete">"Ջնջել"</string>
+    <string msgid="9110322362460029392" name="timer_deleted">"Ժամաչափը ջնջված է"</string>
+    <string msgid="8794915342760383536" name="timer_descriptive_delete">"Ջնջել <ns1:g id="NUMBER_STRING">%s</ns1:g>-ը"</string>
+    <string msgid="9085073572920385362" name="timer_multi_missed">"Բաց է թողնվել <ns1:g id="NUMBER">%d</ns1:g> ժամաչափ"</string>
+    <string msgid="1239104626836080409" name="timer_multi_times_up">"<ns1:g id="NUM_TIMERS">%d</ns1:g> ժամանակաչափ սպառվել է"</string>
+    <string msgid="4933184831583137249" name="timer_notification_label">"Ժամաչափ"</string>
+    <string msgid="1613266446037145138" name="timer_notifications_hours">"<ns1:g id="HOURS">%1$s</ns1:g><ns1:g id="REMAINING"> %3$s</ns1:g>"</string>
+    <string msgid="4788475350933275505" name="timer_notifications_hours_minutes">"Մնացել է <ns1:g id="HOURS">%1$s</ns1:g><ns1:g id="MINUTES"> %2$s</ns1:g>"</string>
+    <string msgid="4666176878038730417" name="timer_notifications_hours_minutes_seconds">"<ns1:g id="HOURS">%1$s</ns1:g><ns1:g id="MINUTES"> %2$s</ns1:g><ns1:g id="SECONDS"> %4$s</ns1:g><ns1:g id="REMAINING"> %3$s</ns1:g>"</string>
+    <string msgid="8168090805113197804" name="timer_notifications_hours_seconds">"<ns1:g id="HOURS">%1$s</ns1:g> <ns1:g id="SECONDS"> %4$s</ns1:g><ns1:g id="REMAINING"> %3$s</ns1:g>"</string>
+    <string msgid="5481375048976427255" name="timer_notifications_less_min">"Մնացել է մեկ րոպեից քիչ:"</string>
+    <string msgid="8543138714519498893" name="timer_notifications_minutes">"<ns1:g id="MINUTES">%2$s</ns1:g><ns1:g id="REMAINING"> %3$s</ns1:g>"</string>
+    <string msgid="7059651926379491350" name="timer_notifications_minutes_seconds">"<ns1:g id="MINUTES">%2$s</ns1:g> <ns1:g id="SECONDS"> %4$s</ns1:g><ns1:g id="REMAINING"> %3$s</ns1:g>"</string>
+    <string msgid="122102514929728907" name="timer_notifications_seconds">"<ns1:g id="SECONDS">%4$s</ns1:g><ns1:g id="REMAINING"> %3$s</ns1:g>"</string>
+    <string msgid="3748323712728398743" name="timer_pause">"Դադարեցնել"</string>
+    <string msgid="5941160896040771462" name="timer_paused">"Ժամաչափը դադարեցված է"</string>
+    <string msgid="8645224089494875062" name="timer_plus_1_min">"Ավելացնել 1 րոպե"</string>
+    <string msgid="6631211310420106116" name="timer_plus_one">"Ավելացնել 1 րոպե"</string>
+    <string msgid="6052775962092160851" name="timer_remaining_multiple">"է մնացել"</string>
+    <string msgid="6782851171906765864" name="timer_remaining_single">"է մնացել"</string>
+    <string msgid="7848424809190171640" name="timer_reset">"Վերակայել"</string>
+    <string msgid="7530633132757866087" name="timer_reset_all">"Վերակայել բոլոր ժամաչափերը"</string>
+    <string msgid="2256002649882602433" name="timer_service_desc">"Մշակում է ժամաչափի ծանուցումներից ծագող գործողությունները:"</string>
+    <string msgid="7955522143086154795" name="timer_settings">"Ժամաչափներ"</string>
+    <string msgid="2488277921227564704" name="timer_setup_description">"<ns1:g id="HOURS">%1$s</ns1:g>:<ns1:g id="MINUTES">%2$s</ns1:g>:<ns1:g id="SECONDS">%3$s</ns1:g>"</string>
+    <string msgid="896163086604894735" name="timer_sound">"Ժամաչափի ձայնը"</string>
+    <string msgid="6158486445614356442" name="timer_start">"Մեկնարկել"</string>
+    <string msgid="3361154678667736722" name="timer_stop">"Դադարեցնել"</string>
+    <string msgid="9080780442843034376" name="timer_stop_all">"Կանգնեցնել ժամանակաչափերը"</string>
+    <string msgid="9190440395938519009" name="timer_times_up">"Ժամանակը սպառվել է"</string>
+    <string msgid="7788920024785587518" name="timer_vibrate_title">"Ժամաչափի թրթռոց"</string>
+    <string msgid="5570729467344408506" name="timers_in_use">"<ns1:g id="NUMBER">%d</ns1:g> ժամաչափ"</string>
+    <string msgid="3186191253226005149" name="timers_stopped">"<ns1:g id="NUMBER">%d</ns1:g> ժամաչափ դադարեցված է"</string>
+    <string msgid="6637522029614550112" name="unknown_ringtone_title">"Անհայտ"</string>
+    <string msgid="2655009276035357497" name="unmute_alarm_volume">"Միացնել ձայնը"</string>
+    <string msgid="6937131248843413357" name="volume_button_setting_title">"Ձայնի կոճակներ"</string>
+    <string msgid="4268917518596832096" name="week_start_title">"Շաբաթվա առաջին օրը"</string>
+    <string msgid="5911196322328341288" name="world_day_of_week_label">"/ <ns1:g id="LABEL">%s</ns1:g>"</string>
+    <string msgid="5132012793021696377" name="world_hours_minutes_ahead">"<ns1:g id="HOURS">%1$s</ns1:g> <ns1:g id="MINUTES">%2$s</ns1:g> առաջ է"</string>
+    <string msgid="8978567362140923698" name="world_hours_minutes_behind">"<ns1:g id="HOURS">%1$s</ns1:g> <ns1:g id="MINUTES">%2$s</ns1:g> հետ է"</string>
+    <string msgid="2504465609269004794" name="world_hours_tomorrow">"Վաղը, <ns1:g id="TIME">%1$s</ns1:g>-ին"</string>
+    <string msgid="4425086322610882745" name="world_hours_yesterday">"Երեկ, <ns1:g id="TIME">%1$s</ns1:g>-ին"</string>
+    <string msgid="625559988238637652" name="world_time_ahead">"<ns1:g id="TIME">%1$s</ns1:g> առաջ է"</string>
+    <string msgid="5395771290726167865" name="world_time_behind">"<ns1:g id="TIME">%1$s</ns1:g> հետ է"</string>
+    <string msgid="7633067935455580920" name="world_tomorrow">"Վաղը"</string>
+    <string msgid="5430990920477833164" name="world_yesterday">"Երեկ"</string>
+    <string msgid="1672779351352629681" name="your_sounds">"Ձեր ազդանշանները"</string>
+</resources>

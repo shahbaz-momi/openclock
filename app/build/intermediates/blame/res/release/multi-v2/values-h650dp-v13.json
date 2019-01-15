@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Shahbaz\\StudioProjects\\DeskClock2\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-h650dp-v13\\values-h650dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shahbaz\\StudioProjects\\DeskClock2\\app\\src\\main\\res\\values-h650dp\\dimens.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "772",
+                        "endColumns": "58",
+                        "endOffsets": "826"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}

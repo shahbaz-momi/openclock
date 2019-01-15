@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Shahbaz\\StudioProjects\\DeskClock2\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w470dp-land-v13\\values-w470dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shahbaz\\StudioProjects\\DeskClock2\\app\\src\\main\\res\\values-w470dp-land\\bools.xml",
+                    "from": {
+                        "startLines": "18,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "747,704",
+                        "endColumns": "48,41",
+                        "endOffsets": "791,741"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,104",
+                        "endColumns": "48,41",
+                        "endOffsets": "99,141"
+                    }
+                }
+            ]
+        }
+    ]
+}

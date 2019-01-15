@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Shahbaz\\StudioProjects\\DeskClock2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w360dp-h420dp-v13\\values-w360dp-h420dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shahbaz\\StudioProjects\\DeskClock2\\app\\src\\main\\res\\values-w360dp-h420dp\\bools.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "704",
+                        "endColumns": "41",
+                        "endOffsets": "741"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                }
+            ]
+        }
+    ]
+}

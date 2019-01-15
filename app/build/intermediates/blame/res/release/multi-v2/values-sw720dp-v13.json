@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Shahbaz\\StudioProjects\\DeskClock2\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shahbaz\\StudioProjects\\DeskClock2\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "from": {
+                        "startLines": "21,19,24",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "883,834,1004",
+                        "endColumns": "49,45,58",
+                        "endOffsets": "928,875,1058"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,105,151",
+                        "endColumns": "49,45,58",
+                        "endOffsets": "100,146,205"
+                    }
+                }
+            ]
+        }
+    ]
+}

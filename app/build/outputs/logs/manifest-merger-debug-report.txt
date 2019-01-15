@@ -1,0 +1,506 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:18:1-293:12
+INJECTED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:18:1-293:12
+MERGED from [com.android.support:preference-v14:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\preference-v14-27.1.1.aar\b143495cb501881a8a6ede099e7c3351\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7ee3ca813850ebab7709d68230c5af49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:preference-v7:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.1.aar\9b96223a5b7c5eddc674202bd4cf2e2c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7f789485af99da9506dc0d98053a6525\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\b787b5cb8f5940924d04106ec6fb1d1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.1.1.aar\07b3cebc9634a386baf13e5d6f399770\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\f1c13590e294f18cbc3556f7ce664707\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:percent:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\percent-27.1.1.aar\489d585a2709164ac3c4d8d1e39a5462\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\369faf48df7ed2f22ff20c51244a20c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6c53c0c28dc757d5305ebc95daad0efe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\bc7e1e908c29a8867ac13bb61cc30b41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e50901691d57e78e04b831fd9d37e7ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\261a110f297da7e89210f204d6a20b7e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9bb066249eb638a56ed724a31d3a38ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ef0a53ae8439abea4feda00ce17757e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\2d804303c1f123f4216531dc61c870a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\243e5a8fb8e4dc87ceaa8e9288945c71\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e41f7581d230211232a4c28bec4c8fae\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4766eacfcbd5f68469070f7f658d04f3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7318e797dccd92993c61d5c7a64a5063\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5d19347a8f6641a8ff2765007a607e38\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:18:1-293:12
+	package
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:20:5-36
+		INJECTED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:19:5-63
+original-package
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:22:5-63
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:22:23-60
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:26:5-68
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:26:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:27:5-66
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:27:22-63
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:28:5-75
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:28:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:29:5-80
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:29:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:32:5-34:38
+	android:maxSdkVersion
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:34:9-35
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:33:9-57
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:36:5-38:38
+	android:maxSdkVersion
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:38:9-35
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:37:9-59
+application
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:40:5-292:19
+	android:backupAgent
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:43:9-51
+	android:supportsRtl
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:49:9-35
+	android:label
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:47:9-42
+	android:requiredForAllUsers
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:48:9-43
+	android:fullBackupContent
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:44:9-55
+	android:icon
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:46:9-54
+	android:allowBackup
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:42:9-36
+	android:theme
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:50:9-47
+	android:fullBackupOnly
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:45:9-38
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:41:9-45
+activity#com.android.deskclock.DeskClock
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:56:9-67:20
+	android:label
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:58:13-46
+	android:launchMode
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:59:13-44
+	android:windowSoftInputMode
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:60:13-52
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:57:13-38
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:61:13-66:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:62:17-69
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:62:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:64:17-76
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:64:27-73
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:65:17-77
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:65:27-74
+activity#com.android.deskclock.ringtone.RingtonePickerActivity
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:69:9-73:69
+	android:excludeFromRecents
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:71:13-46
+	android:theme
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:73:13-66
+	android:taskAffinity
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:72:13-36
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:70:13-60
+activity#com.android.deskclock.worldclock.CitySelectionActivity
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:75:9-81:68
+	android:parentActivityName
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:79:13-52
+	android:label
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:78:13-58
+	android:excludeFromRecents
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:77:13-46
+	android:theme
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:81:13-65
+	android:taskAffinity
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:80:13-36
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:76:13-61
+activity#com.android.deskclock.settings.SettingsActivity
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:83:9-89:63
+	android:parentActivityName
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:87:13-52
+	android:label
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:86:13-45
+	android:excludeFromRecents
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:85:13-46
+	android:theme
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:89:13-60
+	android:taskAffinity
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:88:13-36
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:84:13-54
+activity#com.android.deskclock.HandleShortcuts
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:91:9-96:62
+	android:excludeFromRecents
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:93:13-46
+	android:launchMode
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:94:13-48
+	android:theme
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:96:13-59
+	android:taskAffinity
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:95:13-36
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:92:13-44
+activity#com.android.deskclock.HandleApiCalls
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:102:9-118:20
+	android:excludeFromRecents
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:104:13-46
+	android:launchMode
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:105:13-48
+	android:theme
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:107:13-59
+	android:taskAffinity
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:106:13-36
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:103:13-43
+intent-filter#action:name:android.intent.action.DISMISS_ALARM+action:name:android.intent.action.DISMISS_TIMER+action:name:android.intent.action.SHOW_ALARMS+action:name:android.intent.action.SHOW_TIMERS+action:name:android.intent.action.SNOOZE_ALARM+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.VOICE
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:108:13-117:29
+action#android.intent.action.DISMISS_ALARM
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:109:17-78
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:109:25-75
+action#android.intent.action.DISMISS_TIMER
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:110:17-78
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:110:25-75
+action#android.intent.action.SHOW_ALARMS
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:111:17-76
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:111:25-73
+action#android.intent.action.SHOW_TIMERS
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:112:17-76
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:112:25-73
+action#android.intent.action.SNOOZE_ALARM
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:113:17-77
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:113:25-74
+category#android.intent.category.VOICE
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:116:17-74
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:116:27-71
+activity-alias#com.android.deskclock.HandleSetAlarmApiCalls
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:120:9-131:26
+	android:targetActivity
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:123:13-53
+	android:permission
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:122:13-72
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:121:13-51
+intent-filter#action:name:android.intent.action.SET_ALARM+action:name:android.intent.action.SET_TIMER+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.VOICE
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:124:13-130:29
+action#android.intent.action.SET_ALARM
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:125:17-74
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:125:25-71
+action#android.intent.action.SET_TIMER
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:126:17-74
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:126:25-71
+activity#com.android.deskclock.alarms.AlarmActivity
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:137:9-144:63
+	android:excludeFromRecents
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:140:13-46
+	android:windowSoftInputMode
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:144:13-60
+	android:resizeableActivity
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:141:13-47
+	android:showOnLockScreen
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:142:13-44
+	android:directBootAware
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:139:13-43
+	android:taskAffinity
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:143:13-36
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:138:13-49
+activity#com.android.deskclock.AlarmSelectionActivity
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:146:9-149:82
+	android:label
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:148:13-50
+	android:theme
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:149:13-79
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:147:13-51
+provider#com.android.deskclock.provider.ClockProvider
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:151:9-156:39
+	android:grantUriPermissions
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:155:13-47
+	android:authorities
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:153:13-56
+	android:exported
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:156:13-36
+	android:directBootAware
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:154:13-43
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:152:13-51
+receiver#com.android.deskclock.AlarmInitReceiver
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:158:9-169:20
+	android:directBootAware
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:160:13-43
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:159:13-46
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.LOCALE_CHANGED+action:name:android.intent.action.LOCKED_BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:161:13-168:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:162:17-79
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:162:25-76
+action#android.intent.action.LOCALE_CHANGED
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:163:17-79
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:163:25-76
+action#android.intent.action.LOCKED_BOOT_COMPLETED
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:164:17-86
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:164:25-83
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:165:17-84
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:165:25-81
+action#android.intent.action.TIME_SET
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:166:17-73
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:166:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:167:17-81
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:167:25-78
+receiver#com.android.deskclock.alarms.AlarmStateManager
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:171:9-173:46
+	android:directBootAware
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:173:13-43
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:172:13-53
+service#com.android.deskclock.alarms.AlarmService
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:175:9-177:46
+	android:directBootAware
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:177:13-43
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:176:13-48
+activity#com.android.deskclock.timer.ExpiredTimersActivity
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:183:9-191:39
+	android:excludeFromRecents
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:187:13-46
+	android:launchMode
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:188:13-48
+	android:resizeableActivity
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:189:13-47
+	android:showOnLockScreen
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:190:13-44
+	android:configChanges
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:185:13-82
+	android:directBootAware
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:186:13-43
+	android:taskAffinity
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:191:13-36
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:184:13-56
+receiver#com.android.deskclock.timer.TimerReceiver
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:194:9-200:20
+	android:exported
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:196:13-37
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:195:13-69
+intent-filter#action:name:times_up
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:197:13-199:29
+action#times_up
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:198:17-51
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:198:25-48
+service#com.android.deskclock.timer.TimerService
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:202:9-205:46
+	android:description
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:204:13-61
+	android:directBootAware
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:205:13-43
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:203:13-47
+service#com.android.deskclock.stopwatch.StopwatchService
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:211:9-214:46
+	android:description
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:213:13-65
+	android:directBootAware
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:214:13-43
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:212:13-55
+activity#com.android.deskclock.ScreensaverActivity
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:221:9-225:39
+	android:excludeFromRecents
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:223:13-46
+	android:resizeableActivity
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:224:13-47
+	android:taskAffinity
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:225:13-36
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:222:13-48
+activity#com.android.deskclock.settings.ScreensaverSettingsActivity
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:227:9-232:63
+	android:label
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:230:13-57
+	android:excludeFromRecents
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:229:13-46
+	android:theme
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:232:13-60
+	android:taskAffinity
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:231:13-36
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:228:13-65
+service#com.android.deskclock.Screensaver
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:234:9-247:19
+	android:label
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:236:13-46
+	android:permission
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:237:13-71
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:235:13-40
+intent-filter#action:name:android.app.action.NEXT_ALARM_CLOCK_CHANGED+action:name:android.service.dreams.DreamService+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:238:13-243:29
+action#android.service.dreams.DreamService
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:239:17-78
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:239:25-75
+action#android.app.action.NEXT_ALARM_CLOCK_CHANGED
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:240:17-86
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:240:25-83
+meta-data#android.service.dream
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:244:13-246:60
+	android:resource
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:246:17-57
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:245:17-53
+receiver#com.android.alarmclock.AnalogAppWidgetProvider
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:253:9-266:20
+	android:label
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:255:13-50
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:254:13-74
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:256:13-258:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:257:17-84
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:257:25-81
+meta-data#android.appwidget.oldName
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:260:13-262:81
+	android:value
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:262:17-78
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:261:17-57
+meta-data#android.appwidget.provider
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:263:13-265:60
+	android:resource
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:265:17-57
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:264:17-58
+receiver#com.android.alarmclock.DigitalAppWidgetProvider
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:268:9-286:20
+	android:label
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:270:13-51
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:269:13-75
+intent-filter#action:name:android.app.action.NEXT_ALARM_CLOCK_CHANGED+action:name:android.appwidget.action.APPWIDGET_UPDATE+action:name:android.intent.action.DATE_CHANGED+action:name:android.intent.action.LOCALE_CHANGED+action:name:android.intent.action.SCREEN_ON+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET+action:name:com.android.deskclock.ALARM_CHANGED+action:name:com.android.deskclock.ON_DAY_CHANGE+action:name:com.android.deskclock.WORLD_CITIES_CHANGED
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:271:13-282:29
+action#android.intent.action.DATE_CHANGED
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:274:17-77
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:274:25-74
+action#android.intent.action.SCREEN_ON
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:276:17-74
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:276:25-71
+action#com.android.deskclock.ALARM_CHANGED
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:279:17-78
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:279:25-75
+action#com.android.deskclock.ON_DAY_CHANGE
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:280:17-78
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:280:25-75
+action#com.android.deskclock.WORLD_CITIES_CHANGED
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:281:17-85
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:281:25-82
+service#com.android.alarmclock.DigitalAppWidgetCityService
+ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:288:9-290:72
+	android:permission
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:290:13-69
+	android:name
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml:289:13-78
+uses-sdk
+INJECTED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:preference-v14:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\preference-v14-27.1.1.aar\b143495cb501881a8a6ede099e7c3351\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v14:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\preference-v14-27.1.1.aar\b143495cb501881a8a6ede099e7c3351\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7ee3ca813850ebab7709d68230c5af49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7ee3ca813850ebab7709d68230c5af49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.1.aar\9b96223a5b7c5eddc674202bd4cf2e2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.1.aar\9b96223a5b7c5eddc674202bd4cf2e2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7f789485af99da9506dc0d98053a6525\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7f789485af99da9506dc0d98053a6525\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\b787b5cb8f5940924d04106ec6fb1d1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\b787b5cb8f5940924d04106ec6fb1d1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.1.1.aar\07b3cebc9634a386baf13e5d6f399770\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.1.1.aar\07b3cebc9634a386baf13e5d6f399770\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\f1c13590e294f18cbc3556f7ce664707\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\f1c13590e294f18cbc3556f7ce664707\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\percent-27.1.1.aar\489d585a2709164ac3c4d8d1e39a5462\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\percent-27.1.1.aar\489d585a2709164ac3c4d8d1e39a5462\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\369faf48df7ed2f22ff20c51244a20c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\369faf48df7ed2f22ff20c51244a20c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6c53c0c28dc757d5305ebc95daad0efe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6c53c0c28dc757d5305ebc95daad0efe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\bc7e1e908c29a8867ac13bb61cc30b41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\bc7e1e908c29a8867ac13bb61cc30b41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e50901691d57e78e04b831fd9d37e7ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e50901691d57e78e04b831fd9d37e7ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\261a110f297da7e89210f204d6a20b7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\261a110f297da7e89210f204d6a20b7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9bb066249eb638a56ed724a31d3a38ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9bb066249eb638a56ed724a31d3a38ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ef0a53ae8439abea4feda00ce17757e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ef0a53ae8439abea4feda00ce17757e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\2d804303c1f123f4216531dc61c870a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\2d804303c1f123f4216531dc61c870a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\243e5a8fb8e4dc87ceaa8e9288945c71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\243e5a8fb8e4dc87ceaa8e9288945c71\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e41f7581d230211232a4c28bec4c8fae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e41f7581d230211232a4c28bec4c8fae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4766eacfcbd5f68469070f7f658d04f3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4766eacfcbd5f68469070f7f658d04f3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7318e797dccd92993c61d5c7a64a5063\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7318e797dccd92993c61d5c7a64a5063\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5d19347a8f6641a8ff2765007a607e38\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Shahbaz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5d19347a8f6641a8ff2765007a607e38\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shahbaz\StudioProjects\DeskClock2\app\src\main\AndroidManifest.xml

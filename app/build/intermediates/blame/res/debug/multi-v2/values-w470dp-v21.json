@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Shahbaz\\StudioProjects\\DeskClock2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w470dp-v21\\values-w470dp-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shahbaz\\StudioProjects\\DeskClock2\\app\\src\\main\\res\\values-w470dp-v21\\dimens.xml",
+                    "from": {
+                        "startLines": "23,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "1054,928",
+                        "endColumns": "41,41",
+                        "endOffsets": "1091,965"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,97",
+                        "endColumns": "41,41",
+                        "endOffsets": "92,134"
+                    }
+                }
+            ]
+        }
+    ]
+}

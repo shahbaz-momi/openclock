@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+    <item msgid="6450913786084215050">"鬧鐘設定在 1 分鐘內響起。"</item>
+    <item msgid="6002066367368421848">"鬧鐘設定在 <ns1:g id="DAYS">%1$s</ns1:g>後響起。"</item>
+    <item msgid="8824719306247973774">"鬧鐘設定在 <ns1:g id="HOURS">%2$s</ns1:g>後響起。"</item>
+    <item msgid="8182406852935468862">"鬧鐘設定在 <ns1:g id="DAYS">%1$s</ns1:g> <ns1:g id="HOURS">%2$s</ns1:g>後響起。"</item>
+    <item msgid="2532279224777213194">"鬧鐘設定在 <ns1:g id="MINUTES">%3$s</ns1:g>後響起。"</item>
+    <item msgid="5936557894247187717">"鬧鐘設定在 <ns1:g id="DAYS">%1$s</ns1:g> <ns1:g id="MINUTES">%3$s</ns1:g>後響起。"</item>
+    <item msgid="9115697840826129603">"鬧鐘設定在 <ns1:g id="HOURS">%2$s</ns1:g> <ns1:g id="MINUTES">%3$s</ns1:g>後響起。"</item>
+    <item msgid="2332583385137381060">"鬧鐘設定在 <ns1:g id="DAYS">%1$s</ns1:g> <ns1:g id="HOURS">%2$s</ns1:g> <ns1:g id="MINUTES">%3$s</ns1:g>後響起。"</item>
+  </string-array>
+    <string-array name="auto_silence_entries">
+    <item msgid="3024545954917711306">"1 分鐘"</item>
+    <item msgid="5431906692406316549">"5 分鐘"</item>
+    <item msgid="7742728812068919959">"10 分鐘"</item>
+    <item msgid="2855948657259647629">"15 分鐘"</item>
+    <item msgid="6330196381284475079">"20 分鐘"</item>
+    <item msgid="7809240121716151904">"25 分鐘"</item>
+    <item msgid="4278641338024561333">"永不"</item>
+  </string-array>
+    <string-array name="clock_style_entries">
+    <item msgid="917900462224167608">"指針"</item>
+    <item msgid="8483930821046925592">"數碼"</item>
+  </string-array>
+    <string-array name="crescendo_entries">
+    <item msgid="7435149932182641128">"關閉"</item>
+    <item msgid="7195451681426992018">"5 秒"</item>
+    <item msgid="592917601923801901">"10 秒"</item>
+    <item msgid="5050318776687582653">"15 秒"</item>
+    <item msgid="6997726466563948756">"20 秒"</item>
+    <item msgid="1237360231425097772">"25 秒"</item>
+    <item msgid="248014374051498284">"30 秒"</item>
+    <item msgid="6110450211551791852">"35 秒"</item>
+    <item msgid="8010211657612404516">"40 秒"</item>
+    <item msgid="3730631498119797451">"45 秒"</item>
+    <item msgid="623829984393124488">"50 秒"</item>
+    <item msgid="6390209981529164605">"55 秒"</item>
+    <item msgid="5261571706794132923">"60 秒"</item>
+  </string-array>
+    <string-array name="snooze_duration_entries">
+    <item msgid="7668553664977446797">"1 分鐘"</item>
+    <item msgid="4482596794620161030">"2 分鐘"</item>
+    <item msgid="8478276201849960314">"3 分鐘"</item>
+    <item msgid="4038456474851212478">"4 分鐘"</item>
+    <item msgid="6298175579152122770">"5 分鐘"</item>
+    <item msgid="9021860177999278496">"6 分鐘"</item>
+    <item msgid="7224689200902680256">"7 分鐘"</item>
+    <item msgid="4610012663985162123">"8 分鐘"</item>
+    <item msgid="1717028898015659426">"9 分鐘"</item>
+    <item msgid="8058492636464337699">"10 分鐘"</item>
+    <item msgid="577767219993868603">"11 分鐘"</item>
+    <item msgid="3710047869487864775">"12 分鐘"</item>
+    <item msgid="3794200935630619331">"13 分鐘"</item>
+    <item msgid="5462266433522229437">"14 分鐘"</item>
+    <item msgid="2192100038569306041">"15 分鐘"</item>
+    <item msgid="6636326047858437620">"16 分鐘"</item>
+    <item msgid="2481054808772108352">"17 分鐘"</item>
+    <item msgid="4080984064428458050">"18 分鐘"</item>
+    <item msgid="5844319398703041730">"19 分鐘"</item>
+    <item msgid="2334964289857921073">"20 分鐘"</item>
+    <item msgid="4755209855817904977">"21 分鐘"</item>
+    <item msgid="8414394445389367355">"22 分鐘"</item>
+    <item msgid="2604612428763230265">"23 分鐘"</item>
+    <item msgid="6871696471373403806">"24 分鐘"</item>
+    <item msgid="1573685398431466364">"25 分鐘"</item>
+    <item msgid="6999090368236684971">"26 分鐘"</item>
+    <item msgid="7125056720603734703">"27 分鐘"</item>
+    <item msgid="1695830988496463030">"28 分鐘"</item>
+    <item msgid="6706610539793025916">"29 分鐘"</item>
+    <item msgid="2898212818965905529">"30 分鐘"</item>
+  </string-array>
+    <string-array name="sw_share_strings">
+    <item msgid="842841032273927988">"您就像閃電俠。"</item>
+    <item msgid="6332879039890727169">"享受辛勞的成果。"</item>
+    <item msgid="815382761274660130">"Android 以快速見稱，但還跟不上您！"</item>
+    <item msgid="7916250650982813737">"差點趕不及。"</item>
+    <item msgid="6836603904515182333">"果然是高手。"</item>
+    <item msgid="7508085100680861631">"迅雷不及掩耳。"</item>
+    <item msgid="5961245252909589573">"再次超越時空。"</item>
+    <item msgid="5211891900854545940">"往左邊跳。"</item>
+    <item msgid="9071353477103826053">"您真身手敏捷。"</item>
+    <item msgid="3785193933691117181">"電光飆速。"</item>
+  </string-array>
+    <string-array name="timezone_labels">
+    <item msgid="5495601234086197399">"馬紹爾群島"</item>
+    <item msgid="4196408495909011020">"中途島"</item>
+    <item msgid="1414384194857730006">"夏威夷"</item>
+    <item msgid="2687091371581931926">"阿拉斯加"</item>
+    <item msgid="1922100269679049660">"太平洋時間"</item>
+    <item msgid="7156402158716866161">"蒂華納"</item>
+    <item msgid="1144117502254612241">"亞利桑那"</item>
+    <item msgid="101284182011722637">"奇瓦瓦"</item>
+    <item msgid="689121094232986897">"山區時間"</item>
+    <item msgid="5445331923942302756">"中美洲"</item>
+    <item msgid="2749806434052452351">"中部時間"</item>
+    <item msgid="3997138870229703753">"墨西哥城"</item>
+    <item msgid="5425567073027744888">"薩斯喀徹溫"</item>
+    <item msgid="2877342865396629368">"波哥大"</item>
+    <item msgid="568682398893899670">"東部時間"</item>
+    <item msgid="668135984541863866">"委內瑞拉"</item>
+    <item msgid="3737474220861486223">"大西洋時間 (巴巴多斯)"</item>
+    <item msgid="6279116051273436870">"大西洋時間 (加拿大)"</item>
+    <item msgid="8513382867172014244">"馬瑙斯"</item>
+    <item msgid="7776299003105932407">"聖地牙哥"</item>
+    <item msgid="8636989494746218677">"紐芬蘭"</item>
+    <item msgid="4402541016410147505">"巴西利亞"</item>
+    <item msgid="2251184440733164084">"布宜諾斯艾利斯"</item>
+    <item msgid="6202926618569004969">"格陵蘭"</item>
+    <item msgid="2355275037115290628">"蒙得維的亞"</item>
+    <item msgid="1377549694711708945">"大西洋中部"</item>
+    <item msgid="3457671272126347981">"亞速爾"</item>
+    <item msgid="3659315141063710840">"佛得角群島"</item>
+    <item msgid="1260941741802367635">"卡薩布蘭卡"</item>
+    <item msgid="8275203689687954762">"倫敦、都柏林"</item>
+    <item msgid="5970179539479320905">"阿姆斯特丹、柏林"</item>
+    <item msgid="5396319478750517962">"貝爾格萊德"</item>
+    <item msgid="8688787475056663004">"布魯塞爾"</item>
+    <item msgid="3415827874921681622">"薩拉熱窩"</item>
+    <item msgid="402008965928320066">"溫得和克"</item>
+    <item msgid="6436942724959275569">"非洲西部時間"</item>
+    <item msgid="954536568417204026">"約旦安曼"</item>
+    <item msgid="8932745482008902551">"雅典、伊斯坦布爾"</item>
+    <item msgid="320025725949024510">"黎巴嫩貝魯特"</item>
+    <item msgid="7242083112551905970">"開羅"</item>
+    <item msgid="7241520146011450419">"赫爾辛基"</item>
+    <item msgid="2717065017510546526">"耶路撒冷"</item>
+    <item msgid="8698556287741466553">"明斯克"</item>
+    <item msgid="1797598357342084506">"哈拉雷"</item>
+    <item msgid="5169119919905066998">"巴格達"</item>
+    <item msgid="2615788116201065182">"莫斯科"</item>
+    <item msgid="9084354867885584646">"科威特"</item>
+    <item msgid="1351570519986178268">"奈羅比"</item>
+    <item msgid="7094569580635877460">"德黑蘭"</item>
+    <item msgid="3953138772617909704">"巴庫"</item>
+    <item msgid="2868893113598800752">"第比利斯"</item>
+    <item msgid="7088581865802476373">"埃里溫"</item>
+    <item msgid="1941122257623887992">"杜拜"</item>
+    <item msgid="9194797225058249720">"喀布爾"</item>
+    <item msgid="6486569254364577332">"伊斯蘭堡、卡拉奇"</item>
+    <item msgid="5487724896895412089">"烏拉爾"</item>
+    <item msgid="364906869710826982">"葉卡特琳堡"</item>
+    <item msgid="2106505051751383358">"加爾各答"</item>
+    <item msgid="6851586621581501447">"斯里蘭卡"</item>
+    <item msgid="800438544128213134">"加德滿都"</item>
+    <item msgid="6173621471007643021">"阿斯塔納"</item>
+    <item msgid="8645125891971581128">"仰光"</item>
+    <item msgid="2886407505119737794">"克拉斯諾亞爾斯克"</item>
+    <item msgid="3408222398188107090">"曼谷"</item>
+    <item msgid="4441612937172851228">"北京"</item>
+    <item msgid="4936715789028996930">"香港"</item>
+    <item msgid="4261031143777385525">"伊爾庫茨克"</item>
+    <item msgid="3538060959338191835">"吉隆坡"</item>
+    <item msgid="1438847562643099201">"珀斯"</item>
+    <item msgid="3063913827688244383">"台北"</item>
+    <item msgid="3502757135046564209">"首爾"</item>
+    <item msgid="6107588684519111669">"東京、大阪"</item>
+    <item msgid="4350769099755608471">"雅庫茨克"</item>
+    <item msgid="2422707004533526462">"阿德萊德"</item>
+    <item msgid="1292192084554134339">"達爾文"</item>
+    <item msgid="1320883699470001716">"布里斯本"</item>
+    <item msgid="5137198806146386527">"霍巴特"</item>
+    <item msgid="5920063686933941174">"悉尼、坎培拉"</item>
+    <item msgid="615906039696009425">"海參崴"</item>
+    <item msgid="7738680449356275374">"關島"</item>
+    <item msgid="2882915026380778227">"馬加丹"</item>
+    <item msgid="8255615641810148152">"奧克蘭"</item>
+    <item msgid="3027153773466391728">"斐濟"</item>
+    <item msgid="5911600083231840181">"湯加"</item>
+    <item msgid="5176858645450908751">"雅加達"</item>
+  </string-array>
+    <string-array name="volume_button_setting_entries">
+    <item msgid="7972756698723318690">"延後"</item>
+    <item msgid="3450979320164769576">"關閉"</item>
+    <item msgid="7085774139907653538">"控制音量"</item>
+  </string-array>
+    <string-array name="week_start_entries">
+    <item msgid="9010198173394482639">"星期六"</item>
+    <item msgid="3993530639455360921">"星期日"</item>
+    <item msgid="8594709368683324282">"星期一"</item>
+  </string-array>
+    <plurals formatted="false" msgid="7844300009062867865" name="alarm_alert_snooze_duration">
+      <item quantity="other"><ns1:g id="NUMBER">%d</ns1:g> 分鐘</item>
+      <item quantity="one">1 分鐘</item>
+    </plurals>
+    <plurals formatted="false" msgid="3212729193036041768" name="alarm_alert_snooze_set">
+      <item quantity="other">延遲 <ns1:g id="MINUTES">%d</ns1:g> 分鐘。</item>
+      <item quantity="one">延遲 1 分鐘。</item>
+    </plurals>
+    <plurals formatted="false" msgid="6579258788774360396" name="auto_silence_summary">
+      <item quantity="other"><ns1:g id="FORMATTED_NUMBER">%s</ns1:g> 分鐘</item>
+      <item quantity="one">1 分鐘</item>
+    </plurals>
+    <plurals formatted="false" msgid="3706846447285206235" name="days">
+      <item quantity="other"><ns1:g id="NUMBER">%s</ns1:g> 天</item>
+      <item quantity="one">1 天</item>
+    </plurals>
+    <plurals formatted="false" msgid="1294953410988488149" name="expired_timers_dismissed">
+      <item quantity="other">已關閉 <ns1:g id="NUMBER">%d</ns1:g> 個計時器</item>
+      <item quantity="one">已關閉計時器</item>
+    </plurals>
+    <plurals formatted="false" msgid="3871283109767171655" name="hours">
+      <item quantity="other"><ns1:g id="NUMBER">%s</ns1:g> 小時</item>
+      <item quantity="one">1 小時</item>
+    </plurals>
+    <plurals formatted="false" msgid="3709250715691092925" name="hours_short">
+      <item quantity="other"><ns1:g id="NUMBER">%s</ns1:g> 小時</item>
+      <item quantity="one">1 小時</item>
+    </plurals>
+    <plurals formatted="false" msgid="5484431721696058697" name="minutes">
+      <item quantity="other"><ns1:g id="NUMBER">%s</ns1:g> 分鐘</item>
+      <item quantity="one">1 分鐘</item>
+    </plurals>
+    <plurals formatted="false" msgid="6397328304369080233" name="minutes_short">
+      <item quantity="other"><ns1:g id="NUMBER">%s</ns1:g> 分鐘</item>
+      <item quantity="one">1 分鐘</item>
+    </plurals>
+    <plurals formatted="false" msgid="670343577734266047" name="seconds">
+      <item quantity="other"><ns1:g id="NUMBER">%s</ns1:g> 秒</item>
+      <item quantity="one">1 秒</item>
+    </plurals>
+    <string msgid="3622720549928625541" name="C1">"8劃<ns1:g id="SEPARATOR">=</ns1:g>阿比讓<ns1:g id="TIMEZONE">|Africa/Abidjan</ns1:g>"</string>
+    <string msgid="6275085554326816487" name="C10">"13劃<ns1:g id="SEPARATOR">=</ns1:g>達卡<ns1:g id="TIMEZONE">|Africa/Dakar</ns1:g>"</string>
+    <string msgid="5995329947852415813" name="C100">"6劃<ns1:g id="SEPARATOR">=</ns1:g>安曼<ns1:g id="TIMEZONE">|Asia/Amman</ns1:g>"</string>
+    <string msgid="5760056604239047274" name="C101">"8劃<ns1:g id="SEPARATOR">=</ns1:g>阿納德爾<ns1:g id="TIMEZONE">|Asia/Anadyr</ns1:g>"</string>
+    <string msgid="9000357065825182754" name="C102">"8劃<ns1:g id="SEPARATOR">=</ns1:g>阿克套<ns1:g id="TIMEZONE">|Asia/Aqtau</ns1:g>"</string>
+    <string msgid="8781982253489209791" name="C103">"4劃<ns1:g id="SEPARATOR">=</ns1:g>巴格達<ns1:g id="TIMEZONE">|Asia/Baghdad</ns1:g>"</string>
+    <string msgid="4021122575041916540" name="C104">"4劃<ns1:g id="SEPARATOR">=</ns1:g>巴林<ns1:g id="TIMEZONE">|Asia/Bahrain</ns1:g>"</string>
+    <string msgid="1812915124794679606" name="C105">"4劃<ns1:g id="SEPARATOR">=</ns1:g>巴庫<ns1:g id="TIMEZONE">|Asia/Baku</ns1:g>"</string>
+    <string msgid="1996684628612964988" name="C106">"11劃<ns1:g id="SEPARATOR">=</ns1:g>曼谷<ns1:g id="TIMEZONE">|Asia/Bangkok</ns1:g>"</string>
+    <string msgid="227554925153715426" name="C107">"7劃<ns1:g id="SEPARATOR">=</ns1:g>貝魯特<ns1:g id="TIMEZONE">|Asia/Beirut</ns1:g>"</string>
+    <string msgid="357033582615345158" name="C108">"5劃<ns1:g id="SEPARATOR">=</ns1:g>加爾各答<ns1:g id="TIMEZONE">|Asia/Calcutta</ns1:g>"</string>
+    <string msgid="6386566477244958752" name="C109">"3劃<ns1:g id="SEPARATOR">=</ns1:g>大馬士革<ns1:g id="TIMEZONE">|Asia/Damascus</ns1:g>"</string>
+    <string msgid="8124988526568339100" name="C11">"13劃<ns1:g id="SEPARATOR">=</ns1:g>達累斯薩拉姆<ns1:g id="TIMEZONE">|Africa/Dar_es_Salaam</ns1:g>"</string>
+    <string msgid="1165712058024165012" name="C110">"13劃<ns1:g id="SEPARATOR">=</ns1:g>達卡<ns1:g id="TIMEZONE">|Asia/Dhaka</ns1:g>"</string>
+    <string msgid="5895260692253797547" name="C111">"7劃<ns1:g id="SEPARATOR">=</ns1:g>杜拜<ns1:g id="TIMEZONE">|Asia/Dubai</ns1:g>"</string>
+    <string msgid="1708170128253320625" name="C112">"5劃<ns1:g id="SEPARATOR">=</ns1:g>加沙<ns1:g id="TIMEZONE">|Asia/Gaza</ns1:g>"</string>
+    <string msgid="8790538811134290878" name="C113">"7劃<ns1:g id="SEPARATOR">=</ns1:g>希伯崙<ns1:g id="TIMEZONE">|Asia/Hebron</ns1:g>"</string>
+    <string msgid="8019764566754082688" name="C114">"9劃<ns1:g id="SEPARATOR">=</ns1:g>胡志明市<ns1:g id="TIMEZONE">|Asia/Ho_Chi_Minh</ns1:g>"</string>
+    <string msgid="2707316842482208016" name="C115">"9劃<ns1:g id="SEPARATOR">=</ns1:g>香港<ns1:g id="PHONETIC">:</ns1:g><ns1:g id="TIMEZONE">|Asia/Hong_Kong</ns1:g>"</string>
+    <string msgid="486537564257069933" name="C117">"12劃<ns1:g id="SEPARATOR">=</ns1:g>雅加達<ns1:g id="TIMEZONE">|Asia/Jakarta</ns1:g>"</string>
+    <string msgid="2220594023727285784" name="C118">"9劃<ns1:g id="SEPARATOR">=</ns1:g>耶路撒冷<ns1:g id="TIMEZONE">|Asia/Jerusalem</ns1:g>"</string>
+    <string msgid="7095503078924268384" name="C119">"12劃<ns1:g id="SEPARATOR">=</ns1:g>喀布爾<ns1:g id="TIMEZONE">|Asia/Kabul</ns1:g>"</string>
+    <string msgid="9058858575164534385" name="C12">"6劃<ns1:g id="SEPARATOR">=</ns1:g>吉布提<ns1:g id="TIMEZONE">|Africa/Djibouti</ns1:g>"</string>
+    <string msgid="4759297844750994699" name="C120">"5劃<ns1:g id="SEPARATOR">=</ns1:g>卡拉奇<ns1:g id="TIMEZONE">|Asia/Karachi</ns1:g>"</string>
+    <string msgid="6397452077111782277" name="C121">"5劃<ns1:g id="SEPARATOR">=</ns1:g>加德滿都<ns1:g id="TIMEZONE">|Asia/Kathmandu</ns1:g>"</string>
+    <string msgid="3384658968869783693" name="C122">"6劃<ns1:g id="SEPARATOR">=</ns1:g>吉隆坡<ns1:g id="TIMEZONE">|Asia/Kuala_Lumpur</ns1:g>"</string>
+    <string msgid="2596231413860119715" name="C123">"9劃<ns1:g id="SEPARATOR">=</ns1:g>科威特<ns1:g id="TIMEZONE">|Asia/Kuwait</ns1:g>"</string>
+    <string msgid="7128790644999660843" name="C124">"16劃<ns1:g id="SEPARATOR">=</ns1:g>澳門<ns1:g id="TIMEZONE">|Asia/Macau</ns1:g>"</string>
+    <string msgid="7482612453109643531" name="C125">"10劃<ns1:g id="SEPARATOR">=</ns1:g>馬尼拉<ns1:g id="TIMEZONE">|Asia/Manila</ns1:g>"</string>
+    <string msgid="89594601694005714" name="C126">"10劃<ns1:g id="SEPARATOR">=</ns1:g>馬斯喀特<ns1:g id="TIMEZONE">|Asia/Muscat</ns1:g>"</string>
+    <string msgid="6694878912574814081" name="C127">"8劃<ns1:g id="SEPARATOR">=</ns1:g>金邊<ns1:g id="TIMEZONE">|Asia/Phnom_Penh</ns1:g>"</string>
+    <string msgid="6055116591529458940" name="C128">"5劃<ns1:g id="SEPARATOR">=</ns1:g>平壤<ns1:g id="PHONETIC">:</ns1:g><ns1:g id="TIMEZONE">|Asia/Pyongyang</ns1:g>"</string>
+    <string msgid="1020128319695123468" name="C13">"5劃<ns1:g id="SEPARATOR">=</ns1:g>弗里敦<ns1:g id="TIMEZONE">|Africa/Freetown</ns1:g>"</string>
+    <string msgid="665609990740507143" name="C130">"6劃<ns1:g id="SEPARATOR">=</ns1:g>仰光<ns1:g id="TIMEZONE">|Asia/Rangoon</ns1:g>"</string>
+    <string msgid="3395769966117356927" name="C131">"7劃<ns1:g id="SEPARATOR">=</ns1:g>利雅得<ns1:g id="TIMEZONE">|Asia/Riyadh</ns1:g>"</string>
+    <string msgid="5204810106521056060" name="C133">"9劃<ns1:g id="SEPARATOR">=</ns1:g>首爾<ns1:g id="TIMEZONE">|Asia/Seoul</ns1:g>"</string>
+    <string msgid="7263747916569669120" name="C134">"3劃<ns1:g id="SEPARATOR">=</ns1:g>上海<ns1:g id="PHONETIC">:</ns1:g><ns1:g id="TIMEZONE">|Asia/Shanghai</ns1:g>"</string>
+    <string msgid="4100015019260371393" name="C135">"13劃<ns1:g id="SEPARATOR">=</ns1:g>新加坡<ns1:g id="TIMEZONE">|Asia/Singapore</ns1:g>"</string>
+    <string msgid="6386033226757339839" name="C136">"5劃<ns1:g id="SEPARATOR">=</ns1:g>台北<ns1:g id="PHONETIC">:</ns1:g><ns1:g id="TIMEZONE">|Asia/Taipei</ns1:g>"</string>
+    <string msgid="5387760734363179588" name="C137">"15劃<ns1:g id="SEPARATOR">=</ns1:g>德黑蘭<ns1:g id="TIMEZONE">|Asia/Tehran</ns1:g>"</string>
+    <string msgid="7193922868117846792" name="C138">"10劃<ns1:g id="SEPARATOR">=</ns1:g>特拉維夫<ns1:g id="TIMEZONE">|Asia/Tel_Aviv</ns1:g>"</string>
+    <string msgid="7060339477340222608" name="C139">"8劃<ns1:g id="SEPARATOR">=</ns1:g>東京<ns1:g id="PHONETIC">:</ns1:g><ns1:g id="TIMEZONE">|Asia/Tokyo</ns1:g>"</string>
+    <string msgid="5466600602512133072" name="C14">"14劃<ns1:g id="SEPARATOR">=</ns1:g>嘉柏隆里<ns1:g id="TIMEZONE">|Africa/Gaborone</ns1:g>"</string>
+    <string msgid="6273911458061121975" name="C140">"10劃<ns1:g id="SEPARATOR">=</ns1:g>烏蘭巴托<ns1:g id="TIMEZONE">|Asia/Ulaanbaatar</ns1:g>"</string>
+    <string msgid="2799340184229547409" name="C141">"6劃<ns1:g id="SEPARATOR">=</ns1:g>百慕達<ns1:g id="TIMEZONE">|Atlantic/Bermuda</ns1:g>"</string>
+    <string msgid="6015789133959684677" name="C142">"5劃<ns1:g id="SEPARATOR">=</ns1:g>加納利<ns1:g id="TIMEZONE">|Atlantic/Canary</ns1:g>"</string>
+    <string msgid="4888764215053863961" name="C143">"7劃<ns1:g id="SEPARATOR">=</ns1:g>佛得角<ns1:g id="TIMEZONE">|Atlantic/Cape_Verde</ns1:g>"</string>
+    <string msgid="3338105941475340049" name="C144">"13劃<ns1:g id="SEPARATOR">=</ns1:g>雷克雅未克<ns1:g id="TIMEZONE">|Atlantic/Reykjavik</ns1:g>"</string>
+    <string msgid="8684297689430494031" name="C145">"12劃<ns1:g id="SEPARATOR">=</ns1:g>斯坦利<ns1:g id="TIMEZONE">|Atlantic/Stanley</ns1:g>"</string>
+    <string msgid="843808286721172656" name="C146">"8劃<ns1:g id="SEPARATOR">=</ns1:g>阿德萊德<ns1:g id="TIMEZONE">|Australia/Adelaide</ns1:g>"</string>
+    <string msgid="3712535858465321034" name="C147">"5劃<ns1:g id="SEPARATOR">=</ns1:g>布里斯本<ns1:g id="TIMEZONE">|Australia/Brisbane</ns1:g>"</string>
+    <string msgid="7019403666599702943" name="C148">"7劃<ns1:g id="SEPARATOR">=</ns1:g>坎培拉<ns1:g id="TIMEZONE">|Australia/Canberra</ns1:g>"</string>
+    <string msgid="8185355499458013534" name="C149">"13劃<ns1:g id="SEPARATOR">=</ns1:g>達爾文<ns1:g id="TIMEZONE">|Australia/Darwin</ns1:g>"</string>
+    <string msgid="4045696872348427594" name="C15">"9劃<ns1:g id="SEPARATOR">=</ns1:g>哈拉雷<ns1:g id="TIMEZONE">|Africa/Harare</ns1:g>"</string>
+    <string msgid="3516845880105752618" name="C150">"15劃<ns1:g id="SEPARATOR">=</ns1:g>墨爾本<ns1:g id="TIMEZONE">|Australia/Melbourne</ns1:g>"</string>
+    <string msgid="5576825403360541823" name="C151">"13劃<ns1:g id="SEPARATOR">=</ns1:g>新南威爾士<ns1:g id="TIMEZONE">|Australia/NSW</ns1:g>"</string>
+    <string msgid="7889900618915436602" name="C152">"9劃<ns1:g id="SEPARATOR">=</ns1:g>珀斯<ns1:g id="TIMEZONE">|Australia/Perth</ns1:g>"</string>
+    <string msgid="7506204460601953711" name="C153">"8劃<ns1:g id="SEPARATOR">=</ns1:g>昆士蘭<ns1:g id="TIMEZONE">|Australia/Queensland</ns1:g>"</string>
+    <string msgid="1193262944948312063" name="C154">"11劃<ns1:g id="SEPARATOR">=</ns1:g>悉尼<ns1:g id="TIMEZONE">|Australia/Sydney</ns1:g>"</string>
+    <string msgid="7079072802229033042" name="C155">"14劃<ns1:g id="SEPARATOR">=</ns1:g>維多利亞<ns1:g id="TIMEZONE">|Australia/Victoria</ns1:g>"</string>
+    <string msgid="4003110220147338835" name="C156">"10劃<ns1:g id="SEPARATOR">=</ns1:g>紐芬蘭<ns1:g id="TIMEZONE">|Canada/Newfoundland</ns1:g>"</string>
+    <string msgid="2861486997803753970" name="C157">"18劃<ns1:g id="SEPARATOR">=</ns1:g>薩斯喀徹溫<ns1:g id="TIMEZONE">|Canada/Saskatchewan</ns1:g>"</string>
+    <string msgid="6882933026191056506" name="C158">"12劃<ns1:g id="SEPARATOR">=</ns1:g>復活島<ns1:g id="TIMEZONE">|Chile/EasterIsland</ns1:g>"</string>
+    <string msgid="4128429767051043903" name="C159">"8劃<ns1:g id="SEPARATOR">=</ns1:g>阿姆斯特丹<ns1:g id="TIMEZONE">|Europe/Amsterdam</ns1:g>"</string>
+    <string msgid="109844560982762747" name="C16">"9劃<ns1:g id="SEPARATOR">=</ns1:g>約翰內斯堡<ns1:g id="TIMEZONE">|Africa/Johannesburg</ns1:g>"</string>
+    <string msgid="3488513735205092653" name="C160">"6劃<ns1:g id="SEPARATOR">=</ns1:g>安道爾<ns1:g id="TIMEZONE">|Europe/Andorra</ns1:g>"</string>
+    <string msgid="7244325364130392348" name="C161">"12劃<ns1:g id="SEPARATOR">=</ns1:g>雅典<ns1:g id="TIMEZONE">|Europe/Athens</ns1:g>"</string>
+    <string msgid="7484009548361072313" name="C162">"7劃<ns1:g id="SEPARATOR">=</ns1:g>貝爾法斯特<ns1:g id="TIMEZONE">|Europe/Belfast</ns1:g>"</string>
+    <string msgid="6106990061397073808" name="C163">"7劃<ns1:g id="SEPARATOR">=</ns1:g>貝爾格萊德<ns1:g id="TIMEZONE">|Europe/Belgrade</ns1:g>"</string>
+    <string msgid="3074767496771260157" name="C164">"9劃<ns1:g id="SEPARATOR">=</ns1:g>柏林<ns1:g id="TIMEZONE">|Europe/Berlin</ns1:g>"</string>
+    <string msgid="4442005045172394762" name="C165">"5劃<ns1:g id="SEPARATOR">=</ns1:g>布拉迪斯拉法<ns1:g id="TIMEZONE">|Europe/Bratislava</ns1:g>"</string>
+    <string msgid="8977286721038142474" name="C166">"5劃<ns1:g id="SEPARATOR">=</ns1:g>布魯塞爾<ns1:g id="TIMEZONE">|Europe/Brussels</ns1:g>"</string>
+    <string msgid="5502175796232774744" name="C167">"5劃<ns1:g id="SEPARATOR">=</ns1:g>布加勒斯特<ns1:g id="TIMEZONE">|Europe/Bucharest</ns1:g>"</string>
+    <string msgid="6750159439632567316" name="C168">"5劃<ns1:g id="SEPARATOR">=</ns1:g>布達佩斯<ns1:g id="TIMEZONE">|Europe/Budapest</ns1:g>"</string>
+    <string msgid="591483187800562071" name="C169">"11劃<ns1:g id="SEPARATOR">=</ns1:g>基希那烏<ns1:g id="TIMEZONE">|Europe/Chisinau</ns1:g>"</string>
+    <string msgid="4868414442726546214" name="C17">"7劃<ns1:g id="SEPARATOR">=</ns1:g>坎帕拉<ns1:g id="TIMEZONE">|Africa/Kampala</ns1:g>"</string>
+    <string msgid="157539770076958216" name="C170">"10劃<ns1:g id="SEPARATOR">=</ns1:g>哥本哈根<ns1:g id="TIMEZONE">|Europe/Copenhagen</ns1:g>"</string>
+    <string msgid="4774534094571993566" name="C171">"11劃<ns1:g id="SEPARATOR">=</ns1:g>都柏林<ns1:g id="TIMEZONE">|Europe/Dublin</ns1:g>"</string>
+    <string msgid="6781166861618808351" name="C172">"8劃<ns1:g id="SEPARATOR">=</ns1:g>直布羅陀<ns1:g id="TIMEZONE">|Europe/Gibraltar</ns1:g>"</string>
+    <string msgid="6620286361619640304" name="C173">"14劃<ns1:g id="SEPARATOR">=</ns1:g>赫爾辛基<ns1:g id="TIMEZONE">|Europe/Helsinki</ns1:g>"</string>
+    <string msgid="2279016324825973473" name="C174">"10劃<ns1:g id="SEPARATOR">=</ns1:g>馬恩島<ns1:g id="TIMEZONE">|Europe/Isle_of_Man</ns1:g>"</string>
+    <string msgid="3290185117135612679" name="C175">"6劃<ns1:g id="SEPARATOR">=</ns1:g>伊斯坦布爾<ns1:g id="TIMEZONE">|Europe/Istanbul</ns1:g>"</string>
+    <string msgid="8375703098860926099" name="C176">"11劃<ns1:g id="SEPARATOR">=</ns1:g>基輔<ns1:g id="TIMEZONE">|Europe/Kiev</ns1:g>"</string>
+    <string msgid="6500868250597874838" name="C177">"7劃<ns1:g id="SEPARATOR">=</ns1:g>里斯本<ns1:g id="TIMEZONE">|Europe/Lisbon</ns1:g>"</string>
+    <string msgid="8805696770032311110" name="C178">"10劃<ns1:g id="SEPARATOR">=</ns1:g>倫敦<ns1:g id="TIMEZONE">|Europe/London</ns1:g>"</string>
+    <string msgid="3767343883668628062" name="C179">"16劃<ns1:g id="SEPARATOR">=</ns1:g>盧森堡<ns1:g id="TIMEZONE">|Europe/Luxembourg</ns1:g>"</string>
+    <string msgid="7460319039497808668" name="C18">"12劃<ns1:g id="SEPARATOR">=</ns1:g>喀土穆<ns1:g id="TIMEZONE">|Africa/Khartoum</ns1:g>"</string>
+    <string msgid="7678392789982322642" name="C180">"10劃<ns1:g id="SEPARATOR">=</ns1:g>馬德里<ns1:g id="TIMEZONE">|Europe/Madrid</ns1:g>"</string>
+    <string msgid="7514462880775616081" name="C181">"10劃<ns1:g id="SEPARATOR">=</ns1:g>馬耳他<ns1:g id="TIMEZONE">|Europe/Malta</ns1:g>"</string>
+    <string msgid="1916950203622380579" name="C182">"8劃<ns1:g id="SEPARATOR">=</ns1:g>明斯克<ns1:g id="TIMEZONE">|Europe/Minsk</ns1:g>"</string>
+    <string msgid="4964892686115215073" name="C183">"15劃<ns1:g id="SEPARATOR">=</ns1:g>摩納哥<ns1:g id="TIMEZONE">|Europe/Monaco</ns1:g>"</string>
+    <string msgid="4848586310907586448" name="C184">"11劃<ns1:g id="SEPARATOR">=</ns1:g>莫斯科<ns1:g id="TIMEZONE">|Europe/Moscow</ns1:g>"</string>
+    <string msgid="2598535413053285569" name="C185">"13劃<ns1:g id="SEPARATOR">=</ns1:g>奧斯陸<ns1:g id="TIMEZONE">|Europe/Oslo</ns1:g>"</string>
+    <string msgid="678795048839315969" name="C186">"4劃<ns1:g id="SEPARATOR">=</ns1:g>巴黎<ns1:g id="TIMEZONE">|Europe/Paris</ns1:g>"</string>
+    <string msgid="9120486940322565800" name="C187">"5劃<ns1:g id="SEPARATOR">=</ns1:g>布拉格<ns1:g id="TIMEZONE">|Europe/Prague</ns1:g>"</string>
+    <string msgid="6820884829000643173" name="C188">"7劃<ns1:g id="SEPARATOR">=</ns1:g>里加<ns1:g id="TIMEZONE">|Europe/Riga</ns1:g>"</string>
+    <string msgid="8545786001221397208" name="C189">"19劃<ns1:g id="SEPARATOR">=</ns1:g>羅馬<ns1:g id="TIMEZONE">|Europe/Rome</ns1:g>"</string>
+    <string msgid="3967163989179394825" name="C19">"11劃<ns1:g id="SEPARATOR">=</ns1:g>基加利<ns1:g id="TIMEZONE">|Africa/Kigali</ns1:g>"</string>
+    <string msgid="2822097113459737895" name="C190">"13劃<ns1:g id="SEPARATOR">=</ns1:g>聖馬力諾<ns1:g id="TIMEZONE">|Europe/San_Marino</ns1:g>"</string>
+    <string msgid="5419026915911469878" name="C191">"18劃<ns1:g id="SEPARATOR">=</ns1:g>薩拉熱窩<ns1:g id="TIMEZONE">|Europe/Sarajevo</ns1:g>"</string>
+    <string msgid="1416880359034236663" name="C192">"7劃<ns1:g id="SEPARATOR">=</ns1:g>辛菲羅波爾<ns1:g id="TIMEZONE">|Europe/Simferopol</ns1:g>"</string>
+    <string msgid="4639373771601474967" name="C193">"12劃<ns1:g id="SEPARATOR">=</ns1:g>斯科普里<ns1:g id="TIMEZONE">|Europe/Skopje</ns1:g>"</string>
+    <string msgid="4008819631066984591" name="C194">"10劃<ns1:g id="SEPARATOR">=</ns1:g>索非亞<ns1:g id="TIMEZONE">|Europe/Sofia</ns1:g>"</string>
+    <string msgid="6936101855361464954" name="C195">"12劃<ns1:g id="SEPARATOR">=</ns1:g>斯德哥爾摩<ns1:g id="TIMEZONE">|Europe/Stockholm</ns1:g>"</string>
+    <string msgid="6845595341045260631" name="C196">"13劃<ns1:g id="SEPARATOR">=</ns1:g>塔林<ns1:g id="TIMEZONE">|Europe/Tallinn</ns1:g>"</string>
+    <string msgid="2200341923401640765" name="C197">"11劃<ns1:g id="SEPARATOR">=</ns1:g>梵蒂岡<ns1:g id="TIMEZONE">|Europe/Vatican</ns1:g>"</string>
+    <string msgid="3104432830681695782" name="C198">"14劃<ns1:g id="SEPARATOR">=</ns1:g>維也納<ns1:g id="TIMEZONE">|Europe/Vienna</ns1:g>"</string>
+    <string msgid="1622823742072233091" name="C199">"14劃<ns1:g id="SEPARATOR">=</ns1:g>維爾紐斯<ns1:g id="TIMEZONE">|Europe/Vilnius</ns1:g>"</string>
+    <string msgid="9073993995416728918" name="C2">"8劃<ns1:g id="SEPARATOR">=</ns1:g>阿克拉<ns1:g id="TIMEZONE">|Africa/Accra</ns1:g>"</string>
+    <string msgid="832336979058592106" name="C20">"8劃<ns1:g id="SEPARATOR">=</ns1:g>金沙薩<ns1:g id="TIMEZONE">|Africa/Kinshasa</ns1:g>"</string>
+    <string msgid="6181652506383585123" name="C200">"12劃<ns1:g id="SEPARATOR">=</ns1:g>華沙<ns1:g id="TIMEZONE">|Europe/Warsaw</ns1:g>"</string>
+    <string msgid="5026927396527258914" name="C201">"18劃<ns1:g id="SEPARATOR">=</ns1:g>薩格勒布<ns1:g id="TIMEZONE">|Europe/Zagreb</ns1:g>"</string>
+    <string msgid="7479245034393288391" name="C202">"20劃<ns1:g id="SEPARATOR">=</ns1:g>蘇黎世<ns1:g id="TIMEZONE">|Europe/Zurich</ns1:g>"</string>
+    <string msgid="1651234331866937237" name="C203">"13劃<ns1:g id="SEPARATOR">=</ns1:g>塔那那利佛<ns1:g id="TIMEZONE">|Indian/Antananarivo</ns1:g>"</string>
+    <string msgid="3101091022126098393" name="C204">"10劃<ns1:g id="SEPARATOR">=</ns1:g>馬爾代夫<ns1:g id="TIMEZONE">|Indian/Maldives</ns1:g>"</string>
+    <string msgid="9173530407684443044" name="C205">"4劃<ns1:g id="SEPARATOR">=</ns1:g>毛里裘斯<ns1:g id="TIMEZONE">|Indian/Mauritius</ns1:g>"</string>
+    <string msgid="7294622489478378014" name="C206">"13劃<ns1:g id="SEPARATOR">=</ns1:g>奧克蘭<ns1:g id="TIMEZONE">|Pacific/Auckland</ns1:g>"</string>
+    <string msgid="6369257832191627783" name="C207">"12劃<ns1:g id="SEPARATOR">=</ns1:g>斐濟<ns1:g id="TIMEZONE">|Pacific/Fiji</ns1:g>"</string>
+    <string msgid="1022999101729302391" name="C208">"19劃<ns1:g id="SEPARATOR">=</ns1:g>關島<ns1:g id="TIMEZONE">|Pacific/Guam</ns1:g>"</string>
+    <string msgid="8326714755257287010" name="C209">"17劃<ns1:g id="SEPARATOR">=</ns1:g>檀香山<ns1:g id="TIMEZONE">|Pacific/Honolulu</ns1:g>"</string>
+    <string msgid="8691772487297796331" name="C21">"8劃<ns1:g id="SEPARATOR">=</ns1:g>拉各斯<ns1:g id="TIMEZONE">|Africa/Lagos</ns1:g>"</string>
+    <string msgid="4118975261202718577" name="C210">"11劃<ns1:g id="SEPARATOR">=</ns1:g>基里地馬地<ns1:g id="TIMEZONE">|Pacific/Kiritimati</ns1:g>"</string>
+    <string msgid="6016485615657297427" name="C211">"7劃<ns1:g id="SEPARATOR">=</ns1:g>努美阿<ns1:g id="TIMEZONE">|Pacific/Noumea</ns1:g>"</string>
+    <string msgid="5230836436291372485" name="C214">"6劃<ns1:g id="SEPARATOR">=</ns1:g>安提瓜<ns1:g id="TIMEZONE">|America/Antigua</ns1:g>"</string>
+    <string msgid="9104600827236874744" name="C215">"13劃<ns1:g id="SEPARATOR">=</ns1:g>奧斯汀<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="1919768646168928906" name="C216">"8劃<ns1:g id="SEPARATOR">=</ns1:g>波士頓<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="4879725034214879629" name="C217">"5劃<ns1:g id="SEPARATOR">=</ns1:g>卡爾加里<ns1:g id="TIMEZONE">|America/Denver</ns1:g>"</string>
+    <string msgid="5884212032925236157" name="C218">"10劃<ns1:g id="SEPARATOR">=</ns1:g>哥倫布<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="2081823206177849440" name="C219">"13劃<ns1:g id="SEPARATOR">=</ns1:g>達拉斯<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="6061916756914828881" name="C22">"10劃<ns1:g id="SEPARATOR">=</ns1:g>馬塞魯<ns1:g id="TIMEZONE">|Africa/Maseru</ns1:g>"</string>
+    <string msgid="6453910991331509621" name="C220">"16劃<ns1:g id="SEPARATOR">=</ns1:g>諾克斯維爾<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="8383807404322146544" name="C221">"8劃<ns1:g id="SEPARATOR">=</ns1:g>孟菲斯<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="3700668026644596138" name="C222">"17劃<ns1:g id="SEPARATOR">=</ns1:g>邁阿密<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="221323185158028534" name="C223">"8劃<ns1:g id="SEPARATOR">=</ns1:g>明尼阿波利斯<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="5283127526588257314" name="C224">"12劃<ns1:g id="SEPARATOR">=</ns1:g>渥太華<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="2397752406722350262" name="C225">"12劃<ns1:g id="SEPARATOR">=</ns1:g>費城<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="9121074377966278110" name="C226">"8劃<ns1:g id="SEPARATOR">=</ns1:g>波特蘭<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="5652209241017010001" name="C227">"13劃<ns1:g id="SEPARATOR">=</ns1:g>聖地牙哥<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="4215672329797580482" name="C228">"3劃<ns1:g id="SEPARATOR">=</ns1:g>三藩市<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="4196312467437357156" name="C229">"24劃<ns1:g id="SEPARATOR">=</ns1:g>鹽湖城<ns1:g id="TIMEZONE">|America/Denver</ns1:g>"</string>
+    <string msgid="6790461017899209498" name="C23">"15劃<ns1:g id="SEPARATOR">=</ns1:g>摩加迪沙<ns1:g id="TIMEZONE">|Africa/Mogadishu</ns1:g>"</string>
+    <string msgid="5521643115321121383" name="C230">"13劃<ns1:g id="SEPARATOR">=</ns1:g>聖荷西<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="19294357270942004" name="C231">"13劃<ns1:g id="SEPARATOR">=</ns1:g>聖薩爾瓦多<ns1:g id="TIMEZONE">|America/Guatemala</ns1:g>"</string>
+    <string msgid="4714655032274833316" name="C232">"6劃<ns1:g id="SEPARATOR">=</ns1:g>西雅圖<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="7162834873553109876" name="C233">"13劃<ns1:g id="SEPARATOR">=</ns1:g>聖路易斯<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="8431913494781960891" name="C234">"12劃<ns1:g id="SEPARATOR">=</ns1:g>華盛頓特區<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="8650421942456856419" name="C235">"6劃<ns1:g id="SEPARATOR">=</ns1:g>休斯頓<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="3687627401939103862" name="C236">"13劃<ns1:g id="SEPARATOR">=</ns1:g>聖安東尼奧<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="4443158977093108877" name="C237">"12劃<ns1:g id="SEPARATOR">=</ns1:g>傑克遜維爾<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="7416660474443881822" name="C238">"4劃<ns1:g id="SEPARATOR">=</ns1:g>巴爾的摩<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="4602819453157356596" name="C239">"10劃<ns1:g id="SEPARATOR">=</ns1:g>納什維爾<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="836730985302941979" name="C24">"8劃<ns1:g id="SEPARATOR">=</ns1:g>奈羅比<ns1:g id="TIMEZONE">|Africa/Nairobi</ns1:g>"</string>
+    <string msgid="6474976205162582188" name="C240">"11劃<ns1:g id="SEPARATOR">=</ns1:g>密爾沃基<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="9133192521877174743" name="C241">"12劃<ns1:g id="SEPARATOR">=</ns1:g>奥克拉荷馬城<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="4837450655035932235" name="C242">"8劃<ns1:g id="SEPARATOR">=</ns1:g>拉斯維加斯<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="8140503787735683522" name="C243">"8劃<ns1:g id="SEPARATOR">=</ns1:g>阿爾伯克基<ns1:g id="TIMEZONE">|America/Denver</ns1:g>"</string>
+    <string msgid="5425441385595386539" name="C244">"14劃<ns1:g id="SEPARATOR">=</ns1:g>圖森<ns1:g id="TIMEZONE">|MST</ns1:g>"</string>
+    <string msgid="2117808251938937801" name="C245">"18劃<ns1:g id="SEPARATOR">=</ns1:g>薩克拉門托<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="3092246848082816772" name="C246">"8劃<ns1:g id="SEPARATOR">=</ns1:g>阿特蘭大<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="8206866466240263364" name="C247">"7劃<ns1:g id="SEPARATOR">=</ns1:g>克利夫蘭<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="2640187332546735575" name="C248">"13劃<ns1:g id="SEPARATOR">=</ns1:g>新奧爾良<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="2891345755858261436" name="C249">"8劃<ns1:g id="SEPARATOR">=</ns1:g>坦帕<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="6439936809920816845" name="C25">"13劃<ns1:g id="SEPARATOR">=</ns1:g>聖多美<ns1:g id="TIMEZONE">|Africa/Sao_Tome</ns1:g>"</string>
+    <string msgid="820338627695297018" name="C250">"4劃<ns1:g id="SEPARATOR">=</ns1:g>匹茲堡<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="5944336862095193572" name="C251">"7劃<ns1:g id="SEPARATOR">=</ns1:g>辛辛那提<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="4879366628092590554" name="C252">"3劃<ns1:g id="SEPARATOR">=</ns1:g>山景城<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="131023875763265059" name="C253">"7劃<ns1:g id="SEPARATOR">=</ns1:g>里諾<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="6114708580340716772" name="C254">"12劃<ns1:g id="SEPARATOR">=</ns1:g>黑岩城<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="7954132426931661492" name="C255">"6劃<ns1:g id="SEPARATOR">=</ns1:g>多哈<ns1:g id="TIMEZONE">|Asia/Riyadh</ns1:g>"</string>
+    <string msgid="4677098546257306673" name="C256">"5劃<ns1:g id="SEPARATOR">=</ns1:g>北京<ns1:g id="PHONETIC">:</ns1:g><ns1:g id="TIMEZONE">|Asia/Shanghai</ns1:g>"</string>
+    <string msgid="6859408162854724420" name="C257">"8劃<ns1:g id="SEPARATOR">=</ns1:g>孟買<ns1:g id="TIMEZONE">|Asia/Kolkata</ns1:g>"</string>
+    <string msgid="4883343467599097650" name="C258">"15劃<ns1:g id="SEPARATOR">=</ns1:g>德里<ns1:g id="TIMEZONE">|Asia/Kolkata</ns1:g>"</string>
+    <string msgid="5562442240689501324" name="C259">"3劃<ns1:g id="SEPARATOR">=</ns1:g>大阪<ns1:g id="PHONETIC">:</ns1:g><ns1:g id="TIMEZONE">|Asia/Tokyo</ns1:g>"</string>
+    <string msgid="3250092456144685877" name="C26">"7劃<ns1:g id="SEPARATOR">=</ns1:g>廷巴克圖<ns1:g id="TIMEZONE">|Africa/Timbuktu</ns1:g>"</string>
+    <string msgid="8364102554400427814" name="C260">"8劃<ns1:g id="SEPARATOR">=</ns1:g>拉合爾<ns1:g id="TIMEZONE">|Asia/Karachi</ns1:g>"</string>
+    <string msgid="4120312655526126931" name="C261">"7劃<ns1:g id="SEPARATOR">=</ns1:g>沙那<ns1:g id="TIMEZONE">|Asia/Riyadh</ns1:g>"</string>
+    <string msgid="5548180151889833" name="C262">"4劃<ns1:g id="SEPARATOR">=</ns1:g>巴塞隆拿<ns1:g id="TIMEZONE">|Europe/Madrid</ns1:g>"</string>
+    <string msgid="2667061188896159784" name="C263">"15劃<ns1:g id="SEPARATOR">=</ns1:g>慕尼黑<ns1:g id="TIMEZONE">|Europe/Berlin</ns1:g>"</string>
+    <string msgid="2183960913782375290" name="C264">"6劃<ns1:g id="SEPARATOR">=</ns1:g>米蘭<ns1:g id="TIMEZONE">|Europe/Rome</ns1:g>"</string>
+    <string msgid="7302072801871420825" name="C265">"8劃<ns1:g id="SEPARATOR">=</ns1:g>法蘭克福<ns1:g id="TIMEZONE">|Europe/Berlin</ns1:g>"</string>
+    <string msgid="2043638131940526010" name="C266">"8劃<ns1:g id="SEPARATOR">=</ns1:g>河內<ns1:g id="TIMEZONE">|Asia/Bangkok</ns1:g>"</string>
+    <string msgid="2210484655793571387" name="C267">"6劃<ns1:g id="SEPARATOR">=</ns1:g>安卡拉<ns1:g id="TIMEZONE">|Europe/Istanbul</ns1:g>"</string>
+    <string msgid="263106973500029909" name="C268">"10劃<ns1:g id="SEPARATOR">=</ns1:g>班加羅爾<ns1:g id="TIMEZONE">|Asia/Kolkata</ns1:g>"</string>
+    <string msgid="6541694468583591229" name="C269">"4劃<ns1:g id="SEPARATOR">=</ns1:g>巴西利亞<ns1:g id="TIMEZONE">|America/Sao_Paulo</ns1:g>"</string>
+    <string msgid="851018621577780718" name="C27">"8劃<ns1:g id="SEPARATOR">=</ns1:g>的黎波里<ns1:g id="TIMEZONE">|Africa/Tripoli</ns1:g>"</string>
+    <string msgid="1314079881051130603" name="C270">"12劃<ns1:g id="SEPARATOR">=</ns1:g>開普敦<ns1:g id="TIMEZONE">|Africa/Johannesburg</ns1:g>"</string>
+    <string msgid="8640235215580011665" name="C271">"6劃<ns1:g id="SEPARATOR">=</ns1:g>伊斯蘭堡<ns1:g id="TIMEZONE">|Asia/Karachi</ns1:g>"</string>
+    <string msgid="1609536549681428971" name="C272">"7劃<ns1:g id="SEPARATOR">=</ns1:g>里約熱內盧<ns1:g id="TIMEZONE">|America/Sao_Paulo</ns1:g>"</string>
+    <string msgid="7079941149646181981" name="C273">"6劃<ns1:g id="SEPARATOR">=</ns1:g>安阿伯<ns1:g id="TIMEZONE">|America/Detroit</ns1:g>"</string>
+    <string msgid="8459573593923702400" name="C274">"12劃<ns1:g id="SEPARATOR">=</ns1:g>博爾德<ns1:g id="TIMEZONE">|America/Denver</ns1:g>"</string>
+    <string msgid="6089570009772695384" name="C275">"15劃<ns1:g id="SEPARATOR">=</ns1:g>劍橋<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="8770778158932656740" name="C276">"9劃<ns1:g id="SEPARATOR">=</ns1:g>科克蘭<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="3027642546928363284" name="C277">"11劃 <ns1:g id="SEPARATOR">=</ns1:g>麥迪遜<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="2380762577096499707" name="C278">"15劃<ns1:g id="SEPARATOR">=</ns1:g>廣州<ns1:g id="PHONETIC">:</ns1:g><ns1:g id="TIMEZONE">|Asia/Shanghai</ns1:g>"</string>
+    <string msgid="8894272318704876379" name="C279">"10劃<ns1:g id="SEPARATOR">=</ns1:g>海得拉巴<ns1:g id="TIMEZONE">|Asia/Kolkata</ns1:g>"</string>
+    <string msgid="7979767521827885833" name="C28">"9劃<ns1:g id="SEPARATOR">=</ns1:g>突尼斯<ns1:g id="TIMEZONE">|Africa/Tunis</ns1:g>"</string>
+    <string msgid="7678401703785036372" name="C280">"13劃<ns1:g id="SEPARATOR">=</ns1:g>雷斯頓<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="8023528134904066052" name="C281">"9劃<ns1:g id="SEPARATOR">=</ns1:g>美景市<ns1:g id="TIMEZONE">|America/Sao_Paulo</ns1:g>"</string>
+    <string msgid="6695477038758559199" name="C282">"13劃<ns1:g id="SEPARATOR">=</ns1:g>聖地牙哥<ns1:g id="TIMEZONE">|America/Santiago</ns1:g>"</string>
+    <string msgid="7769787200879321206" name="C283">"14劃<ns1:g id="SEPARATOR">=</ns1:g>蒙羅維亞<ns1:g id="TIMEZONE">|Africa/Monrovia</ns1:g>"</string>
+    <string msgid="6968458422900478829" name="C284">"5劃<ns1:g id="SEPARATOR">=</ns1:g>可倫坡<ns1:g id="TIMEZONE">|Asia/Colombo</ns1:g>"</string>
+    <string msgid="1141404871109476705" name="C285">"8劃<ns1:g id="SEPARATOR">=</ns1:g>奇瓦瓦<ns1:g id="TIMEZONE">|America/Chihuahua</ns1:g>"</string>
+    <string msgid="4996225818359904740" name="C286">"18劃<ns1:g id="SEPARATOR">=</ns1:g>薩爾瓦多<ns1:g id="TIMEZONE">|America/Sao_Paulo</ns1:g>"</string>
+    <string msgid="1988559263618010310" name="C287">"5劃<ns1:g id="SEPARATOR">=</ns1:g>古爾岡<ns1:g id="TIMEZONE">|Asia/Kolkata</ns1:g>"</string>
+    <string msgid="852288766460325989" name="C288">"11劃<ns1:g id="SEPARATOR">=</ns1:g>曼徹斯特<ns1:g id="TIMEZONE">|Europe/London</ns1:g>"</string>
+    <string msgid="7946114495840302218" name="C29">"6劃<ns1:g id="SEPARATOR">=</ns1:g>安克雷奇<ns1:g id="TIMEZONE">|America/Anchorage</ns1:g>"</string>
+    <string msgid="9191944922972784727" name="C290">"13劃<ns1:g id="SEPARATOR">=</ns1:g>聖彼得堡<ns1:g id="TIMEZONE">|Europe/Moscow</ns1:g>"</string>
+    <string msgid="4662360206594986867" name="C291">"7劃<ns1:g id="SEPARATOR">=</ns1:g>克拉科夫<ns1:g id="TIMEZONE">|Europe/Warsaw</ns1:g>"</string>
+    <string msgid="3704362015612990315" name="C292">"15劃<ns1:g id="SEPARATOR">=</ns1:g>樂斯拉夫<ns1:g id="TIMEZONE">|Europe/Warsaw</ns1:g>"</string>
+    <string msgid="3807981967850386200" name="C293">"14劃<ns1:g id="SEPARATOR">=</ns1:g>漢堡<ns1:g id="TIMEZONE">|Europe/Berlin</ns1:g>"</string>
+    <string msgid="2800056634746552933" name="C294">"13劃<ns1:g id="SEPARATOR">=</ns1:g>奧盧<ns1:g id="TIMEZONE">|Europe/Bucharest</ns1:g>"</string>
+    <string msgid="7855357204471157922" name="C295">"10劃<ns1:g id="SEPARATOR">=</ns1:g>海法<ns1:g id="TIMEZONE">|Asia/Jerusalem</ns1:g>"</string>
+    <string msgid="2834361512883853579" name="C296">"13劃<ns1:g id="SEPARATOR">=</ns1:g>聖胡安<ns1:g id="TIMEZONE">|America/Puerto_Rico</ns1:g>"</string>
+    <string msgid="5314407834713913608" name="C297">"15劃<ns1:g id="SEPARATOR">=</ns1:g>德古斯加巴<ns1:g id="TIMEZONE">|America/Tegucigalpa</ns1:g>"</string>
+    <string msgid="4186340979527221275" name="C298">"4劃<ns1:g id="SEPARATOR">=</ns1:g>巴拉馬利波<ns1:g id="TIMEZONE">|America/Paramaribo</ns1:g>"</string>
+    <string msgid="5688169950851674667" name="C299">"11劃<ns1:g id="SEPARATOR">=</ns1:g>基多<ns1:g id="TIMEZONE">|America/Panama</ns1:g>"</string>
+    <string msgid="5172979423931428620" name="C3">"8劃<ns1:g id="SEPARATOR">=</ns1:g>阿的斯阿貝巴<ns1:g id="TIMEZONE">|Africa/Addis_Ababa</ns1:g>"</string>
+    <string msgid="7351753589989414696" name="C300">"16劃<ns1:g id="SEPARATOR">=</ns1:g>盧布爾雅那<ns1:g id="TIMEZONE">|Europe/Ljubljana</ns1:g>"</string>
+    <string msgid="9089921329206815602" name="C301">"8劃<ns1:g id="SEPARATOR">=</ns1:g>阿什哈巴德<ns1:g id="TIMEZONE">|Asia/Ashgabat</ns1:g>"</string>
+    <string msgid="6471051311513517449" name="C302">"8劃<ns1:g id="SEPARATOR">=</ns1:g>阿斯馬拉<ns1:g id="TIMEZONE">|Africa/Asmara</ns1:g>"</string>
+    <string msgid="6208957436062127281" name="C303">"12劃<ns1:g id="SEPARATOR">=</ns1:g>斯里巴加灣市<ns1:g id="TIMEZONE">|Asia/Brunei</ns1:g>"</string>
+    <string msgid="7757188637892125245" name="C304">"10劃<ns1:g id="SEPARATOR">=</ns1:g>班基<ns1:g id="TIMEZONE">|Africa/Bangui</ns1:g>"</string>
+    <string msgid="5538312768539249335" name="C305">"10劃<ns1:g id="SEPARATOR">=</ns1:g>班珠爾<ns1:g id="TIMEZONE">|Africa/Banjul</ns1:g>"</string>
+    <string msgid="6400938736119754675" name="C306">"4劃<ns1:g id="SEPARATOR">=</ns1:g>比什凱克<ns1:g id="TIMEZONE">|Asia/Bishkek</ns1:g>"</string>
+    <string msgid="1169132195117591472" name="C307">"4劃<ns1:g id="SEPARATOR">=</ns1:g>比紹<ns1:g id="TIMEZONE">|Africa/Bissau</ns1:g>"</string>
+    <string msgid="7704965635342439141" name="C308">"5劃<ns1:g id="SEPARATOR">=</ns1:g>布松布拉<ns1:g id="TIMEZONE">|Africa/Bujumbura</ns1:g>"</string>
+    <string msgid="1522235235310763925" name="C309">"9劃<ns1:g id="SEPARATOR">=</ns1:g>帝力<ns1:g id="TIMEZONE">|Asia/Dili</ns1:g>"</string>
+    <string msgid="9017443250572798257" name="C31">"8劃<ns1:g id="SEPARATOR">=</ns1:g>阿魯巴<ns1:g id="TIMEZONE">|America/Aruba</ns1:g>"</string>
+    <string msgid="8666508463588411257" name="C310">"7劃<ns1:g id="SEPARATOR">=</ns1:g>杜尚別<ns1:g id="TIMEZONE">|Asia/Dushanbe</ns1:g>"</string>
+    <string msgid="5940486195605635031" name="C311">"12劃<ns1:g id="SEPARATOR">=</ns1:g>富納富提<ns1:g id="TIMEZONE">|Pacific/Funafuti</ns1:g>"</string>
+    <string msgid="1714210141256903683" name="C312">"11劃<ns1:g id="SEPARATOR">=</ns1:g>荷尼阿拉<ns1:g id="TIMEZONE">|Pacific/Guadalcanal</ns1:g>"</string>
+    <string msgid="8390229571948311411" name="C313">"6劃<ns1:g id="SEPARATOR">=</ns1:g>朱巴<ns1:g id="TIMEZONE">|Africa/Juba</ns1:g>"</string>
+    <string msgid="3840011425345102604" name="C314">"8劃<ns1:g id="SEPARATOR">=</ns1:g>金斯敦<ns1:g id="TIMEZONE">|America/St_Vincent</ns1:g>"</string>
+    <string msgid="8962557999110557329" name="C315">"7劃<ns1:g id="SEPARATOR">=</ns1:g>利伯維爾<ns1:g id="TIMEZONE">|Africa/Libreville</ns1:g>"</string>
+    <string msgid="3674113287320887951" name="C316">"9劃<ns1:g id="SEPARATOR">=</ns1:g>洛美<ns1:g id="TIMEZONE">|Africa/Lome</ns1:g>"</string>
+    <string msgid="4818049429422081055" name="C317">"19劃<ns1:g id="SEPARATOR">=</ns1:g>羅安達<ns1:g id="TIMEZONE">|Africa/Luanda</ns1:g>"</string>
+    <string msgid="3814107319819817789" name="C318">"16劃<ns1:g id="SEPARATOR">=</ns1:g>盧薩卡<ns1:g id="TIMEZONE">|Africa/Lusaka</ns1:g>"</string>
+    <string msgid="5757039321992317631" name="C319">"10劃<ns1:g id="SEPARATOR">=</ns1:g>馬祖盧<ns1:g id="TIMEZONE">|Pacific/Majuro</ns1:g>"</string>
+    <string msgid="3825060534011309483" name="C32">"8劃<ns1:g id="SEPARATOR">=</ns1:g>亞松森<ns1:g id="TIMEZONE">|America/Asuncion</ns1:g>"</string>
+    <string msgid="8334348266391215583" name="C320">"10劃<ns1:g id="SEPARATOR">=</ns1:g>馬拉博<ns1:g id="TIMEZONE">|Africa/Malabo</ns1:g>"</string>
+    <string msgid="5401323973667971972" name="C321">"10劃<ns1:g id="SEPARATOR">=</ns1:g>馬布多<ns1:g id="TIMEZONE">|Africa/Maputo</ns1:g>"</string>
+    <string msgid="67637052310417975" name="C322">"15劃<ns1:g id="SEPARATOR">=</ns1:g>墨巴本<ns1:g id="TIMEZONE">|Africa/Mbabane</ns1:g>"</string>
+    <string msgid="4500721332684955521" name="C323">"11劃<ns1:g id="SEPARATOR">=</ns1:g>莫羅尼<ns1:g id="TIMEZONE">|Indian/Comoro</ns1:g>"</string>
+    <string msgid="1741927819842539260" name="C324">"10劃<ns1:g id="SEPARATOR">=</ns1:g>恩賈梅納<ns1:g id="TIMEZONE">|Africa/Ndjamena</ns1:g>"</string>
+    <string msgid="8771905307322194055" name="C325">"10劃<ns1:g id="SEPARATOR">=</ns1:g>恩吉魯穆德<ns1:g id="TIMEZONE">|Pacific/Palau</ns1:g>"</string>
+    <string msgid="2389198042593603472" name="C326">"5劃<ns1:g id="SEPARATOR">=</ns1:g>尼亞美<ns1:g id="TIMEZONE">|Africa/Niamey</ns1:g>"</string>
+    <string msgid="5317479895686981912" name="C327">"5劃<ns1:g id="SEPARATOR">=</ns1:g>尼科西亞<ns1:g id="TIMEZONE">|Europe/Nicosia</ns1:g>"</string>
+    <string msgid="6416405203954996861" name="C328">"8劃<ns1:g id="SEPARATOR">=</ns1:g>或索<ns1:g id="TIMEZONE">|Africa/Nouakchott</ns1:g>"</string>
+    <string msgid="6876960940903095843" name="C329">"7劃<ns1:g id="SEPARATOR">=</ns1:g>努庫阿洛法<ns1:g id="TIMEZONE">|Pacific/Tongatapu</ns1:g>"</string>
+    <string msgid="700410369162607101" name="C33">"4劃<ns1:g id="SEPARATOR">=</ns1:g>巴巴多斯<ns1:g id="TIMEZONE">|America/Barbados</ns1:g>"</string>
+    <string msgid="1572294706542426161" name="C330">"5劃<ns1:g id="SEPARATOR">=</ns1:g>布基納法索<ns1:g id="TIMEZONE">|Africa/Ouagadougou</ns1:g>"</string>
+    <string msgid="2607492003890117689" name="C331">"8劃<ns1:g id="SEPARATOR">=</ns1:g>帕利基爾<ns1:g id="TIMEZONE">|Pacific/Noumea</ns1:g>"</string>
+    <string msgid="8349533418456323370" name="C332">"12劃<ns1:g id="SEPARATOR">=</ns1:g>菲利普斯堡<ns1:g id="TIMEZONE">|America/Lower_Princes</ns1:g>"</string>
+    <string msgid="2842640664018042568" name="C333">"8劃<ns1:g id="SEPARATOR">=</ns1:g>波德戈里察<ns1:g id="TIMEZONE">|Europe/Podgorica</ns1:g>"</string>
+    <string msgid="3310146581437635671" name="C334">"11劃<ns1:g id="SEPARATOR">=</ns1:g>莫士比港<ns1:g id="TIMEZONE">|Pacific/Palau</ns1:g>"</string>
+    <string msgid="3317158262102352303" name="C335">"14劃<ns1:g id="SEPARATOR">=</ns1:g>維拉港<ns1:g id="TIMEZONE">|Pacific/Efate</ns1:g>"</string>
+    <string msgid="3810072761869903472" name="C336">"8劃<ns1:g id="SEPARATOR">=</ns1:g>波圖奴埠<ns1:g id="TIMEZONE">|Africa/Porto-Novo</ns1:g>"</string>
+    <string msgid="3412269218104112252" name="C337">"12劃<ns1:g id="SEPARATOR">=</ns1:g>普里什蒂納<ns1:g id="TIMEZONE">|Europe/Belgrade</ns1:g>"</string>
+    <string msgid="6151841959824325885" name="C338">"19劃<ns1:g id="SEPARATOR">=</ns1:g>羅索<ns1:g id="TIMEZONE">|America/Dominica</ns1:g>"</string>
+    <string msgid="8909994815975646525" name="C339">"13劃<ns1:g id="SEPARATOR">=</ns1:g>塔什幹<ns1:g id="TIMEZONE">|Asia/Tashkent</ns1:g>"</string>
+    <string msgid="4247046344370912762" name="C34">"7劃<ns1:g id="SEPARATOR">=</ns1:g>伯利茲<ns1:g id="TIMEZONE">|America/Belize</ns1:g>"</string>
+    <string msgid="415479723070879485" name="C340">"11劃<ns1:g id="SEPARATOR">=</ns1:g>第比利斯<ns1:g id="TIMEZONE">|Asia/Tbilisi</ns1:g>"</string>
+    <string msgid="2299478430610154042" name="C341">"7劃<ns1:g id="SEPARATOR">=</ns1:g>廷布<ns1:g id="TIMEZONE">|Asia/Thimphu</ns1:g>"</string>
+    <string msgid="7997617194333170685" name="C342">"6劃<ns1:g id="SEPARATOR">=</ns1:g>地拉那<ns1:g id="TIMEZONE">|Europe/Tirane</ns1:g>"</string>
+    <string msgid="622805851462854910" name="C343">"12劃<ns1:g id="SEPARATOR">=</ns1:g>華杜茲<ns1:g id="TIMEZONE">|Europe/Vaduz</ns1:g>"</string>
+    <string msgid="7629820826386244509" name="C344">"5劃<ns1:g id="SEPARATOR">=</ns1:g>永珍<ns1:g id="TIMEZONE">|Asia/Vientiane</ns1:g>"</string>
+    <string msgid="1881198350378158072" name="C345">"13劃<ns1:g id="SEPARATOR">=</ns1:g>溫荷克<ns1:g id="TIMEZONE">|Africa/Windhoek</ns1:g>"</string>
+    <string msgid="2947674392768816097" name="C346">"9劃<ns1:g id="SEPARATOR">=</ns1:g>耶溫得<ns1:g id="TIMEZONE">|Africa/Douala</ns1:g>"</string>
+    <string msgid="6291282205599716861" name="C347">"9劃<ns1:g id="SEPARATOR">=</ns1:g>亞倫區<ns1:g id="TIMEZONE">|Pacific/Nauru</ns1:g>"</string>
+    <string msgid="8462071023392592539" name="C348">"10劃<ns1:g id="SEPARATOR">=</ns1:g>埃里溫<ns1:g id="TIMEZONE">|Asia/Yerevan</ns1:g>"</string>
+    <string msgid="2794708943743875418" name="C35">"8劃<ns1:g id="SEPARATOR">=</ns1:g>波哥大<ns1:g id="TIMEZONE">|America/Bogota</ns1:g>"</string>
+    <string msgid="5404342554664613950" name="C36">"5劃<ns1:g id="SEPARATOR">=</ns1:g>布宜諾斯艾利斯<ns1:g id="TIMEZONE">|America/Buenos_Aires</ns1:g>"</string>
+    <string msgid="210142862572070093" name="C37">"7劃<ns1:g id="SEPARATOR">=</ns1:g>坎昆<ns1:g id="TIMEZONE">|America/Cancun</ns1:g>"</string>
+    <string msgid="3882347315148425276" name="C38">"5劃<ns1:g id="SEPARATOR">=</ns1:g>卡拉卡斯<ns1:g id="TIMEZONE">|America/Caracas</ns1:g>"</string>
+    <string msgid="1273212484626323439" name="C39">"12劃<ns1:g id="SEPARATOR">=</ns1:g>開曼<ns1:g id="TIMEZONE">|America/Cayman</ns1:g>"</string>
+    <string msgid="4450258423854546267" name="C4">"8劃<ns1:g id="SEPARATOR">=</ns1:g>阿爾及爾<ns1:g id="TIMEZONE">|Africa/Algiers</ns1:g>"</string>
+    <string msgid="3106173663723475314" name="C40">"8劃<ns1:g id="SEPARATOR">=</ns1:g>芝加哥<ns1:g id="TIMEZONE">|America/Chicago</ns1:g>"</string>
+    <string msgid="5638414063615009004" name="C42">"10劃<ns1:g id="SEPARATOR">=</ns1:g>庫拉索<ns1:g id="TIMEZONE">|America/Curacao</ns1:g>"</string>
+    <string msgid="6826097241516998181" name="C43">"13劃<ns1:g id="SEPARATOR">=</ns1:g>道森溪<ns1:g id="TIMEZONE">|America/Dawson_Creek</ns1:g>"</string>
+    <string msgid="2779334691893631030" name="C44">"4劃<ns1:g id="SEPARATOR">=</ns1:g>丹佛<ns1:g id="TIMEZONE">|America/Denver</ns1:g>"</string>
+    <string msgid="8943178793317201894" name="C45">"8劃<ns1:g id="SEPARATOR">=</ns1:g>底特律<ns1:g id="TIMEZONE">|America/Detroit</ns1:g>"</string>
+    <string msgid="5190250990574320177" name="C46">"6劃<ns1:g id="SEPARATOR">=</ns1:g>多明尼加<ns1:g id="TIMEZONE">|America/Dominica</ns1:g>"</string>
+    <string msgid="369754396219379227" name="C47">"10劃<ns1:g id="SEPARATOR">=</ns1:g>埃德蒙頓<ns1:g id="TIMEZONE">|America/Edmonton</ns1:g>"</string>
+    <string msgid="7918902616648922410" name="C48">"18劃<ns1:g id="SEPARATOR">=</ns1:g>薩爾瓦多<ns1:g id="TIMEZONE">|America/El_Salvador</ns1:g>"</string>
+    <string msgid="6326857727742458931" name="C49">"14劃<ns1:g id="SEPARATOR">=</ns1:g>福塔萊薩<ns1:g id="TIMEZONE">|America/Fortaleza</ns1:g>"</string>
+    <string msgid="8063142106679202722" name="C5">"5劃<ns1:g id="SEPARATOR">=</ns1:g>布藍泰爾<ns1:g id="TIMEZONE">|Africa/Blantyre</ns1:g>"</string>
+    <string msgid="3131498820508584398" name="C50">"3劃<ns1:g id="SEPARATOR">=</ns1:g>大特克<ns1:g id="TIMEZONE">|America/Grand_Turk</ns1:g>"</string>
+    <string msgid="3122278921760822414" name="C51">"10劃<ns1:g id="SEPARATOR">=</ns1:g>格瑞納達<ns1:g id="TIMEZONE">|America/Grenada</ns1:g>"</string>
+    <string msgid="7461551991724617520" name="C52">"6劃<ns1:g id="SEPARATOR">=</ns1:g>危地馬拉城<ns1:g id="TIMEZONE">|America/Guatemala</ns1:g>"</string>
+    <string msgid="296242785331472791" name="C53">"6劃<ns1:g id="SEPARATOR">=</ns1:g>圭亞那<ns1:g id="TIMEZONE">|America/Guyana</ns1:g>"</string>
+    <string msgid="4045007274020361950" name="C54">"9劃<ns1:g id="SEPARATOR">=</ns1:g>哈利法克斯<ns1:g id="TIMEZONE">|America/Halifax</ns1:g>"</string>
+    <string msgid="8180186289266487770" name="C55">"9劃<ns1:g id="SEPARATOR">=</ns1:g>哈瓦那<ns1:g id="TIMEZONE">|America/Havana</ns1:g>"</string>
+    <string msgid="6062281725956353553" name="C56">"6劃<ns1:g id="SEPARATOR">=</ns1:g>印第安納波利<ns1:g id="TIMEZONE">|America/Indiana/Indianapolis</ns1:g>"</string>
+    <string msgid="5971109906791493563" name="C57">"16劃<ns1:g id="SEPARATOR">=</ns1:g>諾克斯<ns1:g id="TIMEZONE">|America/Indiana/Knox</ns1:g>"</string>
+    <string msgid="7657721717096348613" name="C58">"10劃<ns1:g id="SEPARATOR">=</ns1:g>馬倫哥<ns1:g id="TIMEZONE">|America/Indiana/Marengo</ns1:g>"</string>
+    <string msgid="2053523400941417307" name="C59">"13劃<ns1:g id="SEPARATOR">=</ns1:g>聖彼得堡<ns1:g id="TIMEZONE">|America/Indiana/Petersburg</ns1:g>"</string>
+    <string msgid="1620940469531839828" name="C6">"5劃<ns1:g id="SEPARATOR">=</ns1:g>布拉薩維爾<ns1:g id="TIMEZONE">|Africa/Brazzaville</ns1:g>"</string>
+    <string msgid="8112283891039465817" name="C60">"10劃<ns1:g id="SEPARATOR">=</ns1:g>泰爾市<ns1:g id="TIMEZONE">|America/Indiana/Tell_City</ns1:g>"</string>
+    <string msgid="7778713489993559227" name="C61">"12劃<ns1:g id="SEPARATOR">=</ns1:g>斐威<ns1:g id="TIMEZONE">|America/Indiana/Vevay</ns1:g>"</string>
+    <string msgid="2667958702401099683" name="C62">"13劃<ns1:g id="SEPARATOR">=</ns1:g>萬塞訥<ns1:g id="TIMEZONE">|America/Indiana/Vincennes</ns1:g>"</string>
+    <string msgid="2251274863869460838" name="C63">"9劃<ns1:g id="SEPARATOR">=</ns1:g>威納馬克<ns1:g id="TIMEZONE">|America/Indiana/Winamac</ns1:g>"</string>
+    <string msgid="1051183687128385699" name="C64">"8劃<ns1:g id="SEPARATOR">=</ns1:g>京士敦<ns1:g id="TIMEZONE">|America/Jamaica</ns1:g>"</string>
+    <string msgid="4484953311341882894" name="C65">"8劃<ns1:g id="SEPARATOR">=</ns1:g>拉巴斯<ns1:g id="TIMEZONE">|America/La_Paz</ns1:g>"</string>
+    <string msgid="4486852398001333122" name="C66">"7劃<ns1:g id="SEPARATOR">=</ns1:g>利瑪<ns1:g id="TIMEZONE">|America/Lima</ns1:g>"</string>
+    <string msgid="4874799181719358019" name="C67">"9劃<ns1:g id="SEPARATOR">=</ns1:g>洛杉磯<ns1:g id="TIMEZONE">|America/Los_Angeles</ns1:g>"</string>
+    <string msgid="5526012011469271690" name="C68">"13劃<ns1:g id="SEPARATOR">=</ns1:g>路易斯維爾<ns1:g id="TIMEZONE">|America/Louisville</ns1:g>"</string>
+    <string msgid="6147580167560875608" name="C69">"10劃<ns1:g id="SEPARATOR">=</ns1:g>馬那瓜<ns1:g id="TIMEZONE">|America/Managua</ns1:g>"</string>
+    <string msgid="8450502029020824529" name="C7">"12劃<ns1:g id="SEPARATOR">=</ns1:g>開羅<ns1:g id="TIMEZONE">|Africa/Cairo</ns1:g>"</string>
+    <string msgid="3277881296053225577" name="C70">"10劃<ns1:g id="SEPARATOR">=</ns1:g>馬提尼克<ns1:g id="TIMEZONE">|America/Martinique</ns1:g>"</string>
+    <string msgid="4017941126335556194" name="C71">"8劃<ns1:g id="SEPARATOR">=</ns1:g>門多薩<ns1:g id="TIMEZONE">|America/Mendoza</ns1:g>"</string>
+    <string msgid="3992109594245379480" name="C72">"11劃<ns1:g id="SEPARATOR">=</ns1:g>梅特拉卡特拉<ns1:g id="TIMEZONE">|America/Metlakatla</ns1:g>"</string>
+    <string msgid="2715229408279026929" name="C73">"15劃<ns1:g id="SEPARATOR">=</ns1:g>墨西哥市<ns1:g id="TIMEZONE">|America/Mexico_City</ns1:g>"</string>
+    <string msgid="4308784353529592128" name="C74">"14劃<ns1:g id="SEPARATOR">=</ns1:g>蒙特雷<ns1:g id="TIMEZONE">|America/Monterrey</ns1:g>"</string>
+    <string msgid="1026967177018172509" name="C75">"14劃<ns1:g id="SEPARATOR">=</ns1:g>蒙特維多<ns1:g id="TIMEZONE">|America/Montevideo</ns1:g>"</string>
+    <string msgid="5677155513568462679" name="C76">"14劃<ns1:g id="SEPARATOR">=</ns1:g>蒙特利爾<ns1:g id="TIMEZONE">|America/Montreal</ns1:g>"</string>
+    <string msgid="7071675194537613715" name="C77">"10劃<ns1:g id="SEPARATOR">=</ns1:g>納索<ns1:g id="TIMEZONE">|America/Nassau</ns1:g>"</string>
+    <string msgid="705452895809394827" name="C78">"10劃<ns1:g id="SEPARATOR">=</ns1:g>紐約<ns1:g id="TIMEZONE">|America/New_York</ns1:g>"</string>
+    <string msgid="615046244335186458" name="C79">"4劃<ns1:g id="SEPARATOR">=</ns1:g>比尤萊<ns1:g id="TIMEZONE">|America/North_Dakota/Beulah</ns1:g>"</string>
+    <string msgid="5843391672611053116" name="C8">"5劃<ns1:g id="SEPARATOR">=</ns1:g>卡薩布蘭加<ns1:g id="TIMEZONE">|Africa/Casablanca</ns1:g>"</string>
+    <string msgid="7462541787750301851" name="C80">"4劃<ns1:g id="SEPARATOR">=</ns1:g>中心<ns1:g id="TIMEZONE">|America/North_Dakota/Center</ns1:g>"</string>
+    <string msgid="5467118811364466464" name="C81">"13劃<ns1:g id="SEPARATOR">=</ns1:g>新塞勒姆<ns1:g id="TIMEZONE">|America/North_Dakota/New_Salem</ns1:g>"</string>
+    <string msgid="1040250446144596478" name="C82">"4劃<ns1:g id="SEPARATOR">=</ns1:g>巴拿馬<ns1:g id="TIMEZONE">|America/Panama</ns1:g>"</string>
+    <string msgid="3734366600481445363" name="C83">"14劃<ns1:g id="SEPARATOR">=</ns1:g>鳳凰城<ns1:g id="TIMEZONE">|America/Phoenix</ns1:g>"</string>
+    <string msgid="2410152141185166321" name="C84">"6劃<ns1:g id="SEPARATOR">=</ns1:g>西班牙港<ns1:g id="TIMEZONE">|America/Port_of_Spain</ns1:g>"</string>
+    <string msgid="2883572094139689939" name="C85">"4劃<ns1:g id="SEPARATOR">=</ns1:g>太子港<ns1:g id="TIMEZONE">|America/Port-au-Prince</ns1:g>"</string>
+    <string msgid="274590042868724214" name="C86">"8劃<ns1:g id="SEPARATOR">=</ns1:g>波多黎各<ns1:g id="TIMEZONE">|America/Puerto_Rico</ns1:g>"</string>
+    <string msgid="2866918562243248306" name="C87">"13劃<ns1:g id="SEPARATOR">=</ns1:g>聖多明各<ns1:g id="TIMEZONE">|America/Santo_Domingo</ns1:g>"</string>
+    <string msgid="2261702707416420550" name="C88">"13劃<ns1:g id="SEPARATOR">=</ns1:g>聖保羅<ns1:g id="TIMEZONE">|America/Sao_Paulo</ns1:g>"</string>
+    <string msgid="8517952667962700432" name="C89">"13劃<ns1:g id="SEPARATOR">=</ns1:g>聖約翰<ns1:g id="TIMEZONE">|America/St_Johns</ns1:g>"</string>
+    <string msgid="2164088076645942134" name="C9">"9劃<ns1:g id="SEPARATOR">=</ns1:g>科納克里<ns1:g id="TIMEZONE">|Africa/Conakry</ns1:g>"</string>
+    <string msgid="1703939848190669830" name="C90">"13劃<ns1:g id="SEPARATOR">=</ns1:g>聖基茨<ns1:g id="TIMEZONE">|America/St_Kitts</ns1:g>"</string>
+    <string msgid="4438261556294969442" name="C91">"13劃<ns1:g id="SEPARATOR">=</ns1:g>聖露西亞<ns1:g id="TIMEZONE">|America/St_Lucia</ns1:g>"</string>
+    <string msgid="3717300223413621820" name="C92">"13劃<ns1:g id="SEPARATOR">=</ns1:g>聖托馬斯<ns1:g id="TIMEZONE">|America/St_Thomas</ns1:g>"</string>
+    <string msgid="964552099122372664" name="C93">"13劃<ns1:g id="SEPARATOR">=</ns1:g>蒂華納<ns1:g id="TIMEZONE">|America/Tijuana</ns1:g>"</string>
+    <string msgid="6254783598629305021" name="C94">"6劃<ns1:g id="SEPARATOR">=</ns1:g>多倫多<ns1:g id="TIMEZONE">|America/Toronto</ns1:g>"</string>
+    <string msgid="2144206125989179089" name="C95">"13劃<ns1:g id="SEPARATOR">=</ns1:g>溫哥華<ns1:g id="TIMEZONE">|America/Vancouver</ns1:g>"</string>
+    <string msgid="3995904432128369027" name="C96">"13劃<ns1:g id="SEPARATOR">=</ns1:g>溫尼伯<ns1:g id="TIMEZONE">|America/Winnipeg</ns1:g>"</string>
+    <string msgid="5667595440938233073" name="C97">"9劃<ns1:g id="SEPARATOR">=</ns1:g>南極<ns1:g id="PHONETIC">:</ns1:g><ns1:g id="TIMEZONE">|Antarctica/South_Pole</ns1:g>"</string>
+    <string msgid="2067640513126652156" name="C98">"10劃<ns1:g id="SEPARATOR">=</ns1:g>朗伊爾城<ns1:g id="TIMEZONE">|Arctic/Longyearbyen</ns1:g>"</string>
+    <string msgid="6750041547603679548" name="C99">"8劃<ns1:g id="SEPARATOR">=</ns1:g>阿拉木圖<ns1:g id="TIMEZONE">|Asia/Almaty</ns1:g>"</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"瀏覽主頁"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"顯示全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"關閉"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"開啟"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享對象"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"使用「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
+    <string msgid="2546936797351540244" name="add_new_sound">"新增"</string>
+    <string msgid="4942914605480888820" name="alarm_alert_dismiss_text">"關閉"</string>
+    <string msgid="4472073417593915002" name="alarm_alert_off_text">"關閉鬧鐘"</string>
+    <string msgid="5723945586913705445" name="alarm_alert_predismiss_title">"預定的鬧鐘"</string>
+    <string msgid="1774416052207651584" name="alarm_alert_snooze_text">"延遲"</string>
+    <string msgid="6958013659168344550" name="alarm_alert_snooze_until">"延後到<ns1:g id="TIME">%s</ns1:g>"</string>
+    <string msgid="7064642998528766113" name="alarm_alert_snoozed_text">"已延後"</string>
+    <string msgid="8810520940995307437" name="alarm_cant_be_dismissed_still_more_than_24_hours_away">"無法關閉 <ns1:g id="ALARM_TIME">%s</ns1:g> 的鬧鐘，您仍需要等待超過 24 小時。"</string>
+    <string msgid="6131529309389084785" name="alarm_deleted">"已刪除鬧鐘"</string>
+    <string msgid="5509897230565826642" name="alarm_is_dismissed">"已關閉 <ns1:g id="ALARM_TIME">%s</ns1:g> 的鬧鐘"</string>
+    <string msgid="5503226382620011088" name="alarm_is_set">"鬧鐘已設定為 <ns1:g id="ALARM_TIME">%s</ns1:g>"</string>
+    <string msgid="7044644119744928846" name="alarm_is_snoozed">"<ns1:g id="ALARM_TIME">%s</ns1:g> 的鬧鐘已延後 10 分鐘"</string>
+    <string msgid="6585658367289194023" name="alarm_missed_text">"<ns1:g id="ALARM_TIME">%s</ns1:g> - <ns1:g id="ALARM_LABEL">%s</ns1:g>"</string>
+    <string msgid="3828345099754063392" name="alarm_missed_title">"聽不到鬧鐘"</string>
+    <string msgid="7242985466344233206" name="alarm_repeat">"重複"</string>
+    <string msgid="2947147071388290814" name="alarm_settings">"鬧鐘"</string>
+    <string msgid="8754499591391638405" name="alarm_sound">"鬧鐘音效"</string>
+    <string msgid="7873594221106531654" name="alarm_today">"今天"</string>
+    <string msgid="131356848787643420" name="alarm_tomorrow">"明天"</string>
+    <string msgid="5710042601177655254" name="alarm_undo">"復原"</string>
+    <string msgid="3476686921490362230" name="alarm_vibrate">"震動"</string>
+    <string msgid="6658289289695673569" name="alarm_volume_muted">"鬧鐘已設為靜音"</string>
+    <string msgid="8506245173912428522" name="alarm_volume_title">"鬧鐘音量"</string>
+    <string msgid="6089433757505898969" name="alarms_blocked_by_dnd">"裝置已設定為完全靜音"</string>
+    <string msgid="883027111895833440" name="all_timers_stopped_notif">"輕按即可查看計時器"</string>
+    <string msgid="1670505720837152766" name="analog_gadget">"指針式時鐘"</string>
+    <string msgid="6674495003718166674" name="app_label">"時鐘"</string>
+    <string msgid="7249150789023936889" name="app_notifications_blocked">"已封鎖時鐘通知"</string>
+    <string msgid="4821982647348750809" name="auto_silence_never">"永不"</string>
+    <string msgid="2012754009554434544" name="auto_silence_title">"鈴聲持續時間："</string>
+    <string msgid="6274174710735449252" name="automatic_home_clock">"自動新增居住地時鐘"</string>
+    <string msgid="6020476321040807273" name="automatic_home_clock_summary">"身處不同時區時新增居住地時鐘"</string>
+    <string msgid="3907838219512538763" name="button_alarms">"新增鬧鐘"</string>
+    <string msgid="4555761857494501363" name="button_cities">"城市"</string>
+    <string msgid="1224356633832430160" name="change_setting_action">"變更"</string>
+    <string msgid="8552462751129256730" name="cities_activity_title">"城市"</string>
+    <string msgid="616847871968019" name="city_checked">"已勾選<ns1:g id="CITY_NAME">%s</ns1:g>"</string>
+    <string msgid="710212932781145918" name="city_unchecked">"未勾選<ns1:g id="CITY_NAME">%s</ns1:g>"</string>
+    <string msgid="8317286807280600391" name="clock_settings">"時鐘"</string>
+    <string msgid="2265011060429742344" name="clock_style">"樣式"</string>
+    <string msgid="3561772046433483980" name="collapse_alarm">"收合鬧鐘"</string>
+    <string msgid="1724111242265208553" name="confirm_remove_custom_ringtone">"使用此音效的鬧鐘和計時器將會改為播放預設音效。"</string>
+    <string msgid="8606408542726189528" name="crescendo_duration_title">"逐漸提升音量"</string>
+    <string msgid="3406310054255354331" name="custom_ringtone_lost_permissions">"無法存取音效內容。"</string>
+    <string msgid="971998564991636532" name="day_concat">"、 "</string>
+    <string msgid="2916376768509623643" name="default_alarm_ringtone_title">"預設鬧鐘音效"</string>
+    <string msgid="5590025289805630372" name="default_label">"鬧鐘"</string>
+    <string msgid="1370799536406862317" name="default_timer_ringtone_title">"計時器已逾時"</string>
+    <string msgid="5732434972457000541" name="delete">"刪除"</string>
+    <string msgid="1841309486023845685" name="description_direction_both">"向左快速滑動以延後，或向右關閉"</string>
+    <string msgid="7448141043674998679" name="description_direction_left">"向左快速滑動可延後"</string>
+    <string msgid="5709209043267548985" name="description_direction_right">"向右快速滑動可關閉鬧鐘"</string>
+    <string msgid="1584894148222639823" name="device_sounds">"裝置音效"</string>
+    <string msgid="2326954556720571358" name="digital_gadget">"數碼時鐘"</string>
+    <string msgid="7204593078688533541" name="dismiss_alarm">"關閉鬧鐘"</string>
+    <string msgid="691506643469501643" name="display_clock_seconds_pref">"顯示時間 (包括秒)"</string>
+    <string msgid="4100909974923444602" name="every_day">"每天"</string>
+    <string msgid="7392616528943305020" name="expand_alarm">"展開鬧鐘"</string>
+    <string msgid="4436139365695453870" name="home_label">"居住地"</string>
+    <string msgid="9199730676287974501" name="home_time_zone">"居住地時區"</string>
+    <string msgid="807894493443834624" name="home_time_zone_title">"居住地時區"</string>
+    <string msgid="3393478155635368097" name="hours_label">"時"</string>
+    <string msgid="5680088738059791288" name="hours_minutes_seconds">"<ns1:g id="HOURS">%d</ns1:g>:<ns1:g id="MINUTES">%02d</ns1:g>:<ns1:g id="SECONDS">%02d</ns1:g>"</string>
+    <string msgid="2782334750243998633" name="invalid_time">"無效時間 <ns1:g id="INVALID_AMPM">%3$s</ns1:g> <ns1:g id="INVALID_HOUR">%1$d</ns1:g>:<ns1:g id="INVALID_MINUTES">%2$d</ns1:g>"</string>
+    <string msgid="900957020728335675" name="invalid_timer">"所選的計時器無效"</string>
+    <string msgid="3104567893212932487" name="invalid_timer_length">"倒數計時器長度無效"</string>
+    <string msgid="162189613902857319" name="label">"標籤"</string>
+    <string msgid="8736179296142915727" name="label_description">"標籤"</string>
+    <string msgid="2138536756534362037" name="lap_number_double_digit">"# <ns1:g id="LAPNUMBER">%02d</ns1:g>"</string>
+    <string msgid="1051159504304610877" name="lap_number_single_digit">"# <ns1:g id="LAPNUMBER">%d</ns1:g>"</string>
+    <string msgid="5306242862476796500" name="loading_widget">"正在載入…"</string>
+    <string msgid="4772010125376647519" name="menu_alarm">"鬧鐘"</string>
+    <string msgid="5612760670606829805" name="menu_clock">"時鐘"</string>
+    <string msgid="4570953476186849841" name="menu_item_help">"說明"</string>
+    <string msgid="2930695838866189483" name="menu_item_night_mode">"螢幕保護程式"</string>
+    <string msgid="1413723516369078665" name="menu_item_settings">"設定"</string>
+    <string msgid="3120860422682721706" name="menu_item_sort_by_gmt_offset">"按時間排序"</string>
+    <string msgid="1762931290495104106" name="menu_item_sort_by_name">"按名稱排序"</string>
+    <string msgid="3396117705293574701" name="menu_stopwatch">"秒錶"</string>
+    <string msgid="6459070074762877114" name="menu_timer">"計時器"</string>
+    <string msgid="3568098128251438588" name="minutes_label">"分"</string>
+    <string msgid="6189446107009577914" name="minutes_seconds">"<ns1:g id="MINUTES">%d</ns1:g>:<ns1:g id="SECONDS">%02d</ns1:g>"</string>
+    <string msgid="5295473204045979335" name="missed_alarm_has_been_deleted">"您錯過的鬧鐘已刪除"</string>
+    <string msgid="665604640028289175" name="missed_named_timer_notification_label">"已錯失的計時：<ns1:g id="NAME">%s</ns1:g>"</string>
+    <string msgid="6661928727623284334" name="missed_timer_notification_label">"已錯失的計時"</string>
+    <string msgid="2650244835760747046" name="next_alarm_description">"下次鬧鐘時間：<ns1:g id="ALARM_TIME">%s</ns1:g>"</string>
+    <string msgid="6136454740115613653" name="next_timer_notif">"下一個計時器：<ns1:g id="TIME_REMAINING">%s</ns1:g>"</string>
+    <string msgid="1017350187324162631" name="night_mode_summary">"螢幕亮度非常低 (昏暗的室內環境適用)"</string>
+    <string msgid="5983813889469616299" name="night_mode_title">"夜間模式"</string>
+    <string msgid="8140632482969193119" name="no_alarm_at">"沒有 <ns1:g id="ALARM_TIME_HOUR">%1$d</ns1:g>:<ns1:g id="ALARM_TIME_MINUTES">%2$d</ns1:g> 的鬧鐘"</string>
+    <string msgid="4463069177414482818" name="no_alarm_scheduled_for_this_time">"尚未為這個時間預設鬧鐘"</string>
+    <string msgid="6429431324842022917" name="no_alarms">"沒有設定鬧鐘"</string>
+    <string msgid="6250998794542941665" name="no_alarms_with_label">"此標籤沒有設定鬧鐘"</string>
+    <string msgid="4624192298397846876" name="no_expired_timers">"沒有已結束的計時器"</string>
+    <string msgid="4986161963178722289" name="no_firing_alarms">"現時沒有響鬧"</string>
+    <string msgid="2008482054428460626" name="no_label_specified">"沒有指定標籤"</string>
+    <string msgid="2115420148192753534" name="no_scheduled_alarms">"沒有已預設的鬧鐘"</string>
+    <string msgid="7712226973337806152" name="open_date_settings">"變更日期和時間"</string>
+    <string msgid="5408769235866082896" name="pick_alarm_to_dismiss">"選擇要關閉的鬧鐘"</string>
+    <string msgid="2064643204455734239" name="remove_sound">"移除"</string>
+    <string msgid="7580922112921069925" name="ringtone_description">"鈴聲"</string>
+    <string msgid="1780742944194267226" name="screensaver_settings">"螢幕保護設定"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜尋"</string>
+    <string msgid="124655952824003246" name="seconds_label">"秒"</string>
+    <string msgid="3607479399424246605" name="selected_cities_label">"選取的城市"</string>
+    <string msgid="5849739030579520686" name="settings">"設定"</string>
+    <string msgid="4778064830147981089" name="shortcut_new_alarm_long">"建立新鬧鐘"</string>
+    <string msgid="3490418929139725538" name="shortcut_new_alarm_short">"新鬧鐘"</string>
+    <string msgid="5194092459678096067" name="shortcut_new_timer_long">"建立新計時器"</string>
+    <string msgid="3793414543219297884" name="shortcut_new_timer_short">"新計時器"</string>
+    <string msgid="435026905074898334" name="shortcut_pause_stopwatch_long">"暫停秒錶"</string>
+    <string msgid="4022667323693785830" name="shortcut_pause_stopwatch_short">"暫停"</string>
+    <string msgid="6134275671119484907" name="shortcut_start_screensaver_long">"開啟螢幕保護程式"</string>
+    <string msgid="3414762073311954753" name="shortcut_start_screensaver_short">"螢幕保護程式"</string>
+    <string msgid="9183061797046030376" name="shortcut_start_stopwatch_long">"開始計時"</string>
+    <string msgid="5469715764277476796" name="shortcut_start_stopwatch_short">"開始"</string>
+    <string msgid="6012855475009670997" name="silent_default_alarm_ringtone">"鬧鐘鈴聲預設為靜音"</string>
+    <string msgid="6177287302898634765" name="silent_ringtone_title">"靜音"</string>
+    <string msgid="1097309861110780483" name="snooze_duration_title">"延後時間長度"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999 +"</string>
+    <string msgid="9220132827343760767" name="stopwatch_service_desc">"秒錶通知的處理操作。"</string>
+    <string msgid="6992264696039004233" name="sw_lap_button">"單圈"</string>
+    <string msgid="3535420316052647126" name="sw_notification_lap_number">"第 <ns1:g id="NUMBER">%d</ns1:g> 圈"</string>
+    <string msgid="2422084453454138042" name="sw_pause_button">"暫停"</string>
+    <string msgid="6616804728322906117" name="sw_reset_button">"重設"</string>
+    <string msgid="2569360966002022248" name="sw_resume_button">"恢復"</string>
+    <string msgid="4478648110382859382" name="sw_share_button">"分享"</string>
+    <string msgid="614390674795945007" name="sw_share_laps">"單圈時間："</string>
+    <string msgid="7703563468204234405" name="sw_share_main">"我的時間：<ns1:g id="TIME">%s</ns1:g>"</string>
+    <string msgid="8373422516681242270" name="sw_start_button">"開始"</string>
+    <string msgid="6364358842808263589" name="swn_paused">"已暫停"</string>
+    <string msgid="6096646178998456004" name="timer_accessibility_one_minute_added">"計時器延長咗一分鐘，<ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="8503877052873671219" name="timer_accessibility_started">"宜家計緊時，<ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="2753501043114605474" name="timer_accessibility_stopped">"計時器已經暫停，<ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="207816824783281446" name="timer_add_minute">"+ 1:00"</string>
+    <string msgid="862733633862574752" name="timer_add_timer">"新增計時器"</string>
+    <string msgid="3572868404230815644" name="timer_cancel">"取消"</string>
+    <string msgid="7327923392567128060" name="timer_canceled">"已取消計時"</string>
+    <string msgid="4381027137335885547" name="timer_created">"已建立倒數計時器"</string>
+    <string msgid="8699122001991909302" name="timer_delete">"刪除"</string>
+    <string msgid="9110322362460029392" name="timer_deleted">"已刪除倒數計時器"</string>
+    <string msgid="8794915342760383536" name="timer_descriptive_delete">"刪除 <ns1:g id="NUMBER_STRING">%s</ns1:g>"</string>
+    <string msgid="9085073572920385362" name="timer_multi_missed">"已錯失 <ns1:g id="NUMBER">%d</ns1:g> 次計時"</string>
+    <string msgid="1239104626836080409" name="timer_multi_times_up">"<ns1:g id="NUM_TIMERS">%d</ns1:g> 個倒數計時器逾時"</string>
+    <string msgid="4933184831583137249" name="timer_notification_label">"計時器"</string>
+    <string msgid="1613266446037145138" name="timer_notifications_hours">"<ns1:g id="REMAINING"> %3$s</ns1:g> <ns1:g id="HOURS">%1$s</ns1:g>"</string>
+    <string msgid="4788475350933275505" name="timer_notifications_hours_minutes">"尚餘 <ns1:g id="HOURS">%1$s</ns1:g> <ns1:g id="MINUTES"> %2$s</ns1:g>"</string>
+    <string msgid="4666176878038730417" name="timer_notifications_hours_minutes_seconds">"<ns1:g id="REMAINING"> %3$s</ns1:g> <ns1:g id="HOURS">%1$s</ns1:g> <ns1:g id="MINUTES"> %2$s</ns1:g> <ns1:g id="SECONDS"> %4$s</ns1:g>"</string>
+    <string msgid="8168090805113197804" name="timer_notifications_hours_seconds">"<ns1:g id="REMAINING"> %3$s</ns1:g> <ns1:g id="HOURS">%1$s</ns1:g> <ns1:g id="SECONDS"> %4$s</ns1:g>"</string>
+    <string msgid="5481375048976427255" name="timer_notifications_less_min">"尚餘少於一分鐘"</string>
+    <string msgid="8543138714519498893" name="timer_notifications_minutes">"<ns1:g id="REMAINING"> %3$s</ns1:g> <ns1:g id="MINUTES">%2$s</ns1:g>"</string>
+    <string msgid="7059651926379491350" name="timer_notifications_minutes_seconds">"<ns1:g id="REMAINING"> %3$s</ns1:g> <ns1:g id="MINUTES">%2$s</ns1:g> <ns1:g id="SECONDS"> %4$s</ns1:g>"</string>
+    <string msgid="122102514929728907" name="timer_notifications_seconds">"<ns1:g id="REMAINING"> %3$s</ns1:g> <ns1:g id="SECONDS">%4$s</ns1:g>"</string>
+    <string msgid="3748323712728398743" name="timer_pause">"暫停"</string>
+    <string msgid="5941160896040771462" name="timer_paused">"計時器已暫停"</string>
+    <string msgid="8645224089494875062" name="timer_plus_1_min">"多加 1 分鐘"</string>
+    <string msgid="6631211310420106116" name="timer_plus_one">"增加 1 分鐘"</string>
+    <string msgid="6052775962092160851" name="timer_remaining_multiple">"尚餘"</string>
+    <string msgid="6782851171906765864" name="timer_remaining_single">"尚餘"</string>
+    <string msgid="7848424809190171640" name="timer_reset">"重設"</string>
+    <string msgid="7530633132757866087" name="timer_reset_all">"重設所有計時器"</string>
+    <string msgid="2256002649882602433" name="timer_service_desc">"計時器通知的處理操作。"</string>
+    <string msgid="7955522143086154795" name="timer_settings">"倒數計時器"</string>
+    <string msgid="2488277921227564704" name="timer_setup_description">"<ns1:g id="HOURS">%1$s</ns1:g> <ns1:g id="MINUTES">%2$s</ns1:g> <ns1:g id="SECONDS">%3$s</ns1:g>"</string>
+    <string msgid="896163086604894735" name="timer_sound">"計時器音效"</string>
+    <string msgid="6158486445614356442" name="timer_start">"開始"</string>
+    <string msgid="3361154678667736722" name="timer_stop">"停止"</string>
+    <string msgid="9080780442843034376" name="timer_stop_all">"停止所有倒數計時器"</string>
+    <string msgid="9190440395938519009" name="timer_times_up">"時間已到"</string>
+    <string msgid="7788920024785587518" name="timer_vibrate_title">"計時器震動"</string>
+    <string msgid="5570729467344408506" name="timers_in_use">"<ns1:g id="NUMBER">%d</ns1:g> 個計時器"</string>
+    <string msgid="3186191253226005149" name="timers_stopped">"<ns1:g id="NUMBER">%d</ns1:g> 個計時器已暫停"</string>
+    <string msgid="6637522029614550112" name="unknown_ringtone_title">"不明"</string>
+    <string msgid="2655009276035357497" name="unmute_alarm_volume">"取消靜音"</string>
+    <string msgid="6937131248843413357" name="volume_button_setting_title">"音量按鈕"</string>
+    <string msgid="4268917518596832096" name="week_start_title">"一個星期開始於"</string>
+    <string msgid="5911196322328341288" name="world_day_of_week_label">"/ <ns1:g id="LABEL">%s</ns1:g>"</string>
+    <string msgid="5132012793021696377" name="world_hours_minutes_ahead">"早 <ns1:g id="HOURS">%1$s</ns1:g> <ns1:g id="MINUTES">%2$s</ns1:g>"</string>
+    <string msgid="8978567362140923698" name="world_hours_minutes_behind">"遲 <ns1:g id="HOURS">%1$s</ns1:g> <ns1:g id="MINUTES">%2$s</ns1:g>"</string>
+    <string msgid="2504465609269004794" name="world_hours_tomorrow">"明天，<ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="4425086322610882745" name="world_hours_yesterday">"昨天<ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="625559988238637652" name="world_time_ahead">"早 <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="5395771290726167865" name="world_time_behind">"遲 <ns1:g id="TIME">%1$s</ns1:g>"</string>
+    <string msgid="7633067935455580920" name="world_tomorrow">"明天"</string>
+    <string msgid="5430990920477833164" name="world_yesterday">"昨天"</string>
+    <string msgid="1672779351352629681" name="your_sounds">"您的音效"</string>
+</resources>
